@@ -16,7 +16,7 @@ This system is by no means balanced, and often is completely broken at times.
 if you notice something working in a weird way or something that seems 
 exploitable please bring it up to me.
 
-## Well what is a "Sword to Shield" Erina?
+## Well what is a "Sword to Shield"?
 Sword to shield is a TTRPG (Short for tabletop role playing game) which is a
 sort of role playing game that runs in a collective conscience rather than as a
 computer program on thinking rocks. I am largely making this system for my own
@@ -29,22 +29,22 @@ Its easy.
 # Index
 If you're a player having trouble navigating, use these helpful links.
 
-### [Classes](https://github.com/ErinaTheDummy/SwordToShield/tree/main/Character_Creation/Classes)
+### [Classes](https://github.com/ETheDummy/SwordToShield/tree/main/Character_Creation/Classes)
 
-### [Body Types](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/BodyTypes.md)
+### [Body Types](https://github.com/ETheDummy/SwordToShield/blob/main/Character_Creation/BodyTypes.md)
 
-### [Backgrounds](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/Backgrounds.md)
+### [Backgrounds](https://github.com/ETheDummy/SwordToShield/blob/main/Character_Creation/Backgrounds.md)
 
-### [Feats](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/Feats.md)
+### [Feats](https://github.com/ETheDummy/SwordToShield/blob/main/Character_Creation/Feats.md)
 
-### [Core Rules](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md)
+### [Core Rules](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md)
 
-### [Items](https://github.com/ErinaTheDummy/SwordToShield/blob/main/ItemCompendium.md)
+### [Items](https://github.com/ETheDummy/SwordToShield/blob/main/ItemCompendium.md)
 
-### [Spells](https://github.com/ErinaTheDummy/SwordToShield/blob/main/SpellCompendium.md)
+### [Spells](https://github.com/ETheDummy/SwordToShield/blob/main/SpellCompendium.md)
 
-### [Magic Items](https://github.com/ErinaTheDummy/SwordToShield/blob/main/TomeOfMagicalCreation.md)
+### [Magic Items](https://github.com/ETheDummy/SwordToShield/blob/main/TomeOfMagicalCreation.md)
 
-### [AccursedJournal](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md)
+### [AccursedJournal](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md)
 
-### [Lore](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/Lore.md)
+### [Lore](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Lore.md)

@@ -1608,7 +1608,7 @@ it takes its turn immediately after yours. After the spell ends the slime melts
 away, becoming a green puddle.
 
 ```
-[Green Slime Statblock](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
+[Green Slime Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
 
 ```
 

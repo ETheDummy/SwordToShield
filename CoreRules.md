@@ -615,7 +615,7 @@ Language of The Hells.
 Language of leviathans, beings older than the universe. 
 
 ## Corruption
-While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
+While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
 
 ### Radiative Corruptants
 A radiative corruptant corrupts over an area of effect, with the corruption chance and corruptive effects getting more and more dire as you get closer. The following chart outlines distance from different strength radiative corruptants and how that might affect an adventurer as well as constitution save DCs for resisting the corruptive effect.
@@ -716,7 +716,7 @@ The following chart details the amount of madnesses you have at a given sanity l
 ```
 
 #### Madness Effects
-Refer to the [accursed journal](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#madness) for the chart to randomly roll on for the effects of madness. 
+Refer to the [accursed journal](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#madness) for the chart to randomly roll on for the effects of madness. 
 
 ### Total Insanity
 While Insane, you lose the ability to think logically, automatically failing any wisdom, intelligence, or charisma saves or checks. You also lose the ability to use any class features, and may only dash, attack, or hide on your turn. Going insane knocks you down to base survival instincts. 

@@ -566,7 +566,7 @@ You become immortal and fall into an eternal slumber from which you will only wa
 You are dragged to hell. You cannot be resurrected and may only be saved by divine favor or an expedition from a party of extremely skilled adventurers meaning your friends may save you one day. Unfortunately for you a second in the material world is 1000 years in hell. 
 
 #### Time loop (4)
-You find yourself trapped in a time loop, beginning one minute before you gain this corruption and ending right as your body begins to erupt into pure energy, at which point the time loop restarts. The rest of the world simply watches you vanish in a bright explosion of light as you are [obliterated](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#obliterated). You find yourself trapped in a time loo-
+You find yourself trapped in a time loop, beginning one minute before you gain this corruption and ending right as your body begins to erupt into pure energy, at which point the time loop restarts. The rest of the world simply watches you vanish in a bright explosion of light as you are [obliterated](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#obliterated). You find yourself trapped in a time loo-
 
 #### Never-ending Nightmare (5)
 You become immortal and fall asleep the same as eternal sleep, but rather than seeing nothing for near eternity, you are trapped in your worst nightmare, and it repeats for the rest of time.

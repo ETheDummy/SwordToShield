@@ -8,7 +8,7 @@ Social standing determines your place within society and the kind of wealth you 
 Your culture determines the atmosphere of the social climate you were raised in. Your culture often reflects values that you deny or hold dear, such as a religion or social stigmas. You may add a culture onto your character, but this grants you little more than roleplay quirks as no one culture is greater than any other in regards to statistical power.
 
 ## languages
-You begin with knowledge of two [languages](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#languages) of your choice.
+You begin with knowledge of two [languages](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#languages) of your choice.
 
 # Social Standings
 Some GMs may not allow you to take a social standing above gentry.

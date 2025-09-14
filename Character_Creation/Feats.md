@@ -119,4 +119,4 @@ Your hitpoint maximum increases by an amount equal to twice your level. Each tim
 You gain proficiency in saving throws for one stat and your score for that stat increases by 1.
 
 ### Mutation
-You gain 2 [minor beneficial corruptions](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#minor-beneficial-corruptions-2) of your choice
+You gain 2 [minor beneficial corruptions](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#minor-beneficial-corruptions-2) of your choice

@@ -174,4 +174,4 @@ As an action you may expend 5 hit dice to attune completely to your mind and bod
 ### Limitless
 - **Requires: level 10**
 
-As an action you may expend 10 hit dice and bolster your spiritual aura as a shield around you. For the next 5 turns you fall under the effect of the [Invincibility](https://github.com/ErinaTheDummy/SwordToShield/blob/main/SpellCompendium.md#:~:text=they%20fall%20dead.-,Invincibility) spell. You may only use this technique once per rest, as it is especially physically taxing.
+As an action you may expend 10 hit dice and bolster your spiritual aura as a shield around you. For the next 5 turns you fall under the effect of the [Invincibility](https://github.com/ETheDummy/SwordToShield/blob/main/SpellCompendium.md#:~:text=they%20fall%20dead.-,Invincibility) spell. You may only use this technique once per rest, as it is especially physically taxing.

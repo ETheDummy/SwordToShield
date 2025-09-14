@@ -86,7 +86,7 @@ against the difficulty class of the spell level specified on the chart below. On
 
 ```
 
-If your sanity [(outlined in CoreRules.md)](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md#sanity) ever drops to 0 you become possessed by your patron for 1 hour, who uses your body as a vessel to exert their will, after which time you regain control of your body with 1 sanity.  
+If your sanity [(outlined in CoreRules.md)](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#sanity) ever drops to 0 you become possessed by your patron for 1 hour, who uses your body as a vessel to exert their will, after which time you regain control of your body with 1 sanity.  
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier. If your constitution modifier increases by any means, reflect that change retroactively in your maximum hp.
