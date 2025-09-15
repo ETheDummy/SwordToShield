@@ -329,7 +329,7 @@ When you are hit by an attack that deals piercing damage the weapon thrusts deep
 
 ### Bleeding Wound
 When you are hit by an attack that deals slashing damage you may sustain extensive damage to surface level soft tissues, leaving a grievous wound if untreated. When hit by a slashing weapon and dealt maximum damage you begin
-to bleed, taking 1d4 damage at the start of each of your turns until you or another creature expend an action to stop the bleeding using a bandage or medical kit. You may also stop the bleeding with a healing spell that rolls a 10 or higher for hitpoints regained or a spell such as lesser restoration. This damage due to bleeding cannot be reduced in any way. 
+to bleed, taking 1d4 damage at the start of each of your turns until you or another creature expend an action to stop the bleeding using a bandage or medical kit. You may also stop the bleeding with a healing spell that rolls a 5 or higher for hitpoints regained or a spell such as lesser restoration. This damage due to bleeding cannot be reduced in any way. 
 
 ### Fractures and Breaks
 When you take an amount of bludgeoning damage in a turn that is greater than or equal to half your hitpoints roll a d4. On a 1 your sustain a Break or Fracture. Refer to the chart to see the severity of the injury based on the amount of damage sustained (note that each level of severity stacks with the previous ones)

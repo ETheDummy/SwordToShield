@@ -63,20 +63,20 @@ Symbol: A hand holding a shield
 With the appearance of a beautiful human woman that has long flowing white hair, any one of thousands of facial arrangements and complexions, flowing golden robes, and graceful wings like those of a dove, it is forgivable that Skotos could be mistaken for an angel or goddess of light. Although shrouded in folds of light, her intentions are entirely impure. Her harmonic, harp-like voice only serving as a tool to deceive. Skotos is the patron deity of all those who harbor such greed that they justify any means to satiate it. She often makes one-sided deals with humanoids, tricking them into giving up years of their life to heal loved ones, or parts of their souls and a bit of their luck for everlasting life.  
 
 ### Bishu
-Lesser Deity (Unknown)
-Masculine Presence
-Domains: Conquest, Vengeance, War, Forge
-Posture: Outwardly high and mighty, but secretly wrathful.
-Symbol: A dragon's head with eyes slitted horizontally
+Lesser Deity (Unknown)\
+Masculine Presence\
+Domains: Conquest, Vengeance, War, Forge\
+Posture: Outwardly high and mighty, but secretly wrathful.\
+Symbol: A dragon's head with eyes slitted horizontally\
 
 A golden dragon with 5 heads and 4 sets of wings.
 
 ### Asmodeus 
-Lesser Deity (Unknown)
-Masculine Presence
-Domains: Pleasure, Pain, Punishment, Conquest
-Posture: 
-Symbol: The scalp of a goat, horns intact
+Lesser Deity (Unknown)\
+Masculine Presence\
+Domains: Pleasure, Pain, Punishment, Conquest\
+Posture: \
+Symbol: The scalp of a goat, horns intact\
 
 Red skinned humanoid with long black twisted goat horns, and the legs of a goat.
 
@@ -94,11 +94,11 @@ A massive creature shrouded in darkness with 8 red eyes peering from the darknes
 
 ### Coinneach 
 
-Greater Deity (Forgotten)
-Masculine Presence 
-Domains: Rot, Death, Rebirth 
-Posture: Silent and mysterious, seeks to bring rot to all aspects of reality. 
-Symbol: A birds eye pendant of a wasp or the side profile of a striking cobra.
+Greater Deity (Forgotten)\
+Masculine Presence \
+Domains: Rot, Death, Rebirth \
+Posture: Silent and mysterious, seeks to bring rot to all aspects of reality. \
+Symbol: A birds eye pendant of a wasp or the side profile of a striking cobra.\
 
 Coinneach (Coin-neck) is a son of Mortis, conceived upon An'Ire's creation of life, specifically nature. 
 
@@ -161,4 +161,4 @@ Symbol: A four pointed star
 
 The patron god of sentient constructs, Blaise is said to be the father of the forged, a race of intelligent and emotional constructs. He calls upon all of his worshipers to hold steadfast in their convictions, just as he did in his rise to godhood. 
 
-It is a widely accepted fact that Blaise was once a mortal man, who's folly caused power to fall into the hands of evil and death to befall entire populations, but in his quest of vengeance against those who wronged him he found redemption. 
+It is a widely accepted fact that Blaise was once a mortal man, who's folly caused power to fall into the hands of evil and death to befall entire civilizations, but in his quest of vengeance against those who wronged him he found redemption. 

@@ -463,13 +463,13 @@ Your skin secretes a thick substance which neutralizes one type of damage which 
 ```
 
 #### Muscular Growth (4)
-Your muscles grow large and unruly. You gain a +4 to your strength score. 
+Your muscles grow large and unruly. You gain a +6 to your strength score. 
 
 #### Magical Connection (5)
-Attuned to the corrupted magic within you, you may cast detect magic at will. 
+Attuned to the corrupted magic within you, you may cast detect magic and counterspell (third level) at will. 
 
 #### Elegant form (6)
-You grow slender and light. You gain a +4 to your dexterity score
+You grow slender and light. You gain a +6 to your dexterity score
 
 #### Shimmering Skin (7)
 Your skin shimmers with different colors and hues like that of a chameleon. As an action you may control the colors of your skin, allowing you to turn invisible unless a creature succeeds a DC 20 investigation or perception check to spot you. You become visible again one turn after you move or take another action.
@@ -490,7 +490,7 @@ As an action on your turn you may expend 1d4 (rolled before expending) hit dice 
 If you are immune to a damage type you regain hitpoints equal to the damage you would take if you were not immune when you are targeted by an effect that deals that damage type. If you are not already immune to a damage type you gain the effects of "Elemental Immunity" but not the effects of this corruption.
 
 #### Hyper Regeneration (13)
-At the start of each of your turns you regain 1d8 + your constitution modifier hitpoints.
+At the start of each of your turns you regain 1d8 + your constitution modifier hitpoints. If any of your limbs are removed from your body they regrow over the course of 1d4 turns. In order to die you must be reduced to negative hp greater than or equal to your max HP.
 
 #### Otherworldly Boon (14)
 A random creature across the planes learns of your existence and wishes you success. Once per session whenever you fail a check your GM may choose for you to succeed instead, as your otherworldly benefactor tips the scales in your balance. roll a 1d4 for which creature learns of you from the following:
