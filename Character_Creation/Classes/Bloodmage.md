@@ -177,7 +177,7 @@ You may expend 8 bloodpoints as an action to conjure forth a 20 foot cone of blo
 You may control blood as an action and use it to move objects no greater than 30 pounds in weight and to manipulate items from afar. The range of your ability to do so is normally 30 feet, but you may double this range at the cost of 2 bloodpoints per doubling. The maximum range is 1000 ft. There must be a free source of blood to use this ability, a wound or a dead creature would suffice.
 
 ### Thirsty Blade
-Your letting blade yearns for bloodshed. When you have 3 or fewer bloodpoints on the start of your turn you gain advantage on attacks with your letting blade. 
+Your letting blade yearns for bloodshed. When you have 3 or fewer bloodpoints on the start of your turn you gain advantage on attacks with your letting blade until you gain 3 or more bloodpoints. 
 
 ### Blood Empowered Strike
 You may use a bonus action to expend 5 bloodpoints and grant advantage to your next attack.
@@ -192,7 +192,7 @@ As an action you may expend 3 bloodpoints to cast disguise self.
 Rather than blessing a dagger over a rest, you may choose to bless a shortsword, allowing you to use it to siphon bloodpoints.
 
 ### Advanced Circulation
-As a bonus action you may expend 6 bloodpoints and increase your circulation for 1d6 turns. While your circulation is increased you gain 15 feet of extra walking speed and ignore the effects of exhaustion.
+As a bonus action you may expend 6 bloodpoints and increase your circulation for 1 minute. While your circulation is increased you gain 15 feet of extra walking speed and ignore the effects of exhaustion.
 
 ### Natural Siphon
 You perform a ritual to bless your natural weapons, damage dealt by any of your natural attacks siphons bloodpoints equal to the damage you deal with them.
@@ -290,7 +290,7 @@ Blood Mount
 Monstrosity (Abomination)
 HP: 20
 AC: 14
-Speed: Walk 45ft OR Climb 50ft OR Fly 50ft OR Swim 50ft (pick 2)
+Speed: Walk 60ft OR Climb 50ft OR Fly 50ft OR Swim 50ft (pick 2)
 Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
 | 14| 12| 12| 03| 12| 03|

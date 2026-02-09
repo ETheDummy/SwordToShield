@@ -394,6 +394,17 @@ While attuned to this armor you have resistance to the damage type associated wi
 
 ```
 
+```
+
+Bottomless Bag
+Type: Magical Trinket
+Rarity: Rare
+Attunement: N
+Description:
+This magical bag leads to an extra-dimensional space, a pocket of reality prime for holding equipment. You may store up to 500 lbs worth of equipment in this bag, and may pull any item stored within out as an action. This bag always weights 5 pounds, never increasing even when full. If you turn this bad upside down all the items within will pour out, causing an extreme reaction as you are thrust back a distance corresponding to the mass of all the items within. If you store more than 500 lbs of equipment within the bag it will rip and create a portal to the astral plane within, rendering the bag mostly useless and permanently leaving your items adrift in the realm of dreams. The atmosphere of the bag is harmful to life, and living creatures that need to breathe will quickly begin to suffocate within it after 1 minute regardless of their ability to hold their breath. 
+
+```
+
 
 # Legendary Magic Items
 

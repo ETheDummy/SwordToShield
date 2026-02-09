@@ -231,6 +231,9 @@ an oil-soaked creature takes 1d8+2 fire damage, and 1d6 fire damage on each
 subsequent turn until extinguished. A creature that starts it's turn in or 
 enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
 
+### Flask of holy water
+This flask of holy water may be thrown at one creature, shattering on a hit and causing the contents to shower onto the creature. A Monstrosity, Demon, or Devil, Undead creature in contact with holy water takes 3d6 radiant damage at the start of their turn and cannot regain health until the holy water dries. A single flask of holy water dries at the start of your next turn after throwing it. 
+
 ### Potion of Healing
 A flask of red liquid which heals 2d4+2 hit points when consumed. May be 
 consumed as a bonus action.
