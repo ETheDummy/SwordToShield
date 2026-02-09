@@ -16,7 +16,7 @@ Spellcasting can be granted to a character by a wide variety of things like
 feats, boons, class features, and much more. Spells generally follow this
 template:
 
-```
+---
 
 Spell Name (Spell Level)
 
@@ -27,14 +27,14 @@ Casting Time:
 Description:
 This is where the spell description goes!
 
-```
+---
 
 If you wish to make your own spells, as a GM or as a player, please follow this
 guideline.
 
 # Cantrips
 
-```
+---
 
 Acid Splash (Cantrip) (1)
 
@@ -47,9 +47,9 @@ You conjure a volume of acid and throw it at one point you can see within
 range. Two creatures of your choice within 5 feet of the point targeted must
 succeed a dexterity saving throw or take 1d6 acid damage.
 
-```
+---
 
-```
+---
 
 Thunderous Blade (Cantrip) (2)
 
@@ -62,9 +62,9 @@ You speak words of power into a melee weapon in your hands. For one round after
 casting, the next attack with this weapon will deal an additional 1d6 thunder
 damage. Once this damage is dealt the spell ends.
 
-```
+---
 
-```
+---
 
 Necrotic Grasp (Cantrip) (3)
 
@@ -78,9 +78,9 @@ a ranged spell attack, on a hit the target takes 1d8 necrotic damage. Undead
 creatures damaged by this spell have disadvantage on attack rolls and skill
 checks until your next turn.
 
-```
+---
 
-```
+---
 
 Control Fire (Cantrip) (4)
 
@@ -106,9 +106,9 @@ If you cast this spell multiple times, you can have up to three
 non-instantaneous effects created by it active at a time, and you can dismiss 
 such an effect as an action.
 
-```
+---
 
-```
+---
 
 Create Fire (Cantrip) (5)
 
@@ -122,9 +122,9 @@ Any creature within the area of the fire when it is created must make a
 dexterity saving throw or take 1d8 fire damage, this is also true of any
 creature which enters the area of the spell during its duration.
 
-```
+---
 
-```
+---
 
 Lights (Cantrip) (6)
 
@@ -138,9 +138,9 @@ directions around them. You may move these lights as a free action once
 a turn, and you are capable of formeding them into the shape of one medium sized 
 humanoid or three small sized creatures.
 
-```
+---
 
-```
+---
 
 Eldritch Blast (Cantrip) (7)
 
@@ -154,9 +154,9 @@ attack, on a hit the target takes 1d10 force damage.
 
 This spell creates two blasts at 5th level, and 3 blasts at 10th level.
 
-```
+---
 
-```
+---
 
 Flame Bolt (Cantrip) (8)
 
@@ -168,9 +168,9 @@ Description:
 You hurl a bolt of burning flame at one creature within range. Make a ranged
 spell attack, on a hit the target takes 1d10 fire damage.
 
-```
+---
 
-```
+---
 
 Friends (Cantrip) (9)
 
@@ -193,9 +193,9 @@ the following:
 
 If you are unable to speak one of these phrases the spell does not take effect.
 
-```
+---
 
-```
+---
 
 Frostbite (Cantrip) (10)
 
@@ -208,9 +208,9 @@ You evoke bitter cold upon one creature within range. The target must make a
 constitution saving throw or take 1d6 cold damage and suffer disadvantage on
 its next melee weapon attack.
 
-```
+---
 
-```
+---
 
 Lesser Flaming Blade (Cantrip) (11)
 
@@ -224,9 +224,9 @@ point your hand passes. The next attack with this weapon deals fire damage equal
 to your casting modifier to one creature within 5 feet of the target of your 
 melee weapon attack.
 
-```
+---
 
-```
+---
 
 Guidance (Cantrip) (12)
 
@@ -239,9 +239,9 @@ You touch one creature, this creature is capable of rolling 1d6 and adding it
 to the total of one of their rolls for the duration of the spell. Once the 
 creature rolls this die the spell ends.
 
-```
+---
 
-```
+---
 
 Control Air (Cantrip) (13)
 
@@ -261,9 +261,9 @@ to 10 feet away from you. It isn't pushed with enough force to cause damage.
 - You create a harmless sensory effect using air, such as causing leaves to 
 rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
-```
+---
 
-```
+---
 
 Swarm (Cantrip) (14)
 
@@ -276,9 +276,9 @@ You conjure a swarm of bugs on or around one creature within range. The target
 must make a constitution saving throw or take 1d6 poison damage and use their
 reaction to move in a random direction as they swat away the swarm.
 
-```
+---
 
-```
+---
 
 Light (Cantrip) (15)
 
@@ -292,9 +292,9 @@ for 10 more. If you instead wish to cast this spell on a creature, make a
 melee spell attack. On a hit the target is blinded until their next turn or
 blinded by the duration if they are sensitive to light.
 
-```
+---
 
-```
+---
 
 Lightning Whip (Cantrip) (16)
 
@@ -309,9 +309,9 @@ within range. You may choose to lash or pull the target, with a lash dealing
 directly in front of you. You cannot pull a creature that is more than a size 
 larger than you.
 
-```
+---
 
-```
+---
 
 Mage Hand (Cantrip) (17)
 
@@ -326,9 +326,9 @@ your action to make the hand interact with an object. The hand may carry up to
 10 pounds. If you wish to attack a creature with this spell roll a ranged spell
 attack, on a hit the target takes 1d4 force damage. 
 
-```
+---
 
-```
+---
 
 Mending (Cantrip) (18)
 
@@ -342,9 +342,9 @@ As long as the break is no larger than 1 feet in any dimension this spell fixes
 it as if it was never broken. When this spell is cast on a construct the construct
 regains 1d8 hitpoints.
 
-```
+---
 
-```
+---
 
 Message (Cantrip) (19)
 
@@ -357,9 +357,9 @@ You choose one creature that you know the general location of within range and
 whisper a short message that only they can hear. The target is capable of
 whispering back a short message that only you can hear.
 
-```
+---
 
-```
+---
 
 Cut Thoughts (Cantrip) (20)
 
@@ -374,9 +374,9 @@ roll a 1d4 next time it makes a saveing throw or attack and remove the roll from
 its total. If the target does not make a saving throw or attack before the start
 of your next turn the spell ends.
 
-```
+---
 
-```
+---
 
 Minor Illusion (Cantrip) (21)
 
@@ -392,9 +392,9 @@ The illusion is capable of being an image, object, sound or combination thereof.
 If a creature uses an action to inspect the illusion they make an investigation
 check against your spell DC, seeing through the illusion on a success. 
 
-```
+---
 
-```
+---
 
 Shape earth (Cantrip) (22)
 
@@ -413,9 +413,9 @@ lasts for one hour
 - Turn the area into difficult terrain if it is not already or turn difficult
 terrain into normal terrain
 
-```
+---
 
-```
+---
 
 Poison Spray (Cantrip) (23)
 
@@ -427,9 +427,9 @@ Description:
 You conjure a spout of poison targeted at one creature within range. The target
 must make a constitution saving throw or take 1d12 poison damage.
 
-```
+---
 
-```
+---
 
 Prestidigitation (Cantrip) (24)
 
@@ -452,9 +452,9 @@ which dissipates after 6 seconds
 
 You may create up to three of these magical effects through multiple castings.
 
-```
+---
 
-```
+---
 
 Bestial Visage (Cantrip) (25)
 
@@ -468,9 +468,9 @@ within your reach. Make a melee spell attack, on a hit the target takes
 1d10 acid damage. After you make the attack the natural weapons dissipate and
 your body returns to normal  
 
-```
+---
 
-```
+---
 
 Produce Flame (Cantrip) (26)
 
@@ -486,9 +486,9 @@ If you wish to attack a creature with this spell make a ranged spell attack as
 you hurl it up to 30 feet at one target. On a hit the target takes 1d8 fire
 damage.
 
-```
+---
 
-```
+---
 
 Ray of Frost (Cantrip) (27)
 
@@ -502,9 +502,9 @@ spell attack against the target, on a hit the target takes 1d8 cold damage. A
 creature damaged by this spell loses 10 feet of movement speed until the start
 of your turn.
 
-```
+---
 
-```
+---
 
 Resistance (Cantrip) (28)
 
@@ -517,9 +517,9 @@ You touch one creature and bless them with resistance. During the duration, the
 target may add the result of 1d4 to a saving throw of their choice. The spell
 then ends.
 
-```
+---
 
-```
+---
 
 Sacred Flame (Cantrip) (29)
 
@@ -532,9 +532,9 @@ Light as violent as flame shines down upon one creature you can see within
 range. The target must make a dexterity saving throw or take 1d8 radiant damage.
 Cover grants no benifit to this saving throw. 
 
-```
+---
 
-```
+---
 
 Shape Water (Cantrip) (30)
 
@@ -557,9 +557,9 @@ the water, the water thaws after 1 hour along with any creatures frozen within.
 You may have no more than two of these effects occuring at once through multiple
 castings of this spell.
 
-```
+---
 
-```
+---
 
 Shocking Grasp (Cantrip) (31)
 
@@ -573,9 +573,9 @@ creature within range. Make a melee spell attack, on a hit the target takes 1d8
 lightning damage and must make a stagger check. If the target is wearing metal 
 you gain advantage on the attack roll.
 
-```
+---
 
-```
+---
 
 Save the Dying (Cantrip) (32)
 
@@ -588,9 +588,9 @@ You draw lifeforce from a small piece of yourself and touch one dying creature,
 stabilizing them. The creature's hp becomes 1 but they remain unconcious for
 1d4 hours or until they regain another point of HP.
 
-```
+---
 
-```
+---
 
 Sweeping Blades (Cantrip) (33)
 
@@ -603,9 +603,9 @@ You throw your hands outwards as you conjure spectral swords sweeping in a
 circular pattern around you. Every creature within 5 feet of you must make
 a dexterity saving throw or take 1d6 slashing damage.
 
-```
+---
 
-```
+---
 
 Thorn Whip (Cantrip) (34)
 
@@ -618,9 +618,9 @@ You conjure a thorny whip made of vine and slash out at one creature within
 range. The target must make a dexterity saving throw or take 1d4 slashing and
 1d4 poison damage.
 
-```
+---
 
-```
+---
 
 Thunderclasp (Cantrip) (35)
 
@@ -633,9 +633,9 @@ You clasp your hands together and shout, conjuring thunder from your body. Every
 creature within 5 feet of you must make a constitution saving throw or take
 1d6 thunder damage and be pushed 5 feet away.
 
-```
+---
 
-```
+---
 
 Toll The Dead (Cantrip) (36)
 
@@ -648,9 +648,9 @@ Choose one creature within range, this creature hears the loud tolling of a
 distant bell. The target must make a wisdom saving throw or take 1d8 necrotic
 damage, or 1d12 necrotic damage if they are below their max HP.
 
-```
+---
 
-```
+---
 
 True Strike (37)
 
@@ -662,9 +662,9 @@ Description:
 You touch one creature, granting them advantage on their next attack. Once the
 target makes their attack the spell ends.
 
-```
+---
 
-```
+---
 
 Viscious Mockery (Cantrip) (38)
 
@@ -686,9 +686,9 @@ dependant on which the target has a greater pride in.
 This spell has no effect on enemies with no ego 
 (enlightened humanoids, undead, and constructs)
 
-```
+---
 
-```
+---
 
 Radiant Word (Cantrip) (39)
 
@@ -710,9 +710,9 @@ When whispered, the word of radiance targets one creature of your choice within
 light only they can see. The target must make a constitution saving throw or
 take 1d10 radiant damage and be blinded.
 
-```
+---
 
-```
+---
 
 Leech (Cantrip) (40)
 
@@ -725,9 +725,9 @@ You point at one creature, as their life force is slowly drained. make a ranged
 spell attack, on a hit the target takes 1d6 necrotic damage and you regain 1d4 
 hitpoints. This spell has no effect on constructs and undead.
 
-```
+---
 
-```
+---
 
 Lay On Hands (Cantrip) (41)
 
@@ -741,11 +741,11 @@ and healing them an amount of HP equal to your spellcasting modifier.
 
 A creature may only be affected by this spell once per rest.
 
-```
+---
 
 # 1st Level Spells
 
-```
+---
 
 Frost Armor (1st) (1)
 
@@ -760,9 +760,9 @@ of cold damage equal to the amount of temporary hitpoints affected. When you
 cast this spell at a level higher than 1st you gain an additional 5 temporary
 hitpoints per level.
 
-```
+---
 
-```
+---
 
 Chilling Tendrils (1st) (2)
 
@@ -778,9 +778,9 @@ damaged by this spell cannot take reactions until your next turn. When you cast
 this spell at a level higher than 1st it deals an additional 1d6 damage per
 level.
 
-```
+---
 
-```
+---
 
 Shield (1st) (3)
 
@@ -793,9 +793,9 @@ You cast a shield of force around yourself, granting you +5 ac until the start
 of your next turn including the moment where the triggering attack would hit you
 and you take no damage from magic missile.
 
-```
+---
 
-```
+---
 
 Magic Missile (1st) (3)
 
@@ -811,9 +811,9 @@ a shield spell can deflect this damage.
 For each level of above first that you cast this spell with, an additional 
 missile is formed. 
 
-```
+---
 
-```
+---
 
 Faith's Shield (1st) (4)
 
@@ -824,9 +824,9 @@ Casting Time: 1 bonus action
 Description:
 You touch one creature, granting them +2 AC for the duration.
 
-```
+---
 
-```
+---
 
 Mage Armor (1st) (5)
 
@@ -839,9 +839,9 @@ A sheen of magical energy covers your body, granting you protection from
 attack. Your AC becomes 13 + your dexterity modifier. You may end this spell 
 early as an action.
 
-```
+---
 
-```
+---
 
 Entangle (1st) (6)
 
@@ -857,9 +857,9 @@ may repeat this saving throw at the end of their turn until the spell ends.
 After this initial effect the spell simply turns the area into difficult terrain
 for the rest of the duration.
 
-```
+---
 
-```
+---
 
 Create Familiar (1st) (7) (ritual)
 
@@ -891,9 +891,9 @@ action. You have a psychic link with your familiar and it may speak with you
 telepathically and you are capable of speaking through it to others. You may 
 only have one familiar at a time.
 
-```
+---
 
-```
+---
 
 Alert (1st) (8) (ritual)
 
@@ -907,9 +907,9 @@ You set an alarm to alert you of unwanted presences. You create a invisible area
 the spell will begin blaring, either audibly or mentally. When you cast this
 spell you can designate which creatures will not set the alarm off.
 
-```
+---
 
-```
+---
 
 Befriend Animals (1st) (9) (ritual)
 
@@ -922,9 +922,9 @@ Select one beast within range. The target must make a wisdom saving throw or
 be charmed by you for the duration. The spell ends early if you or an ally harms
 the target of the spell.
 
-```
+---
 
-```
+---
 
 Bane (1st) (10)
 
@@ -937,9 +937,9 @@ Select one creature within range. The target must make a charisma saving throw.
 On a failure, the target must roll 1d4 each time they make an attack, check, or 
 saving throw; removing the result from the total.
 
-```
+---
 
-```
+---
 
 Bless (1st) (11)
 
@@ -952,9 +952,9 @@ Select one creature within range. For the duration of the spell, the target may
 roll 1d4 each time they make an attack, check, or saving throw; adding the 
 result to the total.
 
-```
+---
 
-```
+---
 
 Burning Hands (1st) (12)
 
@@ -967,9 +967,9 @@ A cone of burning flame erupts from your hands in a 15 foot cone. All creatures
 caught within this cone must make a dexterity saving throw or take 3d6 fire 
 damage, taking half as much on a success. 
 
-```	
+---	
 
-```
+---
 
 Charm Person (1st) (13)
 
@@ -982,9 +982,9 @@ You attempt to charm one humanoid within range. The target must make a wisdom
 saving throw or be charmed for the duration. The spell ends early if you or an
 ally attack the target. Once the spell ends the target knows you charmed them.
 
-```
+---
 
-```
+---
 
 Chromatic Orb (1st) (14)
 
@@ -998,9 +998,9 @@ ranged spell attack against the target and choose a damage type from Fire, Acid,
 Lightning, Cold, Poion, or Thunder. On a hit the target takes 3d8 damage of the
 type you chose.
 
-```
+---
 
-```
+---
 
 Command (1st) (15)
 
@@ -1014,9 +1014,9 @@ target must make a wisdom saving throw, on a failure they carry out your command
 on their turn. The target cannot carry out actions that they know would bring 
 them immediate harm.
 
-```
+---
 
-```
+---
 
 Comprehend Languages (1st) (16)
 
@@ -1030,9 +1030,9 @@ spoken languages. It takes you 1 minute to read a page of text with this spell.
 This spell has limitations decided by your Gamemaster, but it is always capable of
 discerning mundane languages.
 
-```
+---
 
-```
+---
 
 Create or Destroy Water (1st) (17)
 
@@ -1051,9 +1051,9 @@ Destroy Water: You destroy 10 gallons of water within range. You may instead
 destroy water in the form of clearing fog or steam in a 30 foot cube at a point
 within range
 
-```	
+---	
 
-```
+---
 
 Cure Wounds (1st) (18)
 
@@ -1071,9 +1071,9 @@ Range: You speak to one creature within 30 feet and they regain 1d4 + your
 casting mod hitpoints. Casting this spell at range reduces the casting time to
 1 bonus action and removes the somatic component.
 
-```
+---
 
-```
+---
 
 Detect Good and Evil (1st) (19)
 
@@ -1087,9 +1087,9 @@ celestial, elemental, fey, fiend, or undead within 30 feet of you. You also know
 if there is an object within 30 feet of you that is blessed or cursed by any of 
 the ladder.  
 
-```
+---
 
-```
+---
 
 Detect Magic (1st) (20)
 
@@ -1101,9 +1101,9 @@ Description:
 For the duration of this spell you are capable of seeing magic around you as
 bright glowing colors. This vision may penetrate thin barriers. 
 
-```
+---
 
-```
+---
 
 Detect Poison and Disease (1st) (21)
 
@@ -1116,9 +1116,9 @@ For the duration of this spell you are able to detect the exact location of
 poison and disease within 30 feet of you. This sense can penetrate thick 
 barriers.
 
-```
+---
 
-```
+---
 
 Disguise Self (1st) (22)
 
@@ -1134,9 +1134,9 @@ the same basic arrangement of limbs.
 A creature may inspect your appearance as an action and make an investigation
 check against your spell DC, telling the appearance is false on a success. 
 
-```
+---
 
-```
+---
 
 Discordant Voice (1st) (23)
 
@@ -1151,9 +1151,9 @@ the target takes 3d6 psychic damage and uses their reaction to move their entire
 movement speed away from you. This movement provokes attacks of opportunity. On
 a success the target takes half as much damage and does not move. 
 
-```
+---
 
-```
+---
 
 Divine Favor (1st) (24)
 
@@ -1165,9 +1165,9 @@ Description:
 You touch one creature, for the duration of this spell the target deals an extra
 1d4 radiant damage on all weapon attacks.
 
-```
+---
 
-```
+---
 
 Ensnaring Strike (1st) (25)
 
@@ -1187,9 +1187,9 @@ of each of its turns. A creature restrained by this spell may repeat the saving
 throw at the end of each of its turns or another creature may expend an action
 to free them. 
 
-```
+---
 
-```
+---
 
 Retreat (1st) (26)
 
@@ -1202,9 +1202,9 @@ This spell heightens your ability to run. When you cast this spell, and as
 a bonus action on each of your turns until the spell ends, you may take the dash 
 action.
 
-```
+---
 
-```
+---
 
 Glowing Lights (1st) (27)
 
@@ -1218,9 +1218,9 @@ range. This light outlines any object or creature that fails a dexterity saving
 throw. Creatures affected by this spell can be seen while invisible and attacks
 against them have advantage.
 
-```
+---
 
-```
+---
 
 False Life (1st) (28)
 
@@ -1233,9 +1233,9 @@ You touch one creature and fill them with undead energy, giving them 1d4 + your
 casting mod temporary hitpoints. If you cast this spell on an undead creature 
 they regain the roll as hitpoints rather than temporary hitpoints
 
-```
+---
 
-```
+---
 
 Feather Fall (1st) (29)
 
@@ -1248,9 +1248,9 @@ Choose up to five creatures within range. For the duration of this spell the
 targets fall at a speed of 60 feet per round, taking no damage when they touch 
 the ground.  
 
-```
+---
 
-```
+---
 
 Fog (1st) (30) (ritual)
 
@@ -1262,9 +1262,9 @@ Description:
 You create a 20 foot sphere of fog at a point within range. High winds may 
 disperse this fog.
 
-```
+---
 
-```
+---
 
 Fast Feast (1st) (31)
 
@@ -1278,9 +1278,9 @@ turning it into an edible form of the material. The amount of food created is
 enough to stock 10 days worth of rations. If this food is not consumed
 within 10 days it expires and crumbles to dust.
 
-```
+---
 
-```
+---
 
 Grease (1st) (32)
 
@@ -1294,9 +1294,9 @@ is difficult terrain for the duration. When the grease is conjured all creatures
 standing on the area it occupies must make a dexterity saving throw or fall 
 prone, a creature entering the area must also make this save.
 
-```
+---
 
-```
+---
 
 Guiding Bold (1st) (33)
 
@@ -1310,9 +1310,9 @@ ranged spell attack against the target, on a hit the target taked 4d6 radiant
 damage and the next attack made against them until the end of your next turn has
 advantage. 
 
-```
+---
 
-```
+---
 
 Hail of Thorns (1st) (34)
 
@@ -1326,9 +1326,9 @@ thorns will rain out from your projectile. All creatures within 5 feet of the
 target and including the target must make a dexterity saving throw or take 1d10
 piercing damage or half as much on a success. 
 
-```
+---
 
-```
+---
 
 Hellish Rebuke (1st) (35)
 
@@ -1341,9 +1341,9 @@ You speak a primordial word of flame rebuking the creature whom attacked you.
 The target must make a dexterity saving throw or take 2d10 fire damage, or half
 as much on a success. 
 
-```
+---
 
-```
+---
 
 Heroism (1st) (36)
 
@@ -1357,9 +1357,9 @@ termporary hitpoints equal to your casting modifer and becomes immune to the
 frightened conidition for the duration. When the spell ends, any remaining
 temporary hitpoints from this spell are removed. 
 
-```
+---
 
-```
+---
 
 Hex (1st) (37)
 
@@ -1374,9 +1374,9 @@ attack. The creature also gains disadvantage on ability checks with one
 attribute of your choice for the duration. You may change the target of this
 spell as a bonus action. 
 
-```
+---
 
-```
+---
 
 Weak Point (1st) (38)
 
@@ -1391,9 +1391,9 @@ within range. When you hit the target with a weapon attack you deal an additonal
 cannot benefit from being invisible to you. You may change the target of this 
 spell as a bonus action.
 
-```
+---
 
-```
+---
 
 Identify (1st) (ritual) (39)
 
@@ -1406,9 +1406,9 @@ You hold one item for the casting time of the spell, identifying the forces
 within it using magical energy. You learn all the properties of the item that
 are not shielded against being identified.
 
-```
+---
 
-```
+---
 
 Inflict Wounds (1st) (40)
 
@@ -1421,9 +1421,9 @@ You touch one creature as harmful energy radiates from your palms, make a
 melee spell attack against them. On a hit the target takes 3d10 nectrotic
 damage. 
 
-```
+---
 
-```
+---
 
 Jump (1st) (41)
 
@@ -1435,9 +1435,9 @@ Description:
 You touch one creature and for the duration of this spell their jump height is 
 multiplied by 5.
 
-```
+---
 
-```
+---
 
 Longstrider (1st) (42)
 
@@ -1449,9 +1449,9 @@ Description:
 You touch one creature. For the duration of the spell the target's movement
 speed increases by 10 feet.
 
-```
+---
 
-```
+---
 
 Proof Against Good and Evil (1st) (43)
 
@@ -1468,9 +1468,9 @@ creatures to have disadvantage. This protection also prohibits these creatures
 from posessing or charming the target, if the target is already posessed or 
 charmed the creature is forced out when this spell is cast on them.
 
-```
+---
 
-```
+---
 
 Purify (1st) (44)
 
@@ -1482,9 +1482,9 @@ Description:
 All consumable material within 5 feet of a point of your choice within range is 
 purified of any disease or poison.  
 
-```
+---
 
-```
+---
 
 Sickening Ray (1st) (45)
 
@@ -1497,9 +1497,9 @@ You expel a ray of poison energy at one creature within range. Make a ranged
 spell attack, on a hit the target takes 2d8 and must make a constitution saving
 throw or be poisoned until the end of your next turn. 
 
-```
+---
 
-```
+---
 
 Sanctuary (1st) (46)
 
@@ -1516,9 +1516,9 @@ within range then the effect simple fails and does nothing. This spell ends
 early if the target makes an attack or casts a spell against an enemy. AOE is 
 immune to this effect.
 
-```
+---
 
-```
+---
 
 Sleep (1st) (47)
 
@@ -1544,9 +1544,9 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 At Higher Levels. When you cast this spell using a level higher than first, 
 roll an additional 2d8 for each slot level above 1st.
 
-```
+---
 
-```
+---
 
 Beast Tongue (1st) (48)
 
@@ -1558,9 +1558,9 @@ Description:
 You touch one creature and for the duration of this spell they can speak and 
 understand the universal langauge of beasts.
 
-```
+---
 
-```
+---
 
 Thunderwave (1st) (49)
 
@@ -1575,9 +1575,9 @@ damage and being pushed 10 feet back on a failure or half as much without moving
 on a success. If a creature is pushed into an object by this spell they take 1d6
 bludgeoning damage for every 5 feet of movement that they were unable to move.
 
-```
+---
 
-```
+---
 
 Witch Bolt (1st) (50)
 
@@ -1592,9 +1592,9 @@ must make a dexterity saving throw or take 2d10 thunder or lightning damage
 deal an additional 1d10 damage of the type you chose to the target. This spell
 ends early if you do anything other than moving or speaking on your turn. 
 
-```
+---
 
-```
+---
 
 Summon Green Slime (1st) (51)
 
@@ -1607,10 +1607,10 @@ You summon a green slime, you may command this green slime as a bonus action and
 it takes its turn immediately after yours. After the spell ends the slime melts
 away, becoming a green puddle.
 
-```
+---
 [Green Slime Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
 
-```
+---
 
 Lunar Ray (1st) (52)
 
@@ -1624,11 +1624,11 @@ attack against a creature within range, on a hit the creature takes 3d6 radiant
 damage. If the target is a shapeshifter they must also make a constitution 
 saving throw against your spell DC, reverting to their true form on a failure. 
 
-```
+---
 
 # 2nd Level Spells
 
-```
+---
 
 Envitalize (2nd) (1)
 
@@ -1641,9 +1641,9 @@ You empower the natural vitility of one creature within range by bolstering them
 with life energy. The target's current and maximum hitpoints increase by 10 for
 the duration.
 
-```
+---
 
-```
+---
 
 Alter Self (2nd) (2)
 
@@ -1658,9 +1658,9 @@ may also alter your physical properties to give you the ability to breathe under
 water, gain a swim speed equal to your movement speed, and grant yourself 
 natural weapons that deal 1d6 slashing damage.
 
-```
+---
 
-```
+---
 
 Arcane Lock (2nd) (3)
 
@@ -1675,9 +1675,9 @@ able to open the object as normal and you may designate a password that unlocks
 the object for 1 minute. The knock spell unlocks this object for 10 minutes. 
 This lock also adds a +10 DC to any checks to break or lockpick the object.
 
-```
+---
 
-```
+---
 
 Omen (2nd) (ritual) (4)
 
@@ -1690,9 +1690,9 @@ Using the item of your choice while speaking a plan aloud you make a prediction
 for the most probable outcome of the plan. Your GM determines how it is conveyed
 to you but the outcome indicated is either good, bad, good and bad, or neither. 
 
-```
+---
 
-```
+---
 
 Morph Shell (2nd) (5) 
 
@@ -1706,9 +1706,9 @@ that grants them a higher AC. The target's AC cannot be made lower than 16 for
 the duration of the spell. If the target already has a natural shell they gain
 +1 to their AC.
 
-```
+---
 
-```
+---
 
 Blindness and Deafness (2nd) (6)
 
@@ -1721,9 +1721,9 @@ You attempt to blind or deafen (your choice) one creature within range. The
 target mut make a constitution saving throw or become blind or deaf. The target
 may repeat this saving throw at the end of each of its turns.
 
-```
+---
 
-```
+---
 
 Obscure (2nd) (7)
 
@@ -1737,9 +1737,9 @@ For the duration of this spell attacks made against the target have
 disadvantage. This spell has no effect on attackers that do not rely on normal
 sight.
 
-```
+---
 
-```
+---
 
 Calm (2nd) (8)
 
@@ -1755,9 +1755,9 @@ for 1 minute or until provoked. You may use this time to convince them not to
 attack or to compromise as they will return to their normal state of mind after
 1 minute if they are not convinced otherwise.
 
-```
+---
 
-```
+---
 
 Cloud of Daggers (2nd) (9)
 
@@ -1770,9 +1770,9 @@ You form a cube of floating daggers 5 feet on each side at a point within
 range. A creature who starts their turn in the area or enters the area for the
 first time on their turn takes 4d4 piercing damage.
 
-```
+---
 
-```
+---
 
 Eternal Flame (2nd) (10)
 
@@ -1785,9 +1785,9 @@ You touch an object and light it on fire. This fire sheds bright light for 20
 feet and dim light for 20 more feet. The fire does not go out unless it is 
 dispelled. The fire does not burn and does not consume any fuel.
 
-```
+---
 
-```
+---
 
 Crown of Madness (2nd) (11)
 
@@ -1808,9 +1808,9 @@ spell. The target may repeat the saving throw at the end of each of its turns
 after the first.
      
 
-```
+---
 
-```
+---
 
 Darkness (2nd) (12)
 
@@ -1823,9 +1823,9 @@ Magical darkness fills a 15 foot radius sphere originating from a point of your
 choice within range. Creatures with darkvision cannot see through this darkness
 and no non-magical light can illuminate it. 
 
-```
+---
 
-```
+---
 
 Darkvision (2nd) (13)
 
@@ -1837,9 +1837,9 @@ Description:
 Select up to 3 creatures within range. For the duration of this spell the 
 targets and you gain darkvision out to 60 feet. 
 
-```
+---
 
-```
+---
 
 Read Mind (2nd) (14)
 
@@ -1855,9 +1855,9 @@ spell particularly effective for interrogation. If you wish to push deeper into
 the psyche of a creature then you must make a contested will roll against them.
 On a success you are able to extract one memory provided by your GM. 
 
-```
+---
 
-```
+---
 
 Enhance Ability (2nd) (15)
 
@@ -1878,9 +1878,9 @@ SPLENDOR: The target gains advantage on Charisma checks.
 CUNNING: The target gains advantage on Intelligence checks.
 WISDOM: The target gains advantage on Wisdom checks.
 
-```
+---
 
-```
+---
 
 Enlarge or Shrink (2nd) (16)
 
@@ -1897,9 +1897,9 @@ and shrunken creatures gain the opposite. If targeting an unwilling creature
 the target must make a constitution saving throw or be affected. Any equipment
 worn or carried changes size aswell.
 
-```
+---
 
-```
+---
 
 Enthrall (2nd) (17)
 
@@ -1913,9 +1913,9 @@ make a wisdom saving throw or become enthralled with you, incapable of
 percieving any creature but you until the spell ends. The spell ends if you
 are incapacitated or stop speaking for any reason.
 
-```
+---
 
-```
+---
 
 Flame Blade (2nd) (18)
 
@@ -1930,9 +1930,9 @@ fire damage on a hit. The flame sheds 20 feet of bright light and 10 more feet
 of dim light. You may make the blade return to your hand as a bonus action for 
 the duration of this spell.
 
-```
+---
 
-```
+---
 
 Repose (2nd) (Ritual) (19)
 
@@ -1946,9 +1946,9 @@ of this spell the corpse is proofed against decay and cannot be raised as
 undead. Days spent under the effects of this spell do not count against spells 
 with time limits such as raise dead.
 
-```
+---
 
-```
+---
 
 Wind (2nd) (20)
 
@@ -1965,9 +1965,9 @@ winds or starts their turn there must make a strength saving throw or be thrown
 terrain. As a bonus action for the duration you may change the direction the
 wind blows from you.
 
-```
+---
 
-```
+---
 
 Heat Metal (2nd) (21)
 
@@ -1981,9 +1981,9 @@ during the casting of this spell takes 2d8 fire damage and for the duration of
 the spell, any creature that starts their turn in contact with the target takes 
 1d6 fire damage. 
 
-```
+---
 
-```
+---
 
 Hold Person (2nd) (22)
 
@@ -1996,9 +1996,9 @@ You attempt to magically bind one human within range. The target must make
 a wisdom saving throw or be paralyzed for the duration. This spell ends if the
 saving throw may be repeated at the end of each of the target's turns.
 
-```
+---
 
-```
+---
 
 Lesser Invisibility (2nd) (23)
 
@@ -2011,9 +2011,9 @@ You touch one creature and they along with anything they are wearing or carrying
 become invisible for the duration of the spell. This spell ends if the target
 casts a spell or makes an attack.
 
-```
+---
 
-```
+---
 
 Knock (2nd) (24)
 
@@ -2026,9 +2026,9 @@ You knock on a lock, container, item, or door and it instantly unlocks. Casting
 this spell causes a loud thunderous knock to ring out that is audible up to 500
 feet away.
 
-```
+---
 
-```
+---
 
 Lesser Restoration (Ritual) (2nd) (25)
 
@@ -2040,9 +2040,9 @@ Description:
 You touch one creature and instantly heal them of one superficial effect such
 as blinded, deafened, paralyzed or poisoned.
 
-```
+---
 
-```
+---
 
 Float (2nd) (26)
 
@@ -2056,9 +2056,9 @@ rate of 20 feet per turn. When this spell ends the target harmlessly floats to
 the ground. An unwilling creature may make a constitution saving throw to resist
 the effects of the spell.
 
-```
+---
 
-```
+---
 
 Locate Animal or Plant (2nd) (Ritual) (27)
 
@@ -2071,9 +2071,9 @@ You speak the name of one animal or plant aloud. For the duration of this spell
 you innately know the location of all instances of that plant or animal within a
 1 mile radius of you.
 
-```
+---
 
-```
+---
 
 Magic Weapon (2nd) (Ritual) (28)
 
@@ -2085,9 +2085,9 @@ Description:
 You touch one mundane weapon and for the duration of the spell this weapon 
 becomes a +1 weapon
 
-```
+---
 
-```
+---
 
 Acid Arrow (2nd) (29)
 
@@ -2100,9 +2100,9 @@ You throw an acid arrow at one creature within range. Make a ranged spell attack
 on a hit the target takes 6d4 acid damage, on a miss the target takes 2d4 acid
 damage.
 
-```
+---
 
-```
+---
 
 Mirror Image (2nd) (30)
 
@@ -2117,9 +2117,9 @@ battle. When an enemy targets you with an attack and hits roll a 1d20, on a
 with three duplicates, if all three are destroyed the spell ends. This spell
 has no effect on creatures that are unaffected by illusions
 
-```
+---
 
-```
+---
 
 Misty Step (2nd) (31)
 
@@ -2130,9 +2130,9 @@ Casting Time: 1 bonus action
 Description:
 You instantly teleport to a point of your choice within 30 feet.
 
-```	
+---	
 
-```
+---
 
 Healing Prayer (2nd) (32)
 
@@ -2144,9 +2144,9 @@ Description:
 You pray for 10 minutes and all creatures within 10 feet of you for the duration
 of the prayer regain 2d8 + your spellcasting modifier hitpoints.
 
-```
+---
 
-```
+---
 
 Ray of Enfeeblement (2nd) (33)
 
@@ -2161,9 +2161,9 @@ based attacks, checks, and saving throws and have the damage of strength based
 attacks reduced to half of the damage rolled for the duration. The target may 
 repeat this saving throw at the end of each of its turns.
 
-```
+---
 
-```
+---
 
 Scorching Ray (2nd) (34)
 
@@ -2176,9 +2176,9 @@ You conjure three rays of scorching heat and toss them at up to 3 creatures
 within range. Make a ranged spell attack for each ray, on a hit the target takes 
 2d6 fire damage.
 
-```
+---
 
-```
+---
 
 Lesser Truesight (2nd) (35)
 
@@ -2190,9 +2190,9 @@ Description:
 For the duration of this spell you are capable of seeing invisible and otherwise
 magically obscured creatures occupying the space around you.
 
-```
+---
 
-```
+---
 
 Shatter (2nd) (36)
 
@@ -2206,9 +2206,9 @@ on a point within range fills with shattering sound. Every creature in the area
 must make a constitution saving throw or take 3d8 thunder damage, taking half
 as much on a success. Inorganic creatures take double damage from this spell.  
 
-```
+---
 
-```
+---
 
 Silence (2nd) (37)
 
@@ -2223,9 +2223,9 @@ forming or entering the area. Thunder damage is ineffective in the area and
 spells requiring vocal components fail. All creatures inside the area are 
 deafened.
 
-```
+---
 
-```
+---
 
 Spider Climb (2nd) (38)
 
@@ -2239,9 +2239,9 @@ speed for the duration of the spell. The target only requires one point of
 contact at a time to use this speed as their body magically sticks to a surface
 when they wish for it to.
 
-```
+---
 
-```
+---
 
 Spiritual Weapon (2nd) (39)
 
@@ -2257,9 +2257,9 @@ to attack one creature within 10 feet of it as a bonus action. When the weapon
 makes an attack at a creature make a melee spell attack, on a hit the target
 takes 1d8 + your casting modifier force damage.
 
-```
+---
 
-```
+---
 
 Suggestion (2nd) (40)
 
@@ -2275,9 +2275,9 @@ spell. The target will not perform any obviously dangerous suggestions. The
 spell ends when the time is up, if the target completes their task, or if the
 target is damaged by you or an ally.
 
-```
+---
 
-```
+---
 
 Bond (2nd) (41)
 
@@ -2292,9 +2292,9 @@ all damage and +1 AC. When you take damage the target takes an equal amount of
 damage, the reverse is also true. The spell ends if you dismiss it as an action
 or if you or the target drop to 0 hitpoints.
 
-```
+---
 
-```
+---
 
 Zone of Truth (2nd) (42)
 
@@ -2310,9 +2310,9 @@ You can tell if a creature failed, passed, or did not contest this save.
 Affected creatures are aware of the spell and can avoid straight answers but are
 incapable of altering the truth.
 
-```
+---
 
-```
+---
 
 Wither (2nd) (43)
 
@@ -2326,9 +2326,9 @@ creatures within the effected area are forced to make a CON save to halve 2d6
 necrotic damage. you regain half the total damage dealt to all creatures as 
 temporary hitpoints.
 
-```
+---
 
-```
+---
 
 Diagnose Affliction (2nd) (ritual) (44)
 
@@ -2342,9 +2342,9 @@ disease and is not cursed in any way. When a creature afflicted by a parasite,
 disease, or curse is diagnosed by this spell you know the names of and cures for
 all the curable ailments they may have.
 
-```
+---
 
-```
+---
 
 Acid Armor (2nd) (45)
 
@@ -2357,9 +2357,9 @@ You conjure armor made from dripping acid melded into the shape of plate armor.
 Your AC becomes 18 and when a melee attack hits you the attacker takes 1d6 acid
 damage as the corrosive liquid splashes on them.
 
-```
+---
 
-```
+---
 
 Rewind (2nd) (46)
 
@@ -2373,11 +2373,11 @@ or saving throw you may rewind time, forcing them to roll a second time and use
 that roll. You may also grant one creature within range advantage on their next
 attack or ability check.
 
-```
+---
 
 # 3rd Level Spells
 
-```
+---
 
 Animate Dead (3rd) (1)
 
@@ -2395,9 +2395,9 @@ under your control for 24 hours, once the 24 hours is up the creature will
 become hostile. You may repeatedly cast this spell before the 24 hour period has
 elapsed in order to maintain control.
 
-```
+---
 
-```
+---
 
 Aura of Vitality (3rd) (2)
 
@@ -2409,9 +2409,9 @@ Description:
 You evoke an aura of healing energy. Until the spell ends you may use your
 bonus action to heal one creature within 30 feet of you to regain 2d6 hitpoints.
 
-```
+---
 
-```
+---
 
 Beacon of Hope (3rd) (3)
 
@@ -2425,9 +2425,9 @@ range. The targeted creatures have advantage on wisdom and death saving throws
 are immune to the frightened condition and automatically regain the maximum
 possible hitpoints from all healing effects for the duration of the spell. 
 
-```
+---
 
-```
+---
 
 Curse (3rd) (4)
 
@@ -2454,9 +2454,9 @@ slots and when cast at a level above 4th this spell does not require
 concentration. A curse cast at 4th level lasts 1 hour. A curse cast at 5th level 
 lasts 24 hours. a curse cast at 6th level lasts 1 year. 
 
-```
+---
 
-```
+---
 
 Blink (3rd) (ritual) (5)
 
@@ -2470,9 +2470,9 @@ you are intangible and can only see within 120 feet of you. When the spell ends
 you blink back to the relative point you would be on the material plane after
 all the movement you took for the duration. 
 
-```
+---
 
-```
+---
 
 Call Lightning (3rd) (6)
 
@@ -2491,9 +2491,9 @@ spell to conjure another bolt of lightning.
 If you cast this spell while there is already storm within range, you assume
 control of it, damage dealt by this spell is doubled under these conditions.
 
-```
+---
 
-```
+---
 
 Clairvoyance (3rd) (ritual) (7)
 
@@ -2508,9 +2508,9 @@ which is visible as a blue ball of light to anyone under the effects of the
 detect magic spell. As an action while casting this spell you may choose to 
 alternate between hearing through it and seeing through it.
 
-```
+---
 
-```
+---
 
 Conjure Beast (3rd) (8)
 
@@ -2532,9 +2532,9 @@ action. Groups of beasts have shared initiative. When the spell ends the
 remaining live beasts disappear in a cloud of smoke, reappearing where they 
 originally were.
 
-```
+---
 
-```
+---
 
 Barrage (3rd) (9)
 
@@ -2548,9 +2548,9 @@ foot cone originating from you in a direction of your choice. Creatures caught
 inside the cone must make a dexterity saving throw or take 3d10 piercing damage,
 taking half as much on a success.
 
-```
+---
 
-```
+---
 
 Counterspell (3rd) (10)
 
@@ -2565,9 +2565,9 @@ fails automatically when targeted by this spell. In order to  counterspell a
 spell of 4th level or higher you must cast with an equal or higher spell level
 or win a contested will check against the caster.
 
-```
+---
 
-```
+---
 
 Create Food and Water (3rd) (11)
 
@@ -2580,9 +2580,9 @@ You create a meal large enough to feed 25 humans or 10 mounts on a surface
 within range. The food and drink takes a form of your choosing and expires after
 24 hours, turning into dust if not eaten.
 
-```
+---
 
-```
+---
 
 Holy Mantle (3rd) (12)
 
@@ -2596,9 +2596,9 @@ you to all friendly creatures within 15 feet of you. All creatures within 15
 feet of you including yourself deal an additional 1d8 radiant damage on weapon
 attacks.
 
-```
+---
 
-```
+---
 
 Daylight (3rd) (13)
 
@@ -2612,9 +2612,9 @@ The area of this sphere is bright light and the sphere sheds an additional 120
 feet of dim light in all directions. Undead creatures in the area during casting
 take 20 radiant damage.
 
-```
+---
 
-```
+---
 
 Dispel Magic (3rd) (14)
 
@@ -2629,9 +2629,9 @@ when targeted by this spell. In order to end an effect created by a spell of 4th
 level or higher you must cast with an equal or higher spell level or win a 
 contested will check against the caster.
 
-```
+---
 
-```
+---
 
 Elemental Weapon (3rd) (15)
 
@@ -2644,9 +2644,9 @@ You imbue a weapon with elemental magic through a primordial sigil, choose from
 lightning, fire, acid, cold, or thunder. The weapon gains a +1 to attack and 
 damage rolls and deals an additional 1d4 damage of the type you chose on a hit.  
 
-```
+---
 
-```
+---
 
 Fear (3rd) (16)
 
@@ -2662,9 +2662,9 @@ away from you along the safest possible path. A creature that loses line of
 sight with you may repeat the wisdom saving throw at the end of their turn,
 ending the effect on a success. 
 
-```
+---
 
-```
+---
 
 Feign Death (3rd) (ritual) (17)
 
@@ -2680,9 +2680,9 @@ it, the spell also ends if the target takes damage. If you target an unwilling c
 with this spell they must make a charisma saving throw or fall under the spells effects, 
 with nothing occurring on a success.
 
-```
+---
 
-```
+---
 
 Fireball (3rd) (18)
 
@@ -2697,9 +2697,9 @@ must make a dexterity saving throw or take 6d6 fire damage, taking half as much
 on a success. On a failure a target takes an additional 1d6 fire damage at
 the end of their next turn unless they use their action to put themselves out.
 
-```
+---
 
-```
+---
 
 Flight (3rd) (19)
 
@@ -2713,9 +2713,9 @@ target gains 60 feet of flying speed for the duration. If the spell ends and the
 target is still in the air, they fall normally. You choose the appearance of
 the means through which the target gains this flying speed. 
 
-```
+---
 
-```
+---
 
 Gaseous Form (3rd) (20)
 
@@ -2733,9 +2733,9 @@ dexterity, and constitution saving throws. The target cannot fall and can fit
 through any hole that air would be able to move through. While in this form the
 target cannot interact with anything physical and is incapable of casting spells.
 
-```
+---
 
-```
+---
 
 Glyph (3rd) (21)
 
@@ -2759,9 +2759,9 @@ spell is cast in a manner the caster designates. In order to store a spell of
 higher levels you must cast glyph at the respective level of the spell you would
 like to store.
 
-```
+---
 
-```
+---
 
 Haste (3rd) (22)
 
@@ -2778,9 +2778,9 @@ of the spell the target gains the following:
 - Advantage on dexterity saving throws
 - An additional action on each of their turns
 
-```
+---
 
-```
+---
 
 Hunger of Horrors (3rd) (22)
 
@@ -2800,9 +2800,9 @@ the area must make a dexterity saving throw or take 2d6 acid damage and be
 restrained, freeing themselves if they use an action to make an athletics check
 against your spell save DC.
 
-```
+---
 
-```
+---
 
 Hypnotic Spiral (3rd) (23)
 
@@ -2818,9 +2818,9 @@ speed reduced to 0 for the duration as swirls reflect in their eyes. The spell
 ends early for a creature if another creature uses its action to knock them out
 of it.
 
-```
+---
 
-```
+---
 
 Klenne's Tiny Hut (3rd) (ritual) (24)
 
@@ -2842,9 +2842,9 @@ the climate outside. Creatures inside the hemisphere do not leave the area of
 hemisphere unless they choose to, meaning they cannot be forced out by removal
 of the ground under the hemisphere.
 
-```
+---
 
-```
+---
 
 Lightning Bolt (3rd) (25)
 
@@ -2858,9 +2858,9 @@ of your choice. All creatures in the area must make dexterity saving throw or
 take 6d6 lightning damage, taking half as much damage on a success. Creatures 
 wearing metal have disadvantage on this saving throw.
 
-```
+---
 
-```
+---
 
 Magic Circle (3rd) (ritual) (26)
 
@@ -2877,9 +2877,9 @@ salt and iron powder is broken. The effects (such as posession) of these
 creatures are unable to penetrate aswell and attacks made by these creatures 
 from at a creature on the other side of the circle have disadvantage.
 
-```
+---
 
-```
+---
 
 Major Image (3rd) (ritual) (27)
 
@@ -2899,9 +2899,9 @@ with the illusion they must contest your spell DC with an investigation check.
 On a success they understand that the image is an illusion and it becomes
 feint to them.
 
-```
+---
 
-```
+---
 
 Healing Words (3rd) (28)
 
@@ -2913,9 +2913,9 @@ Description:
 Select up to 6 creatures within range. You channel healing energy into each 
 target, healing them for 1d4 + your spellcasting modifier hitpoints
 
-```
+---
 
-```
+---
 
 Nondetection (3rd) (ritual) (29)
 
@@ -2928,9 +2928,9 @@ You touch one creature or object and magically proof it against detection.
 Spells such as scrying and clairvoyance cannot percieve or target the target of 
 this spell for the duration.
 
-```
+---
 
-```
+---
 
 Summon Mount (3rd) (ritual) (30)
 
@@ -2944,9 +2944,9 @@ choice. The mount has a speed of 100 feet, an AC of 14 and 10 hitpoints. The
 mount is capable of moving at a top speed of 22 miles/hr. The spell ends early
 if the mount drops to 0 hitpoints or you dismiss it as an action.
 
-```
+---
 
-```
+---
 
 Plant Growth (3rd) (31)
 
@@ -2968,9 +2968,9 @@ with nourishment. All plants in the area grow strong and produce twice as many
 fruits and vegetables. This effect lasts 1 year. 
 
 
-```
+---
 
-```
+---
 
 Proof From Energy (3rd) (32)
 
@@ -2983,9 +2983,9 @@ You touch one creature and proof them against any one damage type except
 psychic, bludgeoning, piercing, or slashing. For the duration of this spell the 
 target gains resistance to that damage type.
 
-```
+---
 
-```
+---
 
 Sending (3rd) (33)
 
@@ -2999,9 +2999,9 @@ are familiar with. The target hears the message as a voice inside their head and
 is capable of replying to you in the same manner. The target instantly knows it
 was you who sent the message.
 
-```
+---
 
-```
+---
 
 Slow (3rd) (34)
 
@@ -3024,9 +3024,9 @@ If a slowed creature attempts to cast a spell with a casting time of 1 action,
 roll a 1d2 on a 1 the creature does not finish casting the spell until the start
 of their next turn, otherwise the spell is cast normally.
 
-```
+---
 
-```
+---
 
 Speak With Dead (3rd) (35)
 
@@ -3043,9 +3043,9 @@ Answers are brief and sometimes confusing or intentionally cryptic. The corpse
 is capable of lying. If this spell is cast on a corpse that has been under the 
 effect of this spell in the last 10 days the spell fails. 
 
-```
+---
 
-```
+---
 
 Plant Tongue (3rd) (36)
 
@@ -3063,9 +3063,9 @@ terrain attributed to overgrowth to move out of the way for you and any
 creatures with you, turning it into normal terrain. Plants may be capable of 
 performing other tasks for you, this is entirely up to your GM.
 
-```
+---
 
-```
+---
 
 guardians (3rd) (37)
 
@@ -3084,9 +3084,9 @@ area affected by this spell or starts their turn there they must make a wisdom
 saving throw or take 3d8 of the damage type you chose, taking half as much on a 
 success. 
 
-```
+---
 
-```
+---
 
 Stinking Cloud (3rd) (38)
 
@@ -3101,9 +3101,9 @@ make a constitution save or expend their action wretching. Creatures that are
 immune to the poisoned condition or that do not need to breathe air are immune
 to the effects of this spell. 
 
-```
+---
 
-```
+---
 
 Tongues (3rd) (39)
 
@@ -3116,9 +3116,9 @@ You touch one creature and for the duration they can understand any spoken
 language. Any creature that understands at least one language that hears the
 target speak understands what they say and hear it in their native tongue. 
 
-```
+---
 
-```
+---
 
 Draining Touch (3rd) (40)
 
@@ -3134,9 +3134,9 @@ damage and you regain hit points equal to half the damage dealt. For the
 duration of the spell you can make the attack again on each of your turns as an 
 action.
 
-```
+---
 
-```
+---
 
 Gills (3rd) (ritual) (41)
 
@@ -3148,9 +3148,9 @@ Description:
 You and up to 10 creatures within range grow gills and become capable of
 breathing underwater and as normally for the duration of the spell.
 
-```
+---
 
-```
+---
 
 Water Walk (3rd) (ritual) (42)
 
@@ -3166,9 +3166,9 @@ have an effect on those walking over them but pools of acid and poison have no
 effect. If you target a submerged creature with this spell they rise to the
 surface at a rate of 60 feet a round.
 
-```
+---
 
-```
+---
 
 Vass' Psychic Blast (3rd) (43)
 
@@ -3182,9 +3182,9 @@ target must make an intelligence saving throw or take 7d6 psychic damage and
 become incapacitated until the end of your next turn, taking half damage and
 not being incapacitated on a success.
 
-```
+---
 
-```
+---
 
 Beacon of Fate (3rd) (44)
 
@@ -3200,9 +3200,9 @@ will lead them on the safest possible path to the candle. The candle slowly
 burns down as the target gets closer and goes out when the target is within 1 
 mile of it, at which point the spell ends. 
 
-```
+---
 
-```
+---
 
 Stoneskin (3rd) (45)
 
@@ -3214,9 +3214,9 @@ Description:
 You touch one creature and make their skin hard as stone. For the duration the 
 target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-``` 
+--- 
 
-```
+---
 
 Corrupt (3rd) (46)
 
@@ -3230,9 +3230,9 @@ make a constitution saving throw or take 2d10 necrotic damage and be corrupted,
 taking half as much and not being corrupted on a success. If the target is
 corrupted they roll on the bad corruptions chart.
 
-```
+---
 
-```
+---
 
 Heavenly Rebuke (3rd) (47)
 
@@ -3247,9 +3247,9 @@ make a dexterity saving throw or take 6d6 radiant damage or half as much on a
 success. Allies in the area of effect are healed for half the damage rolled and
 take no damage.
 
-```
+---
 
-```
+---
 
 Brimstone (3rd) (48)
 
@@ -3263,9 +3263,9 @@ hell, firing it in a 60 by 5 foot line originating from yourself. Any creatures
 in the area must make a constitution saving throw or take 4d6 Fire damage and 
 4d6 acid damage or half as much on a successful save.
 
-```
+---
 
-```
+---
 
 Snowball (3rd) (49)
 
@@ -3281,11 +3281,11 @@ half as much on a success. On a failure a target is frozen, rendering them
 petrified. The target(s) remain frozen as long as you concentrate but may repeat 
 the saving throw at the end of their turn, ending the effect on a success.
 
-```
+---
 
 # 4th Level Spells
 
-```
+---
 
 Arcane Eye (4th) (1)
 
@@ -3301,9 +3301,9 @@ feet in one direction. There is no upper limit to the distance that may be
 between you and the eye. The eye cannot cross through solid objects but is 
 capable of fitting through holes as small as 1cm. 
 
-```
+---
 
-```
+---
 
 Aura of Life (4th) (2)
 
@@ -3317,9 +3317,9 @@ radius circle. all non-hostile creatures within 30 feet of you
 (including yourself) for the duration of this spell are resistant to necrotic 
 damage and regain 1 hitpoint when they start their turn within the area. 
 
-```
+---
 
-```
+---
 
 Banish (4th) (3)
 
@@ -3337,9 +3337,9 @@ creature is native to a different plane they are banished to that plain and
 return only if the spell ends before 1 minute has elapsed, returning in the same
 manner as previously described. 
 
-```
+---
 
-```
+---
 
 Blight (4th) (4)
 
@@ -3358,9 +3358,9 @@ When targeting a plant the target makes the save at disadvantage and the spell
 deals 48 damage.
 
 
-```
+---
 
-```
+---
 
 Confusion (4th) (5)
 
@@ -3385,9 +3385,9 @@ how they act on that turn.
 |  6     | Acts Normally               |
 | ------ | --------------------------- |
 
-```
+---
 
-```
+---
 
 Control Water (4th) (ritual) (6)
 
@@ -3426,9 +3426,9 @@ a strength saving throw or take 2d8 damage at the start of each of their turns
 for the duration. A creature caught in the whirlpool may repeat the athletics 
 check to swim away as an action on their turn but do so at disadvantage.
 
-```
+---
 
-```
+---
 
 Death Ward (4th) (7)
 
@@ -3443,9 +3443,9 @@ ends. If the target is affected by a spell or effect that would instantaneously
 kill them without dealing damage the spell or effect is negated and the spell 
 ends.
 
-```
+---
 
-```
+---
 
 Dimension Door (4th) (8)
 
@@ -3458,9 +3458,9 @@ You instantly teleport to a point you are familiar with of your choice, this
 point may even be on another plane. You may also touch one creature and teleport
 them to this point with you.
 
-```
+---
 
-```
+---
 
 Divination (4th) (ritual) (9)
 
@@ -3475,9 +3475,9 @@ things to come within the next month ranging in time from 10 seconds to 1
 minute. Your GM decides what you see or hear in your vision but may be cryptic 
 when asked about descriptions of specific things within the vision.   
 
-```
+---
 
-```
+---
 
 Beguile Creature (4th) (10)
 
@@ -3495,9 +3495,9 @@ from you on their turn as long as you are conscious.
 Each time the target takes damage they may repeat the saving throw, ending the
 spell early on a success.
 
-```
+---
 
-```
+---
 
 Shield of Flame (4th) (11)
 
@@ -3513,9 +3513,9 @@ resistance to cold damage. For the duration of this spell, whenever a creature
 hits you with a melee spell they take 2d8 cold or fire damage, based on which
 kind of flame you chose.
 
-```
+---
 
-```
+---
 
 Freedom of Movement (4th) (12)
 
@@ -3528,9 +3528,9 @@ You touch one creature allowing them unnatural dexterity and nimbleness. For
 the duration the target's movement speed is unaffected by any effect and they 
 may use 5 feet of movement to instantly escape a grapple or restraint. 
 
-```
+---
 
-```
+---
 
 Giant Bug (4th) (13)
 
@@ -3544,9 +3544,9 @@ sized version of themself. For 10 minutes you retain control of this creature
 and you may command it verbally as a bonus action on your turn. After the 10 
 minutes has elapsed the target may act of its own will.  
 
-```
+---
 
-```
+---
 
 Greater Invisiblity (4th) (14)
 
@@ -3558,9 +3558,9 @@ Description:
 You touch one creature and they become invisible for the duration. Anything the
 target is carrying or wearing is also invisible. 
 
-```
+---
 
-```
+---
 
 guardian of Faith (4th) (15)
 
@@ -3578,9 +3578,9 @@ you they must make a dexterity saving throw or take 20 radiant damage, taking
 half as much on a success. The guardian vanishes after dealing a total of 80
 damage. 
 
-```
+---
 
-```
+---
 
 Illusory Terrain (4th) (16)
 
@@ -3595,9 +3595,9 @@ see through the illusion if the tactile difference is obvious but otherwise they
 must make an investigation check against your spell save DC to see through the
 illusion.
 
-```
+---
 
-```
+---
 
 Ice Storm (4th) (17)
 
@@ -3612,9 +3612,9 @@ make a dexterity saving throw or take 4d8 cold and 4d8 bludgeoning damage taking
 half as much on a success. The ice turns the area of the spell into difficult
 terrain for 1 minute.
 
-```
+---
 
-```
+---
 
 Phantom Hound (4th) (18)
 
@@ -3631,9 +3631,9 @@ attempts to attack one hostile creature within 5 feet of it each turn, using
 your spell modifier to make a melee spell attack, dealing 4d8 piercing damage on 
 a hit.
 
-```
+---
 
-```
+---
 
 Private Sanctum (4th) (19)
 
@@ -3656,9 +3656,9 @@ the area of the privacy screen.
 - You cannot cross over planes within the area or teleport into or out of the 
 area. 
 
-```
+---
 
-```
+---
 
 Bubble (4th) (20)
 
@@ -3672,9 +3672,9 @@ bubble. The target must make a dexterity saving throw or be wrapped in a bubble
 large enough to contain them for the duration. Nothing can pass through the 
 bubble and there is no way to break it other than with a disintegrate spell.
 
-```
+---
 
-```
+---
 
 Nightmare (4th) (21)
 
@@ -3689,9 +3689,9 @@ saving throw or be frightened. At the end of each of the targets turn for the
 duration they must succeed a wisdom saving throw or take 4d10 psychic damage, 
 ending the spell on a success.
 
-``` 
+--- 
 
-```
+---
 
 Polymorph (4th) (22)
 
@@ -3715,9 +3715,9 @@ damage carries over to the target's regular pool of health.
 
 Targets of this spell cannot perform things that require their original biology.
 
-``` 
+--- 
 
-```
+---
 
 Wall of Fire (4th) (23)
 
@@ -3735,9 +3735,9 @@ wall to deal 5d8 fire damage to any creature that enters within 10 feet of it.
 A creature that enters the area of the wall for the first time on their turn,
 or ends their turn there takes 5d8 fire damage. 
 
-``` 
+--- 
 
-```
+---
 
 Awaken (4th) (24)
 
@@ -3753,9 +3753,9 @@ of the target. The target is charmed by you for 30 days or until you or a
 companion harm them. When the spell ends the target will choose to remain 
 friendly or not based on how you treated them while charmed.
 
-``` 
+--- 
 
-```
+---
 
 Cloudkill (4th) (25)
 
@@ -3771,9 +3771,9 @@ their turn or starts their turn there they must make a constitutiton saving
 throw or take 5d8 poison damage, taking half as much on a success. Creatures
 that do not need to breathe are immune. 
 
-``` 
+--- 
 
-```
+---
 
 Commune With Nature (4th) (ritual) (26)
 
@@ -3793,9 +3793,9 @@ miles of the point you cast this spell. You may also choose to learn facts about
 area.
 - Influences from other planes of existence
 
-``` 
+--- 
 
-```
+---
 
 Restoration (4th) (27)
 
@@ -3806,9 +3806,9 @@ Casting Time: 10 minutes
 Description:
 You perform a ritual of restoration on one creature, curing them of any disease, corruption, curse, or parasite, and restoring all of their sanity. 
 
-``` 
+--- 
 
-```
+---
 
 Antimagic Field (4th) (28)
 
@@ -3821,9 +3821,9 @@ You create an area of antimagic at a point within range. The area may range from
 a 5 foot radius sphere to a 50 foot radius sphere. All magical effects in the
 area cease for the duration.
 
-``` 
+--- 
 
-```
+---
 
 Revivify (4th) (29)
 
@@ -3835,9 +3835,9 @@ Description:
 You touch one creature who died no more than 1 minute ago and raise them to 
 life with 1 hitpoint. roll a 1d20, on a 5 or lower this spell fails. 
 
-``` 
+--- 
 
-```
+---
 
 Cardiac Arrest (4th) (30)
 
@@ -3853,9 +3853,9 @@ way for anyone to possible discern that magic killed the target other than
 casting detect magic and looking at their body within 10 minutes of death. 
 Autopsy suggests the target died of a heart attack.
 
-``` 
+--- 
 
-```
+---
 
 Conjure Devil (4th) (31)
 
@@ -3869,9 +3869,9 @@ for an hour and is capable of performing verbal commands for that duration.
 After an hour the devil is free to act as it wishes on your plane. The devil
 appears at a point within 30 feet.
 
-``` 
+--- 
 
-```
+---
 
 Scrying (4th) (ritual) (32)
 
@@ -3893,9 +3893,9 @@ invisible objects. The wisdom save's DC may be modified by the following:
 - +4 Possession or garment
 - +10 Body part, lock of hair, bit of nail, or other bodily material.
 
-```
+---
 
-```
+---
 
 Chain Lightning (4th) (33)
 
@@ -3913,9 +3913,9 @@ of them who has not yet been targeted, this process ends only if no creatures
 are close enough to be targeted or all creatures within 10 feet have already 
 been targeted. 
 
-```
+---
 
-```
+---
 
 Sunburst (4th) (33)
 
@@ -3926,11 +3926,11 @@ Casting Time: 1 action
 Description:
 A ray of golden light sears forward from the palms of your hands, in a line 120 feet long and 5 feet wide, burning and blinding all creatures in its path. All creatures caught within the area of effect must make a dexterity saving throw or take 6d8 and become blinded for 1d4 turns. On a successful save a creature takes half as much damage and is not blinded. The ground and any objects within the area of effect glow with bright light out to 20 feet for 1 minute after this spell is cast. 
 
-```
+---
 
 # 5th level spells
 
-```
+---
 
 Conjure Demon (5th) (1)
 
@@ -3944,9 +3944,9 @@ for an hour and is capable of performing verbal commands for that duration.
 After an hour the demon is free to act as it wishes on your plane. The demon
 appears at a point within 30 feet.
 
-``` 
+--- 
 
-```
+---
 
 Summon Undead Horde (5th) (2)
 
@@ -3965,9 +3965,9 @@ The raised dead are under your command for a week, after which time they roam
 the world and do as they please. Undead above 0 hitpoints created by this spell 
 may be healed for 1d6 hitpoints when mending is cast on them.
 
-```
+---
 
-```
+---
 
 Disintegrate (5th) (3)
 
@@ -3982,9 +3982,9 @@ constitution saving throw or take 10d8 + 20 Damage or half as much on a success.
 A creature reduced to 0 or lower hitpoints by this spell is vaporized and falls 
 under the obliterated status effect.
 
-```
+---
 
-```
+---
 
 Time Stop (5th) (4)
 
@@ -4000,9 +4000,9 @@ after the spell ends.
 
 You may end the spell early by saying "Time will begin to move again".
 
-```
+---
 
-```
+---
 
 Rite of the Power (5th) (5)
 
@@ -4037,9 +4037,9 @@ You also gain 2d10+20 temporary hitpoints for the duration. You may end this
 spell early as an action. The spell may last longer than the listed duration at
 the discretion of your GM.
 
-```
+---
 
-```
+---
 
 Judgement (5th) (6)
 
@@ -4055,9 +4055,9 @@ constitution saving throw or take 10d10+20 radiant damage, taking half as much
 on a success. If the target is reduced to or below 0 hitpoints they are damned 
 to hell. 
 
-```
+---
 
-```
+---
 
 Gateway (5th) (7)
 
@@ -4073,9 +4073,9 @@ a point you describe based off of distance from your current position.
 The doorway remains for the duration and creatures may pass through it to the 
 area described and back to the location of casting as they please for that time.
 
-```
+---
 
-```
+---
 
 Perish (5th) (8)
 
@@ -4087,9 +4087,9 @@ Description:
 You simply speak the word "perish", laced with magical power, at one creature 
 within range. If the target currently has 80 hitpoits or less they fall dead.
 
-```
+---
 
-```
+---
 
 Invincibility (5th) (9)
 
@@ -4101,9 +4101,9 @@ Description:
 You touch one creature and make them immune to all forms of damage for the 
 duration.
 
-```
+---
 
-```
+---
 
 Heal (5th) (10)
 
@@ -4116,9 +4116,9 @@ You conjure a massive amount of healing energy that washes over any amount of
 creatures of your choice within range. You heal 500 hitpoints, spread as you
 wish amongst the targets.
 
-```
+---
 
-```
+---
 
 Shapeshift (5th) (11)
 
@@ -4130,9 +4130,9 @@ Description:
 You transform into one creature of your choice, assuming their stats other than
 mental ones, just the same as a polymorph spell.
 
-```
+---
 
-```
+---
 
 Regenerate (5th) (12)
 
@@ -4147,9 +4147,9 @@ each of their turns. The target also grows back any lost bodily members over
 the course of 10 minutes and is cured of any diseases or parasites that afflict
 them.
 
-```
+---
 
-```
+---
 
 Raise Dead (5th) (13)
 
@@ -4163,9 +4163,9 @@ regenerate any missing body parts and the spell fails if they are missing vital
 organs or have been dead for more than 1 year. The target has a -8 to all checks
 and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2).
 
-```
+---
 
-```
+---
 
 Miracle (5th) (14)
 
@@ -4185,9 +4185,9 @@ your miracle.
 |  4           |  All the dead from the nearest cemetary raise to life         |
 | ------------ | ------------------------------------------------------------- |
 
-```
+---
 
-```
+---
 
 Mindwash (5th) (15)
 
@@ -4205,9 +4205,9 @@ innacurate information you may give due to your new fabricated memories, meaning
 that no magical or mundane method of detecting lies may discern that you are 
 lying. 
 
-```
+---
 
-```
+---
 
 Clone (5th) (16)
 
@@ -4224,9 +4224,9 @@ creature during the casting of the spell using the same components from the
 casting but sourced from different creatures. Alterations of clones may cause
 unintended effects, as decided by your GM.
 
-```
+---
 
-```
+---
 Mindswap (5th) (17)
 
 Range: touch
@@ -4245,14 +4245,14 @@ the original target, your mind and the targets mind are hurled across the space
 between your respective bodies at the time concentration is lost and you both 
 take 4d10+10 psychic damage. 
 
-```
+---
 
 # 6th Level Spells
 
 ## 6th level spells Disclaimer
 6th level spells are not intended to be balanced, and their material components cannot be ignored by using a spellcasting focus
 
-```
+---
 
 Black Hole (6th) (1)
 
@@ -4273,9 +4273,9 @@ their action on their turn to grab onto something sturdy and make an athletics
 check against your spell DC, not being moved by the black hole on a success, 
 they may repeat this check every turn that the blackhole is at play.
 
-```
+---
 
-```
+---
 
 Seraphic Transformation (6th) (2)
 
@@ -4291,9 +4291,9 @@ radiant damage. A creature reduced to or below 0 hitpoints by this spell is
 obliterated. You may designate any amount of creatures to be spared by this 
 spell, only being reduced to 1 hitpoint if it would kill them.  
 
-```
+---
 
-```
+---
 
 Longevity (6th) (3)
 
@@ -4306,9 +4306,9 @@ Every humanoid within a 1 mile radius of you must make a constitution saving
 throw, on a failure they are instantly killed. Every creature that is killed by
 this spell adds a year to your natural lifespan.
 
-```
+---
 
-```
+---
 
 Time Jump (6th) (4)
 
@@ -4343,9 +4343,9 @@ will continue to exist. You are now unbound by previous timelines.
 | 3-4  | Later     |
 | ---- | --------- |
 
-```
+---
 
-```
+---
 
 Summon Leviathan (6th) (5)
 
@@ -4373,9 +4373,9 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 |   8  |  The Emperor      |  
 | ---- | ----------------- |
 
-```
+---
 
-```
+---
 
 Grand Resurrection (6th) (5)
 
@@ -4389,4 +4389,4 @@ you speak aloud for the entire duration of casting this spell. The target
 returns to life in perfect health and free of any curses in an area within 100
 feet of you.
 
-```
+---

@@ -219,7 +219,7 @@ on your turn there are certain things you may do without expending anything! You
 When you make an attack, roll 1d20 and add the associated modifiers to the roll. The goal of this roll is to roll above the AC of your target. If your roll beats the AC of your target the attack hits.
 
 ##### Attack Damage
-When an attack hits roll damage for that attack, roll the size and number of dice specified by the weapon or ability and add the applicable ability modifier unless the weapon or ability states otherwise.
+When an attack hits roll damage for that attack, roll the size and number of dice specified by the weapon or ability and add the applicable ability modifier unless the weapon or ability states otherwise. 
 
 ##### Dual Wielding
 You may wield a one handed light weapon in your off hand and make attacks with it as a bonus action. You may not add your applicable modifier to the damage of the bonus action attack.
@@ -301,14 +301,40 @@ You attempt to hide, making a stealth check against the passive perception of ev
 ## Hitpoints
 Hitpoints are a measure of your physical wellbeing and consciousness. When your hitpoints drop to 0 or lower you fall unconscious. If you have 0 or fewer hitpoints on your turn you must expend a hit dice and roll a d20, an 11 or higher is considered a success. On 3 Cumulative successes you survive, On 3 cumulative failures you die. if you are at 0 hitpoints and have no hit dice on the start of your turn you die. If you sustain damage greater than 2 times your maximum hitpoints you die instantly.
 
+### Temporary Hitpoints
+Temporary hitpoints disappear after an hour unless specified otherwise and are granted by a multitude of features and spells, if you take damage and have temporary hitpoints, subtract the damage from your temporary hitpoints with the remaining damage effecting your regular hitpoints.
+
 ### VARIANT RULE: Conscious At No Health
 Rather than passing out immediately when reduced to 0 or fewer hitpoints you may make a health roll against the damage you sustained or 6 + half the damage sustained (whichever is higher) on a success you remain standing. Repeat this roll at the start of each of your turns, you fall unconscious and begin dying on a failure. Each time you take additional damage, increase the DC by half that damage value and roll again.
 
 ### Damage
 When you sustain damage remove the amount of damage you took from your current hitpoints
 
-### Temporary Hitpoints
-Temporary hitpoints disappear after an hour unless specified otherwise and are granted by a multitude of features and spells, if you take damage and have temporary hitpoints, subtract the damage from your temporary hitpoints with the remaining damage effecting your regular hitpoints.
+### Damage Types
+Different sources of damage will cause different types of damage, which is an important distinction that you'll learn about later. The following chart is a list of damage types and their contexts.
+
+```
+
++-------------+-----------------------------------------------------------------+
+| Damage Type |                           Description                           |
++-------------+-----------------------------------------------------------------+
+| Bludgeoning | Damage from blunt attacks                                       |
+| Piercing    | Damage from stabbing attacks                                    |
+| Slashing    | Damage from gashing attacks                                     |
+| Fire        | Damage from heat and fire                                       |
+| Cold        | Damage from cold and water/ice                                  |
+| Lightning   | Damage from electricity or lightning                            |
+| Thunder     | Damage from concussive sound                                    |
+| Acid        | Damage from chemical melting                                    |
+| Poison      | Damage from poisons                                             |
+| Necrotic    | Damage from rot or "dark energy"                                |
+| Radiant     | Damage from light energy, but not lasers (that would be stupid) |
+| Force       | Damage from a magical "push", raw energy                        |
+| Psychic     | Damage incurred from damage to the mind                         |
+| True        | Unblockable damage that directly harms                          |
++-------------+-----------------------------------------------------------------+
+
+```
 
 ### Damage Resistance
 Certain features and armors may grant a damage resistance score or a damage type resistance, these two things are very different from each other. Below you may find the distinctions between the two.

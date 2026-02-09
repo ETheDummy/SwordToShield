@@ -489,8 +489,8 @@ As an action on your turn you may expend 1d4 (rolled before expending) hit dice 
 #### Absorption (12)
 If you are immune to a damage type you regain hitpoints equal to the damage you would take if you were not immune when you are targeted by an effect that deals that damage type. If you are not already immune to a damage type you gain the effects of "Elemental Immunity" but not the effects of this corruption.
 
-#### Hyper Regeneration (13)
-At the start of each of your turns you regain 1d8 + your constitution modifier hitpoints. If any of your limbs are removed from your body they regrow over the course of 1d4 turns. In order to die you must be reduced to negative hp greater than or equal to your max HP.
+#### Regeneration (13)
+At the start of each of your turns you regain 1d8 + your constitution modifier hitpoints unless you are incapacitated. If any of your limbs are removed from your body they regrow over the course of 1d4 turns. You do not need to expend hit dice for death saving throws and you automatically pass them. In order to die you must be reduced to negative hp greater than or equal to your max HP.
 
 #### Otherworldly Boon (14)
 A random creature across the planes learns of your existence and wishes you success. Once per session whenever you fail a check your GM may choose for you to succeed instead, as your otherworldly benefactor tips the scales in your balance. roll a 1d4 for which creature learns of you from the following:
