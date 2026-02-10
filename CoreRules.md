@@ -644,7 +644,7 @@ Language of leviathans, beings older than the universe.
 While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
 
 ### Radiative Corruptants
-A radiative corruptant corrupts over an area of effect, with the corruption chance and corruptive effects getting more and more dire as you get closer. The following chart outlines distance from different strength radiative corruptants and how that might affect an adventurer as well as constitution save DCs for resisting the corruptive effect.
+A radiative corruptant corrupts over an area of effect, with the corruption chance and corruptive effects getting more and more dire as you get closer. The following chart outlines distance from different strength radiative corruptants and how that might affect an adventurer as well as constitution save DCs for resisting the corruptive effect. Additionally, if you roll a natural 20 on the saving throw you will instead gain a corruption from a chart of one severity lower than your best possible outcome for the specific corruptant. 
 
 #### Extreme Corruptant
 

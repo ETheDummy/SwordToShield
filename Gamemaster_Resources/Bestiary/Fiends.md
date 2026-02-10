@@ -130,6 +130,47 @@ following:
 
 ```
 
+### Rava
+Named for the Aninandrius word for "Hunger" Ravas are a type of demon who stalk humanoids and feed on their life energy. A Rava will stalk its target for weeks at a time before pouncing once the target is too weak to fight back. Those being stalked by a Rava often feel a constant sense of unease and being followed. During quiet times, a Rava's prey can hear the constant chattering of their hungry and eager jaws. When manifested fully to attack, Ravas appear as tall spindly humanoid creatures with long thing teeth covering their entire face in a permanent grimace.
+
+```
+Rava
+Medium Demon    
+XP: 500
+HP: 20(3d8+6) Current:
+AC: 12(natural hide)
+Speed: 30ft, Climb 20ft
+Proficiency Bonus: +3
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 14| 08| 13| 08|
+| +3| +0| +2| -1| +1| -1|
+|   |   |   |   |   |   |
+
+# Features:
+- Unnerving Presence: When a creature enters within 20 feet of the Rava they must make a dc 14 wisdom saving throw or become frightened. A frightened creature may repeat this saving throw at the end of their turn and becomes immune to this effect for one hour on a successful save.
+- Poison immunity: The Rava has immunity to poison damage
+
+# Attacks:
+
+- Bite +5 2d6+3 piercing damage, 1 target within 5 feet
+- Slam +5 1d10+3 bludgeoning damage, 1 target within 10 feet
+
+# Actions: 
+- Spellcasting: The Rava is capable of casting spells. its spell attack modifier 
+is +4 and its spell save DC is 12.
+
+# Spellbook
+
+## 1st Level spells (2 per day)
+Sickening Ray
+Sleep
+
+## 2nd level spells (At will)
+Lesser Invisibility
+
+```
+
+
 ## Devils
 Devils are more orderly creations of evil, all are capable of reason and may 
 even find peaceful terms to end an encounter, so long as it benefits them.
