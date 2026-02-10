@@ -7,12 +7,12 @@
 #  | | | | |_| | | | | | | (_| | | | | (_) | | (_| \__ \                       #
 #  \_| |_/\__,_|_| |_| |_|\__,_|_| |_|\___/|_|\__,_|___/                       #
 ################################################################################
-                                       
+
 ```
 Humanoids are intelligent beings, capable of creation, reason, and moral judgment,
 created by the gods. Humanoids come in all sorts of shapes and sizes and may even
-be capable of reproducing with non-Humanoids such as dragons. All offspring of 
-Humanoids are equally Humanoid, just in a different flavor. 
+be capable of reproducing with non-Humanoids such as dragons. All offspring of
+Humanoids are equally Humanoid, just in a different flavor.
 
 
 ### Commoners
@@ -34,14 +34,14 @@ Proficiency Bonus: +0
 
 # Features
 
-- Cowardace: The Commoner has disadvantage on checks and saves against being 
+- Cowardace: The Commoner has disadvantage on checks and saves against being
 frightened
 
 # Attacks
 
 - Club +0 1d4 bludgeoning damage, 1 target within 5 feet.
 
-``` 
+```
 
 ```
 
@@ -59,14 +59,14 @@ Proficiency Bonus: +0
 
 # Features
 
-- Cowardace: The Commoner has disadvantage on checks and saves against being 
+- Cowardace: The Commoner has disadvantage on checks and saves against being
 frightened
 
 # Attacks
 
 - Club +0 1d4 bludgeoning damage, 1 target within 5 feet.
 
-``` 
+```
 
 ```
 
@@ -84,7 +84,7 @@ Proficiency Bonus: +0
 
 # Features
 
-- Cowardace: The Commoner has disadvantage on checks and saves against being 
+- Cowardace: The Commoner has disadvantage on checks and saves against being
 frightened
 
 # Attacks
@@ -109,7 +109,7 @@ Proficiency Bonus: +0
 
 # Features
 
-- Cowardace: The Commoner has disadvantage on checks and saves against being 
+- Cowardace: The Commoner has disadvantage on checks and saves against being
 frightened
 
 # Attacks
@@ -120,7 +120,7 @@ frightened
 
 ### Cultists
 In many settings you may often encounter those who serve some dark master in
-exchange for magical power. 
+exchange for magical power.
 
 ```
 
@@ -144,8 +144,8 @@ Proficiency Bonus: +1
 
 # Actions
 
-- Cast a spell: The cultist knows 2 cantrips and 1 first level spell from the 
-warlock spell list and may cast any of them on its turn. Charisma is the 
+- Cast a spell: The cultist knows 2 cantrips and 1 first level spell from the
+warlock spell list and may cast any of them on its turn. Charisma is the
 cultist's casting mod, it has a +3 to hit and a spell save DC of 11.
 
 ```
@@ -166,7 +166,7 @@ Proficiency Bonus: +2
 
 # Features
 
-- Zealous: The Cultist is sure of their ways and has advantage on saves against 
+- Zealous: The Cultist is sure of their ways and has advantage on saves against
 being charmed or frightened.
 
 # Attacks
@@ -176,8 +176,8 @@ being charmed or frightened.
 # Actions
 
 - Cast a spell: The cultist knows 2 cantrips, 2 first level spells and 1
-second level spell from the warlock spell list and may cast any of them on its 
-turn. Charisma is the cultist's casting mod, it has a +5 to hit and a 
+second level spell from the warlock spell list and may cast any of them on its
+turn. Charisma is the cultist's casting mod, it has a +5 to hit and a
 spell save DC of 13.
 
 ```
@@ -198,7 +198,7 @@ Proficiency Bonus: +3
 
 # Features
 
-- Zealous: The Cultist is sure of their ways and has advantage on saves against 
+- Zealous: The Cultist is sure of their ways and has advantage on saves against
 being charmed or frightened.
 
 # Attacks
@@ -207,9 +207,9 @@ being charmed or frightened.
 
 # Actions
 
-- Cast a spell: The cultist knows 2 cantrips, 3 first level spells, 2 second 
-level spells, and 1 third level spell from the warlock spell list and may cast 
-any of them on its turn. Charisma is the cultist's casting mod, it has a +7 to 
+- Cast a spell: The cultist knows 2 cantrips, 3 first level spells, 2 second
+level spells, and 1 third level spell from the warlock spell list and may cast
+any of them on its turn. Charisma is the cultist's casting mod, it has a +7 to
 hit and a spell save DC of 15.
 
 ```
@@ -267,10 +267,10 @@ Proficiency Bonus: +2
 # Actions
 
 - Throw: The Bruiser attempts to pick up one creature of large size or smaller
-within 15 feet of it and throw them. The target must make a DC 14 strength 
+within 15 feet of it and throw them. The target must make a DC 14 strength
 saving throw or be picked up and thrown 60 feet in one direction and take 2d6
 bludgeoning damage. Any creatures in the path of the thrown creature must make
-a DC 14 dexterity saving throw or be hit, also taking the 2d6 bludgeoning 
+a DC 14 dexterity saving throw or be hit, also taking the 2d6 bludgeoning
 damage.
 
 ```
@@ -329,5 +329,157 @@ block, adding 2 to his AC for this attack.
 - Longbow +4 1d8 piercing damage, 1 target within 5 feet
 
 # Actions
+
+```
+
+### Soldiers
+Soldiers fight for many a cause, and may serve in the army of a formal state or
+as private mercenaries for a company. Either way, they are set apart from
+common thugs by their superior equipment, organization, and lethality.
+
+```
+
+Foot Soldier
+Medium Humanoid
+XP: 100
+HP: 12(2d6+1)
+AC: 15(Chain shirt)
+Speed: 30ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 15| 14| 15| 10| 10| 12|
+| +2| +2| +2| +0| +0| +1|
+| X |   |   |   |   |   |
+
+# Features
+
+# Attacks
+
+- Spear +3 1d8+2 piercing damage, 1 target within 5 feet.
+- Shortbow +3 1d6+2 piercing damage, 1 target within 30 feet.
+
+# Actions
+
+```
+
+```
+
+Elite Soldier
+Medium Humanoid
+XP: 150
+HP: 15 (4d6+1)
+AC: 17(Half plate)
+Speed: 30ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 14| 15| 10| 10| 12|
+| +3| +2| +2| +0| +0| +1|
+| X |   |   |   |   |   |
+
+# Features
+
+# Attacks
+
+- Spear +5 1d8+3 piercing damage, 1 target within 5 feet.
+- Light crossbow +4 1d8+2 piercing damage, 1 target within 80 feet.
+
+# Actions
+
+```
+
+```
+
+Cavalry Soldier
+Medium Humanoid
+XP: 200
+HP: 22 (4d8+4)
+AC: 16(Studded leather, shield)
+Speed: 30/60ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 17| 14| 16| 10| 10| 12|
+| +3| +2| +2| +0| +0| +1|
+| X | X |   |   |   |   |
+
+# Features
+
+- Proficient in animal handling
+- Charge: If this creature moves at least 15 feet in a straight line prior to
+making a successful lance attack, the target must pass a DC 15 strength saving
+throw or be knocked prone.
+
+# Attacks
+
+- Lance +5 1d12+3 piercing damage, 1 target within 10 feet. Disadvantage if within 5 feet.
+- Handaxe +5 1d6+3 piercing damage, 1 target within 20 feet.
+
+# Actions
+
+```
+
+```
+
+Cavalry Medic
+Medium Humanoid
+XP: 500
+HP: 22 (4d8+4)
+AC: 16(Studded leather, shield)
+Speed: 30/60ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 15| 14| 16| 10| 16| 12|
+| +2| +2| +2| +0| +3| +1|
+|   | X |   |   | X |   |
+
+# Features
+
+- Proficient in animal handling, medicine
+
+# Attacks
+
+- Scimitar +4 1d6+2 slashing damage, 1 target within 5 ft.
+
+# Actions
+
+- Heal. As an action, target a creature within 5ft and heal them 1d6 HP.
+
+```
+
+```
+
+Cavalry Officer
+Medium Humanoid
+XP: 1000
+HP: 60 (10d10+5)
+AC: 17(Half plate)
+Speed: 30/60ft
+Proficiency Bonus: +3
+|STR|DEX|CON|INT|WIS|CHA|
+| 20| 17| 18| 10| 10| 15|
+| +5| +3| +4| +0| +0| +2|
+| x | X |   |   |   |   |
+
+# Features
+
+- Proficient in animal handling, persuasion
+- Multiple actions: this creature takes 3 actions per turn
+
+# Attacks
+
+- Longsword +8 1d8+5 slashing damage, 1 target within 5 ft.
+- Hand crossbow +6 1d6+3 piercing damage, 1 target within 30 ft.
+- Net +6, 1 target within 5 ft. Causes target to be restrained on hit. Can be
+broken with a DC11 STR save or dealing 5 HP slashing damage to the net through
+10 AC. The officer may not make another attack on the same turn it throws the
+net.
+
+# Actions
+
+- Inspire. As an action, the officer targets one friendly creature that it can
+see. The creature gains advantage on its next attack roll.
+- Parry. As a reaction to a creature within 5ft being targeted by a weapon
+attack, the officer intervenes, increasing the AC of the targeted creature by 5
+until the start of the officers next turn.
+
 
 ```

@@ -7,14 +7,14 @@
 #  | |_/ /  __/ (_| \__ \ |_\__ \                                              #
 #  \____/ \___|\__,_|___/\__|___/                                              #
 ################################################################################
-                              
+
 ```
 Beasts are mindless but naturally occuring animals. Whether evolved or magically
 corrupted they are accepted into the natural order.
 
 
 ## Arachnids
-Arachnids are the classification of beast that walk on eight legs. They have 
+Arachnids are the classification of beast that walk on eight legs. They have
 hard exoskeletons rather than bones.
 
 ```
@@ -31,7 +31,7 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Websense: The Giant Spider Innately knows when something steps on the web it 
+- Websense: The Giant Spider Innately knows when something steps on the web it
 currently is on
 
 # Attacks:
@@ -41,7 +41,7 @@ currently is on
 # Actions:
 - Webshot (recharge 6) DC 14 strength saving throw or become restrained 1 target
 within 40 feet
-``` 
+```
 
 ```
 Hunter Spider
@@ -57,7 +57,7 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Websense: The Hunter Spider Innately knows when something steps on the web it 
+- Websense: The Hunter Spider Innately knows when something steps on the web it
 currently is on
 
 # Attacks:
@@ -83,9 +83,9 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Websense: The Tarantula Innately knows when something steps on the web it 
+- Websense: The Tarantula Innately knows when something steps on the web it
 currently is on
-- Ambush: The tarantula deals an additional 3d6 damage to a creature that is 
+- Ambush: The tarantula deals an additional 3d6 damage to a creature that is
 surprised by it.
 
 # Attacks:
@@ -99,7 +99,7 @@ within 40 feet
 
 ## Insectoids
 Insects and insectoids are creatures with 6 or more legs which are not arachnids
-but have exoskeletons. Irrational and cutthroat, insectoids are closer to 
+but have exoskeletons. Irrational and cutthroat, insectoids are closer to
 biological machine than animal.
 
 ```
@@ -124,7 +124,7 @@ Proficiency Bonus: +1
 
 # Actions:
 
-``` 
+```
 
 ```
 Giant Centipede
@@ -140,30 +140,30 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Neurotoxin: A creature reduced to 1 hitpoint or lower by the centipede is 
+- Neurotoxin: A creature reduced to 1 hitpoint or lower by the centipede is
 paralyzed for 1 hour, this effect may be ended early with a poison antidote.
-- Sensitive: The centipede can sense movement along the ground within 60 feet 
+- Sensitive: The centipede can sense movement along the ground within 60 feet
 of it.
 
 # Attacks:
 
-- Bite +3 to hit, 2d6 piercing damage, DC 12 con save or take 4d6 poison damage 
+- Bite +3 to hit, 2d6 piercing damage, DC 12 con save or take 4d6 poison damage
 1 target within 20 feet.
 
 # Actions:
-- Swallow: The centipede attempts to swallow a creature of large size or 
+- Swallow: The centipede attempts to swallow a creature of large size or
 smaller. The centipede makes a bite attack, on a hit the target must make a DC
 14 strength saving throw or be swallowed. A swallowed creature takes 5 acid
-damage on the start of their turn and is spit back up if they deal 10 or more 
+damage on the start of their turn and is spit back up if they deal 10 or more
 damage to the centipede in one turn, or succeed a DC 16 strength check to exit
 through its mouth as an acion.
 
-``` 
+```
 
 ## Mammalia
 Mammalia or mammals are the animals which produce live offspring and milk, they
 often have fur or hair. Mammals are the kindest designation of beast, sometimes
-even yielding to offers of companionship with Humanoids. 
+even yielding to offers of companionship with Humanoids.
 
 ```
 Wolf
@@ -179,7 +179,7 @@ Proficiency Bonus: +1
 |   |   |   |   |   |   |
 
 # Features:
-- Pack Mentality The Wolf has advantage on attacks against creatures within 5 
+- Pack Mentality The Wolf has advantage on attacks against creatures within 5
 feet of an ally
 
 # Attacks:
@@ -194,7 +194,7 @@ Tiny Beast
 XP: 10
 HP: 1(1d4-1)
 AC: 10(natural)
-Speed: 5ft, Climb 5ft, Fly 60ft 
+Speed: 5ft, Climb 5ft, Fly 60ft
 Proficiency bonus: +0
 |STR|DEX|CON|INT|WIS|CHA|
 | 04| 10| 08| 03| 14| 03|
@@ -259,7 +259,39 @@ taken a turn the damage of their attack is increased by 2d6.
 
 - Pounce: The lynx may jump up to 25 feet as an action. If the lynx lands in the
 space of another creature it may make a claw attack against them and remain in
-their space on a hit. 
+their space on a hit.
+
+```
+
+### Valari mammalia
+
+These mammals are native to Valarus, in Potenria.
+
+```
+Auroch
+Large Beast
+XP: 250
+HP: 30(6d6+9)
+AC: 11 (natural)
+Speed: 30ft
+Proficiency Bonus: +0
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 10| 17| 03| 12| 9|
+| +3| +0| +3| -4| +1| -1|
+|   |   |   |   |   |   |
+
+# Features:
+
+- Charge. If the auroch moves at least 20 feet straight toward a creature and
+then hits it with a ram attack on the same turn, that target must succeed on a
+DC 14 Strength saving throw or be knocked prone. The auroch rolls an extra
+damage die for the attack (3d6+3).
+
+# Attacks:
+
+- Ram +5 to hit, 2d6+3 bludgeoning damage, 1 target within 5 feet.
+
+# Actions:
 
 ```
 
@@ -298,7 +330,7 @@ Large Beast
 XP: 250
 HP: 22(4d6+8)
 AC: 18 (natural, carapace)
-Speed: 35ft, Swim 30ft 
+Speed: 35ft, Swim 30ft
 Proficiency Bonus: +2
 |STR|DEX|CON|INT|WIS|CHA|
 | 17| 10| 15| 03| 12| 03|
@@ -316,7 +348,7 @@ targets may be restrained this way at once.
 
 # Actions:
 
-- Devour: As an action the crab attempts to devour one creature it is 
+- Devour: As an action the crab attempts to devour one creature it is
 restraining, the target must make a DC 16 strength check or take 3d8 piercing
 damage if it is size large or below.  
 ```
