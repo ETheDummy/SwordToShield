@@ -12,7 +12,7 @@
 # Introduction
 
 ## What is Sword to Shield?
-Well, someone didn't read the readme! Sword to shield is a TTRPG (Short for tabletop role playing game) which is a sort of role playing game that runs in a collective conscience rather than as a computer program on thinking rocks. This particular system is based on 2 sided, 4 sided, 6 sided, 8 sided, 10 sided, 12 sided, 20 sided, and 100 sided dice (Hereafter referred to as "1d2" or "a coin" "1d4" "1d6" "1d8" "1d10" "1d12" "1d20" and "1d100" respectively). 
+s2s is when erina is a bitch!!! and she's not allowed to play anymore >:(
 
 ## System Intent
 This system is intended to be used for high difficulty and deadly adventures, Player Characters are intended to start weak and become strong through a hero's journey. At no point during a game in this system should a character feel like an unkillable demigod who can press a button and "win" every time.
@@ -22,7 +22,7 @@ This system is intended to be used for high difficulty and deadly adventures, Pl
 ## Necessary Disclaimers
 
 ### X-Cards
-In every TTRPG there are hardcore topics that may be encountered, ranging from bloody death to kidnapping to cults. It is important that everyone at the table playing a game be comfortable with ALL the content included. To players: if you feel uncomfortable at any point communicate "x-card" to your GM in some way along with a description of what is making you uncomfortable and the GM will handle it as quickly as possible. To GMs: if a player calls x-card, hear them out and quickly move away form the triggering subject matter. Many people come from all different walks of life under the TTRPG umbrella and it is important that ALL of them feel comfortable while playing in order to ENJOY that time. 
+In every TTRPG there are hardcore topics that may be encountered, ranging from bloody death to kidnapping to cults. It is important that everyone at the table playing a game be comfortable with ALL the content included. To players: if you feel uncomfortable at any point communicate "x-card" to your GM in some way along with a description of what is making you uncomfortable and the GM will handle it as quickly as possible. To GMs: if a player calls x-card, hear them out and quickly move away form the triggering subject matter. Many people come from all different walks of life under the TTRPG umbrella and it is important that ALL of them feel comfortable while playing in order to ENJOY that time.
 
 ### Good Manners for Players
 Now, not every uncomfortable situation will be the result of a GM. As a player you should always strive to be inclusive and careful of the feelings of other players. "Its what my character would do" is never a valid excuse to kill orphans and burn villages for no reason. Do not Hog all the fun, do not make a case against a ruling at the table, and do not complain when not everything goes your way.
@@ -44,13 +44,13 @@ In S2S there are six abilities, all with differing uses.
 Strength is your measure of raw power, determining how hard you hit and how much you can carry, push, and lift.
 
 ### Dexterity (Dex)
-Dexterity is your measure of agility, It affects your combat readiness & your ability to handle finer motor functions. 
+Dexterity is your measure of agility, It affects your combat readiness & your ability to handle finer motor functions.
 
 ### Constitution (Con)
 Constitution is your measure of physical health and well being, It determines your HP and will and your ability to resist disease
 
 ### Intelligence (Int)
-Intelligence is the measure of things you have learned and your memory, Int checks are commonly made to reason and remember things. 
+Intelligence is the measure of things you have learned and your memory, Int checks are commonly made to reason and remember things.
 
 ### Wisdom (Wis)
 Wisdom is the the measure of your perception and intuition, It determines your passive perception and affects your will
@@ -122,7 +122,7 @@ Skills are the largest method by which you will be using your attributes to inte
 Special skills function almost identically to other skills, but differ in the context they are used and the fact that they can only be gained through boons, feats, or class features.
 
 ### Making a Skill Check
-In order to utilize your skill proficiencies you'll need to roll. Roll a 1d20 and add the modifier of one applicable attribute to the skill you're making a check with along with your proficiency bonus if you have proficiency in the skill. Your success or failure in this kind of check is decided by the GM, and you may have varying degrees of success depending on how high you roll. 
+In order to utilize your skill proficiencies you'll need to roll. Roll a 1d20 and add the modifier of one applicable attribute to the skill you're making a check with along with your proficiency bonus if you have proficiency in the skill. Your success or failure in this kind of check is decided by the GM, and you may have varying degrees of success depending on how high you roll.
 
 ### Luck Points
 Certain features give you something called "luck points". These points can be utilized before making a skill check, attack roll or saving throw, instantly producing a roll of 3 or 18 (player's choice). A player may use a luck point on their roll or the roll of another character they can see.
@@ -134,13 +134,13 @@ Your Gamemaster may provide you "inspiration" before, during, or after a session
 Certain things may grant "advantage" or "disadvantage". A roll made at advantage is rolled twice, with the larger roll being the outcome. A roll made at disadvantage is rolled twice, with the smaller roll being the outcome.
 
 ## Critical Failure and Success
-When you make a roll to determine the outcome of an attempted action a natural roll of 20 always succeeds or hits and a natural roll of 1 always fails or misses. Your GM may choose for natural failures and successes to have additional effects. 
+When you make a roll to determine the outcome of an attempted action a natural roll of 20 always succeeds or hits and a natural roll of 1 always fails or misses. Your GM may choose for natural failures and successes to have additional effects.
 
 ## Player Characters
 As a real human, you are incapable of jumping through time and space to enter a fictional narrative, so you will exert your will in game through a player character! Your player character will receive features, ability scores, and equipment of your choice. In order to create a character you will need to do a wide range of things.
 
 ### Rolling Ability Scores
-Roll 4d6, dropping the lowest roll and adding them together. Repeat this 6 times, recording the total each time. You may designate each of these totals to one ability, with the total becoming that ability's score. Calculate the modifier for each and record it on your sheet. 
+Roll 4d6, dropping the lowest roll and adding them together. Repeat this 6 times, recording the total each time. You may designate each of these totals to one ability, with the total becoming that ability's score. Calculate the modifier for each and record it on your sheet.
 
 #### VARIANT RULE: Stone Set Scores
 Rather than designating your scores to your abilities as you see fit and wish, you may instead designate them to each stat in the order they were rolled. This rule is intended to help you "find" a character rather than make a planned one outright.
@@ -193,7 +193,7 @@ You are capable of performing the following on your turn:
 ### Actions on Your Turn
 on your turn you are capable of taking many different actions, some of the most common ones are listed here:
 
-- Attack: Make one melee or attack against another creature. 
+- Attack: Make one melee or attack against another creature.
 - Cast A Spell: You may cast a spell which you know and has a casting time of one action.
 - Grapple: You make a grapple contest against one creature
 - Dodge: You spend your action readying against incoming attacks. You gain advantage on dexterity checks and all attacks made from an enemy that you see have disadvantage.
@@ -219,7 +219,7 @@ on your turn there are certain things you may do without expending anything! You
 When you make an attack, roll 1d20 and add the associated modifiers to the roll. The goal of this roll is to roll above the AC of your target. If your roll beats the AC of your target the attack hits.
 
 ##### Attack Damage
-When an attack hits roll damage for that attack, roll the size and number of dice specified by the weapon or ability and add the applicable ability modifier unless the weapon or ability states otherwise. 
+When an attack hits roll damage for that attack, roll the size and number of dice specified by the weapon or ability and add the applicable ability modifier unless the weapon or ability states otherwise.
 
 ##### Dual Wielding
 You may wield a one handed light weapon in your off hand and make attacks with it as a bonus action. You may not add your applicable modifier to the damage of the bonus action attack.
@@ -241,7 +241,7 @@ Sometimes in combat you may find it more advantageous to focus fire on a specifi
 | Large extremities (legs)              |             -2 | target's movement speed halved                         |
 ```
 
-This chart defines some target locations that certainly exist on most beasts and humanoids, but certain creatures may not have these structures on their morphology, it is up to the discretion on the GM to decide what the analagous structures for these weakpoints would be on a monster to monster basis as well as perhaps requiring a check to discern a weakspot as a free action. 
+This chart defines some target locations that certainly exist on most beasts and humanoids, but certain creatures may not have these structures on their morphology, it is up to the discretion on the GM to decide what the analagous structures for these weakpoints would be on a monster to monster basis as well as perhaps requiring a check to discern a weakspot as a free action.
 
 #### Casting a Spell
 When casting a spell as an action, refer to the spell's listing in the spell compendium and follow the instructions listed. If a spell refers to a spell attack, whether ranged or melee, the modifier for this attack is your spellcasting ability modifier + your proficiency bonus. Spell will reference many parameters as shorthand, the full explanations are as follows:
@@ -250,12 +250,12 @@ When casting a spell as an action, refer to the spell's listing in the spell com
 For a spell to target a creature or object it must be within the spell's range spell range is expressed as a flat distance or touch. When you cast a touch spell you may also target yourself, although sometimes this may not be a good idea.
 
 ##### Components
-Nearly all spells require either Verbal (the ability to speak) or Somatic (the ability to move your body) components but some higher level spells may require expensive Material components. You cannot cast a spell without the relevant components. 
+Nearly all spells require either Verbal (the ability to speak) or Somatic (the ability to move your body) components but some higher level spells may require expensive Material components. You cannot cast a spell without the relevant components.
 
 ###### Spell Focuses
 Spell components with no listed GP cost are able to be supplemented by simply using a spell focus! If you have a spell focus equipped and cast a spell that has components with no GP cost then ignore the material components of the spell.
 
-##### Duration 
+##### Duration
 Duration refers to the length of time the spell takes place over. Instantaneous spells have no duration as they happen in a single instant, but concentration spells take effect for a specific amount of time or until you choose to end them (in some cases). Certain spells will have a duration but not require concentration
 
 ###### Breaking Concentration
@@ -265,7 +265,7 @@ You may break concentration to end a concentration spell at any time as a free a
 Targets describe who you may make the spell take effect on, often specifying a creature, object, or area of effect.
 
 #### Area of effect
-Certain spells will exert an effect over a wide area, the description of these areas is as follows: 
+Certain spells will exert an effect over a wide area, the description of these areas is as follows:
 
 ##### Cone
 A cone extends in a direction you choose from wherever the spell specifies its point of origin. At any point throughout a cone it's width is equal to distance from the point of origin. A cone's area of effect is determined by its distance.
@@ -284,9 +284,9 @@ A line extends from its point of origin in a straight path up to its length and 
 You select a sphere's point of origin, and the sphere extends outward from that point. The sphere's size is expressed as a radius in feet that extends from the point.
 
 #### Mana and Will Rolls in Spellcasting.
-You may sometimes encounter life or death situations where you need to push your spellcasting abilities to the limits, this is what the will and mana skills are for. 
+You may sometimes encounter life or death situations where you need to push your spellcasting abilities to the limits, this is what the will and mana skills are for.
 
-##### Mana 
+##### Mana
 When you cast a spell you may push your ability to the limit, roll a Mana skill check and the GM will use their discretion to apply special effects to the spell. You must ask your GM before attempting to perform this
 
 ##### Will
@@ -345,7 +345,7 @@ Your damage reduction score is simply a defense against physical damage such as 
 #### Damage Type Resistance
 Damage type resistance is simply an ability to resist a certain type of damage. When you sustain a type of damage you are resistant to, you take half the damage rolled rather than all of it. An example would be the resistance of a warrior in frenzy.
 
-## Battle injuries 
+## Battle injuries
 
 ### Staggered
 Certain weapons and attacks may stagger, when targeted by an attack that staggers the target must make a health roll against the damage sustained or 10 + half the damage sustained, whichever is higher. On a failed save, they have disadvantage on attack rolls and ability checks, and can't take reactions, until the end of their next turn.
@@ -355,7 +355,7 @@ When you are hit by an attack that deals piercing damage the weapon thrusts deep
 
 ### Bleeding Wound
 When you are hit by an attack that deals slashing damage you may sustain extensive damage to surface level soft tissues, leaving a grievous wound if untreated. When hit by a slashing weapon and dealt maximum damage you begin
-to bleed, taking 1d4 damage at the start of each of your turns until you or another creature expend an action to stop the bleeding using a bandage or medical kit. You may also stop the bleeding with a healing spell that rolls a 5 or higher for hitpoints regained or a spell such as lesser restoration. This damage due to bleeding cannot be reduced in any way. 
+to bleed, taking 1d4 damage at the start of each of your turns until you or another creature expend an action to stop the bleeding using a bandage or medical kit. You may also stop the bleeding with a healing spell that rolls a 5 or higher for hitpoints regained or a spell such as lesser restoration. This damage due to bleeding cannot be reduced in any way.
 
 ### Fractures and Breaks
 When you take an amount of bludgeoning damage in a turn that is greater than or equal to half your hitpoints roll a d4. On a 1 your sustain a Break or Fracture. Refer to the chart to see the severity of the injury based on the amount of damage sustained (note that each level of severity stacks with the previous ones)
@@ -370,7 +370,7 @@ When you take an amount of bludgeoning damage in a turn that is greater than or 
 |                    |     move speed may be no greater than 0.        |                  |
 | ------------------ | ----------------------------------------------- | ---------------- |
 ```
-After an amount of time equal to the difference in recovery time between each level of severity your wound moves down one level. Meaning that after 15 days a compound fracture would simply be a broken limb and after 8 more days the broken limb would simply be a sever fracture and so on. Rather than wait the recovery time you may quickly heal a fracture or break by regaining an amount of hitpoints, equal to the recovery time in days, over the course of 1 minute. A lesser restoration or similar spell would also heal the wound instantly. 
+After an amount of time equal to the difference in recovery time between each level of severity your wound moves down one level. Meaning that after 15 days a compound fracture would simply be a broken limb and after 8 more days the broken limb would simply be a sever fracture and so on. Rather than wait the recovery time you may quickly heal a fracture or break by regaining an amount of hitpoints, equal to the recovery time in days, over the course of 1 minute. A lesser restoration or similar spell would also heal the wound instantly.
 
 ### Battle Injury Disclaimer
 These injuries apply to all creatures except for Undead, Leviathans, Plants, Fungi, and Constructs. They are worded in the second person to make them more easily understandable for players but the effects can be applied to most creatures.
@@ -418,7 +418,7 @@ A creature is considered surprised when an action is taken in relation to them b
 - An intangible creature is impossible to touch or damage with nonmagical damage
 
 ### Paralyzed
-- A paralyzed creature is incapacitated and can't move or speak. 
+- A paralyzed creature is incapacitated and can't move or speak.
 - A paralyzed creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
@@ -438,7 +438,7 @@ A creature is considered surprised when an action is taken in relation to them b
 ### Prone
 - A prone creature's only movement option is to crawl at half speed, unless it stands up and thereby ends the condition.
 - The creature has disadvantage on melee attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 5 
+- An attack roll against the creature has advantage if the attacker is within 5
 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 ### Restrained
@@ -559,11 +559,11 @@ Common languages are regional or country-wide languages, if you speak one of the
 #### Ulfen
 Common language of Ulfos, created due to societal isolation from the northern half of the world. Spoken most commonly by traders in the area north of Arourea, spoken by common people in Ulfos.
 
-#### Ebrannan 
-Ebranan is spoken in North and South Ebrana. In North Ebrana, speaking Ebranan is considered to be a sign of belonging to the lower class. 
+#### Ebrannan
+Ebranan is spoken in North and South Ebrana. In North Ebrana, speaking Ebranan is considered to be a sign of belonging to the lower class.
 
 #### Valari
-Valari is spoken in the six tribes of eastern Valarus. There are six dialects, one for each tribe. When you learn Valari, pick which dialect you speak from the following: 
+Valari is spoken in the six tribes of eastern Valarus. There are six dialects, one for each tribe. When you learn Valari, pick which dialect you speak from the following:
 - Sudryal
 - Khiiral
 - Qimari
@@ -605,7 +605,7 @@ Chitterspeak is similar to Deonic, originating from insectoids and other races w
 Primean is a language made of animalistic grunts, roars, trills, Purrs, hisses, barks, coos, chirps, ribbits, squeaks and growls. Primean is a natural language that formed over thousands of years through the interactions of beastfolks and it is ever growing and changing. Chances are, if you meet a beast folk, this is their first language.
 
 #### Anirandrus
-Anirandrus is a language spoken by those who are deep in the Anirite faith, usually those who only engage with others of the faith. It is a language made of social isolation descendant from celestial, speakers of celestial may extract basic words from passages and speech in Anirandrus and vice versa. 
+Anirandrus is a language spoken by those who are deep in the Anirite faith, usually those who only engage with others of the faith. It is a language made of social isolation descendant from celestial, speakers of celestial may extract basic words from passages and speech in Anirandrus and vice versa.
 
 ### Mystic Languages
 These are languages inherently tied to magic and the mystical, tread lightly when speaking in them as even reactive words can be a small magic in their own way.
@@ -638,7 +638,7 @@ Language of The Heavens.
 Language of The Hells.
 
 #### Abyssal
-Language of leviathans, beings older than the universe. 
+Language of leviathans, beings older than the universe.
 
 ## Corruption
 While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
@@ -692,12 +692,12 @@ Contact corruptants corrupts whatever they touch. The type of corruption decided
 The Dark Scepter of Detrorphius the Mad
 Rarity: Artifact
 Attunement: Y
-Description: 
-This black metal staff adorned with a massive purple gem at the top once 
-belonged to Detrorphius the Mad, an evil wizard long destroyed by the forces of 
-good. As an action a creature attuned to this weapon may instantly kill one 
-creature within 120 feet with a blast of dark energy. This object is cursed 
-attuning to it grants you 2 bad corruptions and you must make a DC 18 wisdom 
+Description:
+This black metal staff adorned with a massive purple gem at the top once
+belonged to Detrorphius the Mad, an evil wizard long destroyed by the forces of
+good. As an action a creature attuned to this weapon may instantly kill one
+creature within 120 feet with a blast of dark energy. This object is cursed
+attuning to it grants you 2 bad corruptions and you must make a DC 18 wisdom
 saving throw or fall under one of the following effects:
 
 +------------+--------------------------------------------------------------------------------+
@@ -709,20 +709,20 @@ saving throw or fall under one of the following effects:
 ```
 
 
-### Consumable Corruptants 
+### Consumable Corruptants
 Consumable corruptants are the most unreliable of all corruptants. When consumed the consuming creature must make a flat DC check decided by the corruptant or roll randomly for both the corruption chart and the corruption inflicted. This causes consumable corruptants to either strengthen or significantly weaken characters who consume them.
 
 
 ## Sanity
-Everyone has their mental limits, even honed and well seasoned adventurers. Encounters with the esoteric and unknown, and near death experiences can take a mental toll. 
+Everyone has their mental limits, even honed and well seasoned adventurers. Encounters with the esoteric and unknown, and near death experiences can take a mental toll.
 
 ### Sanity Limit
 Your maximum sanity is equal to your wisdom score, this is your baseline level of perfect mental health, dropping below this level does not inherently spell doom, but can have adverse effects. While at your maximum sanity, no matter how low, you do not suffer from any effects of being mad or insane.  
 
 #### Madness and Insanity
-At certain sanity ranges you gain ill effects called madnesses, until you become completely insane. 
+At certain sanity ranges you gain ill effects called madnesses, until you become completely insane.
 
-### Sanity Ranges 
+### Sanity Ranges
 The following chart details the amount of madnesses you have at a given sanity level. Remember that you cannot be affected by any of these unless you are below your maximum sanity.  
 
 
@@ -742,13 +742,13 @@ The following chart details the amount of madnesses you have at a given sanity l
 ```
 
 #### Madness Effects
-Refer to the [accursed journal](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#madness) for the chart to randomly roll on for the effects of madness. 
+Refer to the [accursed journal](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#madness) for the chart to randomly roll on for the effects of madness.
 
 ### Total Insanity
-While Insane, you lose the ability to think logically, automatically failing any wisdom, intelligence, or charisma saves or checks. You also lose the ability to use any class features, and may only dash, attack, or hide on your turn. Going insane knocks you down to base survival instincts. 
+While Insane, you lose the ability to think logically, automatically failing any wisdom, intelligence, or charisma saves or checks. You also lose the ability to use any class features, and may only dash, attack, or hide on your turn. Going insane knocks you down to base survival instincts.
 
 #### Curing Madness & Insanity
 Curing madness and insanity is simple, a madness effect/insanity is cured whenever you are at a sanity higher than the sanity level at which you acquire it. Meditation, lesser restoration, and restoration are capable of increasing your sanity. The lesser restoration spell or 8 hours of meditation will increase your sanity by 1 up to your maximum sanity level, and the restoration spell will instantly restore you to your maximum sanity.
 
 #### Temporary Cures
-You may not be capable of restoring your sanity completely through one long meditation session, but still wish to be capable in battle. Certain tinctures and temporary remedies may be capable of aiding you. Magical and nonmagical Apothecaries may hold what you seek. 
+You may not be capable of restoring your sanity completely through one long meditation session, but still wish to be capable in battle. Certain tinctures and temporary remedies may be capable of aiding you. Magical and nonmagical Apothecaries may hold what you seek.
