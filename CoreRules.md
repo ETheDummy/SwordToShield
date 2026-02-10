@@ -12,7 +12,7 @@
 # Introduction
 
 ## What is Sword to Shield?
-s2s is when erina is a bitch!!! and she's not allowed to play anymore >:(
+Well, someone didn't read the readme! Sword to shield is a TTRPG (Short for tabletop role playing game) which is a sort of role playing game that runs in a collective conscience rather than as a computer program on thinking rocks. This particular system is based on 2 sided, 4 sided, 6 sided, 8 sided, 10 sided, 12 sided, 20 sided, and 100 sided dice (Hereafter referred to as "1d2" or "a coin" "1d4" "1d6" "1d8" "1d10" "1d12" "1d20" and "1d100" respectively). 
 
 ## System Intent
 This system is intended to be used for high difficulty and deadly adventures, Player Characters are intended to start weak and become strong through a hero's journey. At no point during a game in this system should a character feel like an unkillable demigod who can press a button and "win" every time.
