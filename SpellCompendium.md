@@ -54,7 +54,7 @@ Components: S/M(a melee weapon) \
 Duration: 1 round\
 Casting Time: 1 action\
 Description:\
-You speak words of power into a melee weapon in your hands. For one round after\ casting, the next attack with this weapon will deal an additional 1d6 thunder damage. Once this damage is dealt the spell ends.
+You speak words of power into a melee weapon in your hands. For one round after casting, the next attack with this weapon will deal an additional 1d6 thunder damage. Once this damage is dealt the spell ends.
 
 ---
 
@@ -194,7 +194,7 @@ Casting Time: 1 action\
 Description:\
 You run your hand along the edge of the weapon, as a low flame emits at each
 point your hand passes. The next attack with this weapon deals fire damage equal
-to your\ casting modifier to one creature within 5 feet of the target of your 
+to your casting modifier to one creature within 5 feet of the target of your 
 melee weapon attack.
 
 ---
@@ -753,7 +753,7 @@ Casting Time: 1 action\
 Description:\
 You call forth vines and weeds to entangle and restrain all creatures within a
 20 foot cube originating from a location of your choice. All creatures in this
-area during\ casting must make a strength saving throw or be restrained, they 
+area during casting must make a strength saving throw or be restrained, they 
 may repeat this saving throw at the end of their turn until the spell ends. 
 After this initial effect the spell simply turns the area into difficult terrain
 for the rest of the duration.
@@ -946,10 +946,10 @@ Description:\
 You heal a creature by either touching them or speaking a power word of healing
 to them if they are within 30 feet.
 
-Touch: You touch one creature and they regain 1d8 + your\ casting mod hitpoints
+Touch: You touch one creature and they regain 1d8 + your casting mod hitpoints
 
 Range: You speak to one creature within 30 feet and they regain 1d4 + your \
-casting mod hitpoints.\ Casting this spell at range reduces the\ casting time to
+casting mod hitpoints.\ Casting this spell at range reduces the casting time to
 1 bonus action and removes the somatic component.
 
 ---
@@ -1128,7 +1128,7 @@ Components: S/M (a piece of a plant or raw meat)\
 Duration: instantaneous\
 Casting Time: 1 action\
 Description:\
-You touch the material component used in the\ casting of this spell, instantly
+You touch the material component used in the casting of this spell, instantly
 turning it into an edible form of the material. The amount of food created is
 enough to stock 10 days worth of rations. If this food is not consumed
 within 10 days it expires and crumbles to dust.
@@ -1198,7 +1198,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You touch one creature, bolstering them with bravery. The target gains 
-termporary hitpoints equal to your\ casting modifer and becomes immune to the
+termporary hitpoints equal to your casting modifer and becomes immune to the
 frightened conidition for the duration. When the spell ends, any remaining
 temporary hitpoints from this spell are removed. 
 
@@ -1241,7 +1241,7 @@ Components: V/S/M (an item worth 25gp which is consumed)\
 Duration: instantaneous\
 Casting Time: 1 minute\
 Description:\
-You hold one item for the\ casting time of the spell, identifying the forces
+You hold one item for the casting time of the spell, identifying the forces
 within it using magical energy. You learn all the properties of the item that
 are not shielded against being identified.
 
@@ -1481,7 +1481,7 @@ Duration: until removed\
 Casting Time: 1 action\
 Description:\
 You touch one closed entryway or container and place a magical lock on it until
-this spell is dispelled. You and any creatures you designate during\ casting are
+this spell is dispelled. You and any creatures you designate during casting are
 able to open the object as normal and you may designate a password that unlocks
 the object for 1 minute. The knock spell unlocks this object for 10 minutes. 
 This lock also adds a +10 DC to any checks to break or lockpick the object.
@@ -1752,7 +1752,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You magically heat a metal object. Any creature in contact with the target while
-during the\ casting of this spell takes 2d8 fire damage and for the duration of
+during the casting of this spell takes 2d8 fire damage and for the duration of
 the spell, any creature that starts their turn in contact with the target takes 
 1d6 fire damage. 
 
@@ -1965,7 +1965,7 @@ Description:\
 You wash deafening silence over an area within range. An invisible 15 foot 
 radius sphere centered on a point within range forms, noise is incapable of 
 forming or entering the area. Thunder damage is ineffective in the area and 
-spells requiring vocal\ components fail. All creatures inside the area are 
+spells requiring vocal components fail. All creatures inside the area are 
 deafened.
 
 ---
@@ -1996,7 +1996,7 @@ range. You may move the weapon to another point within range once on each
 of your turns for the duration and you are capable of commanding the weapon
 to attack one creature within 10 feet of it as a bonus action. When the weapon
 makes an attack at a creature make a melee spell attack, on a hit the target
-takes 1d8 + your\ casting modifier force damage.
+takes 1d8 + your casting modifier force damage.
 
 ---
 
@@ -2220,7 +2220,7 @@ Description:\
 You create an invisible viewing point at one area within range that you are
 familiar with. You are capable of hearing or seeing through this viewing point
 which is visible as a blue ball of light to anyone under the effects of the
-detect magic spell. As an action while\ casting this spell you may choose to 
+detect magic spell. As an action while casting this spell you may choose to 
 alternate between hearing through it and seeing through it.
 
 ---
@@ -2312,7 +2312,7 @@ Casting Time: 1 action\
 Description:\
 A 60 foot radius sphere of magical light expands from a point within range. 
 The area of this sphere is bright light and the sphere sheds an additional 120 
-feet of dim light in all directions. Undead creatures in the area during\ casting
+feet of dim light in all directions. Undead creatures in the area during casting
 take 20 radiant damage.
 
 ---
@@ -2420,7 +2420,7 @@ While in this form the target is only capable of moving using a flying speed of
 20 feet. The target is immune to nonmagical damage and has advantage on strength,
 dexterity, and constitution saving throws. The target cannot fall and can fit
 through any hole that air would be able to move through. While in this form the
-target cannot interact with anything physical and is incapable of\ casting spells.
+target cannot interact with anything physical and is incapable of casting spells.
 
 ---
 
@@ -2433,7 +2433,7 @@ Casting Time: 1 hour\
 Description:\
 You inscribe a glyph through a careful and painstaking task, and designate the
 conditions under which it will trigger. There are two types of glyphs, you 
-choose what type to make while\ casting the spell.
+choose what type to make while casting the spell.
 
 Explosive Glyph: Choose from acid, cold, fire, lightning, or thunder. When 
 triggered the glyph will explode into a 60 foot radius sphere of elemental 
@@ -2510,12 +2510,12 @@ Casting Time: 1 minute\
 Description:\
 You create a 10 foot radius hemisphere of magical force that appears as a light
 blue dome. You may choose to make the hemisphere see through or opaque on either
-side while\ casting. The hemisphere remains stationary and the spell ends if you
+side while casting. The hemisphere remains stationary and the spell ends if you
 leave it.
 
-Any creature or object outside of the hemisphere before\ casting is unable to 
+Any creature or object outside of the hemisphere before casting is unable to 
 enter the area and no magical effects or attacks can penetrate from the outside.
-A creature inside the hemisphere during the\ casting is capable of entering and
+A creature inside the hemisphere during the casting is capable of entering and
 exiting as they wish. The inside of the hemisphere is comfortable regardless of
 the climate outside. Creatures inside the hemisphere do not leave the area of 
 hemisphere unless they choose to, meaning they cannot be forced out by removal
@@ -2620,7 +2620,7 @@ Components: V\
 Duration: instantaneous\
 Casting Time: 1 action or 8 hours\
 Description:\
-You channel life force into plants within range. When\ casting this spell you may
+You channel life force into plants within range. When casting this spell you may
 cast it as an action or over the course of 8 hours.
 
 As an action: a 100 foot radius circle of plants centered on a point within
@@ -2679,8 +2679,8 @@ of the spell. Slowed creatures suffer from the following:
 - May only take 1 action or 1 bonus action on their turn
 - May only make 1 attack on their turn regardless of abilities
 
-If a slowed creature attempts to cast a spell with a\ casting time of 1 action,
-roll a 1d2 on a 1 the creature does not finish\ casting the spell until the start
+If a slowed creature attempts to cast a spell with a casting time of 1 action,
+roll a 1d2 on a 1 the creature does not finish casting the spell until the start
 of their next turn, otherwise the spell is cast normally.
 
 ---
@@ -3572,7 +3572,7 @@ under the obliterated status effect.
 Time Stop (5th) (4)
 
 Range: self\
-Components: V/M (an hourglass which is broken during\ casting) \
+Components: V/M (an hourglass which is broken during casting) \
 Duration: 5 turns\
 Casting Time: 1 action\
 Description:\
@@ -3603,13 +3603,13 @@ three of the following effects:
 
 - As a bonus action you may summon a melee weapon made of light to your 
 hand, capable of being used to make a spell attack against one target within 20 
-feet for 4d8 + your\ casting modifier radiant damage on a hit. 
+feet for 4d8 + your casting modifier radiant damage on a hit. 
 - You gain wings with a span twice the length of your arms, granting you a
 flying speed of 80 feet.
 - You grow a size and gain an additional 20 feet of movement.
 - As a bonus action you may summon a ranged weapon made of light to your hand,
 capable of being used to make a ranged spell attack againt one target within 960
-feet for 8d4 + your\ casting modifier radiant damage on a hit.
+feet for 8d4 + your casting modifier radiant damage on a hit.
 - As an action you may touch the forehead of a creature and force them to make
 a constitution saving throw or take 4d10+10 radiant damage or half as much on a
 success.
@@ -3648,7 +3648,7 @@ within 100 feet. This doorway leads to an area you can visualize, can see, or
 a point you describe based off of distance from your current position. 
 
 The doorway remains for the duration and creatures may pass through it to the 
-area described and back to the location of\ casting as they please for that time.
+area described and back to the location of casting as they please for that time.
 
 ---
 
@@ -3759,7 +3759,7 @@ Casting Time: 1 minute \
 Description:\
 You wipe your slate clean, locking away all of your memories and beliefs at the
 back of your mind and replacing them with a persona and memories of your choice.
-During the\ casting of this spell you designate a word or phrase that when spoken
+During the casting of this spell you designate a word or phrase that when spoken
 returns all of your locked away memories, this word or phrase may be as long or
 short as you wish. While your memories are locked away you truly believe any
 innacurate information you may give due to your new fabricated memories, meaning
@@ -3779,7 +3779,7 @@ You make an identical duplicate of a creature using a lock of their hair, a
 patch of their skin, or a drop of their blood. This duplicate has no memories 
 but is sentient and capable of acting on its own, it knows the same languages
 as the cloned creature but nothing else. You may make alterations to the 
-creature during the\ casting of the spell using the same\ components from the \
+creature during the casting of the spell using the same components from the \
 casting but sourced from different creatures. Alterations of clones may cause
 unintended effects, as decided by your GM.
 
@@ -3807,7 +3807,7 @@ take 4d10+10 psychic damage.
 # 6th Level Spells
 
 ## 6th level spells Disclaimer
-6th level spells are not intended to be balanced, and their material\ components cannot be ignored by using a spellcasting focus
+6th level spells are not intended to be balanced, and their material components cannot be ignored by using a spellcasting focus
 
 ---
 
@@ -3908,7 +3908,7 @@ of the abyss by The Gods. The leviathan appears through a portal large enough to
 transport it at a point within 1 mile of the sky above you. The leviathan reacts 
 accordingly to being allowed free roam of the prime material plane, and may be
 pleased with your help, usually making your death a fast one as thanks. Roll 
-1d8 to determine the Leviathan you summon. If the god's soul used in\ casting 
+1d8 to determine the Leviathan you summon. If the god's soul used in casting 
 this spell is the soul of An'Ire the spell automatically summons The Nothing.
 
 | Roll | Result            |  
@@ -3927,12 +3927,12 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 Grand Resurrection (6th) (5)
 
 Range: Unlimited\
-Components: V/M (A living soul which is obliterated during\ casting)\
+Components: V/M (A living soul which is obliterated during casting)\
 Duration: instantaneous\
 Casting Time: 10 minutes\
 Description:\
 You obliterate a soul within your possession and return one creature who's name
-you speak aloud for the entire duration of\ casting this spell. The target 
+you speak aloud for the entire duration of casting this spell. The target 
 returns to life in perfect health and free of any curses in an area within 100
 feet of you.
 
