@@ -397,7 +397,7 @@ light
 - Create a small non-magical trinket or image to appear in the palm of your hand
 which dissipates after 6 seconds 
 
-You may create up to three of these magical effects through multiple\ castings.
+You may create up to three of these magical effects through multiple castings.
 
 ---
 
@@ -949,7 +949,7 @@ to them if they are within 30 feet.
 Touch: You touch one creature and they regain 1d8 + your casting mod hitpoints
 
 Range: You speak to one creature within 30 feet and they regain 1d4 + your \
-casting mod hitpoints.\ Casting this spell at range reduces the casting time to
+casting mod hitpoints. Casting this spell at range reduces the casting time to
 1 bonus action and removes the somatic component.
 
 ---
@@ -1791,7 +1791,7 @@ Components: S/M (a key)\
 Duration: instantaneous\
 Casting Time: 1 action\
 Description:\
-You knock on a lock, container, item, or door and it instantly unlocks.\ Casting
+You knock on a lock, container, item, or door and it instantly unlocks. Casting
 this spell causes a loud thunderous knock to ring out that is audible up to 500
 feet away.
 
