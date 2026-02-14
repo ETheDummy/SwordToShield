@@ -11,8 +11,8 @@
 ################################################################################              
 ```
 
-## Introduction to Spel\lcasting
-Spel\lcasting can be granted to a character by a wide variety of things like
+## Introduction to spellcasting
+spellcasting can be granted to a character by a wide variety of things like
 feats, boons, class features, and much more. Spells generally follow this
 template:
 
@@ -650,7 +650,7 @@ Duration: Instantaneous\
 Casting Time: 1 action\
 Description:\
 You draw forth from the healing wellspring of the cosmos, touching one creature
-and healing them an amount of HP equal to your spel\lcasting modifier.
+and healing them an amount of HP equal to your spellcasting modifier.
 
 A creature may only be affected by this spell once per rest.
 
@@ -1897,7 +1897,7 @@ Duration: instantaneous\
 Casting Time: 10 minutes\
 Description:\
 You pray for 10 minutes and all creatures within 10 feet of you for the\ duration
-of the prayer regain 2d8 + your spel\lcasting modifier hitpoints.
+of the prayer regain 2d8 + your spellcasting modifier hitpoints.
 
 ---
 
@@ -2582,7 +2582,7 @@ Duration: instantaneous\
 Casting Time: 1 bonus action\
 Description:\
 Select up to 6 creatures within range. You channel healing energy into each 
-target, healing them for 1d4 + your spel\lcasting modifier hitpoints
+target, healing them for 1d4 + your spellcasting modifier hitpoints
 
 ---
 
@@ -3547,7 +3547,7 @@ whatever dark needs require such measures. 6d6+6 zombies and skeletons of
 various body types raise from the ground in a 30 foot radius area within range,
 forming a multitude of fissures. Any creature caught in the area of these 
 fissures when formed must make a dexterity saving throw or become restrained, 
-freeing themselves on a successful athletics check against your spel\lcasting DC.
+freeing themselves on a successful athletics check against your spellcasting DC.
 The raised dead are under your command for a week, after which time they roam
 the world and do as they please. Undead above 0 hitpoints created by this spell 
 may be healed for 1d6 hitpoints when mending is cast on them.
@@ -3807,7 +3807,7 @@ take 4d10+10 psychic damage.
 # 6th Level Spells
 
 ## 6th level spells Disclaimer
-6th level spells are not intended to be balanced, and their material\ components cannot be ignored by using a spel\lcasting focus
+6th level spells are not intended to be balanced, and their material\ components cannot be ignored by using a spellcasting focus
 
 ---
 
