@@ -18,7 +18,7 @@ template:
 
 ```
 
-Spell Name (Spell Level)
+Spell Name (Spell Level
 
 Range: 
 Components: 
@@ -36,7 +36,7 @@ guideline.
 
 ---
 
-Acid Splash (Cantrip) (1)\
+Acid Splash (Cantrip) (1)
 
 Range: 60 feet\
 Components: V/S\
@@ -47,7 +47,7 @@ You conjure a volume of acid and throw it at one point you can see within range.
 
 ---
 
-Thunderous Blade (Cantrip) (2)\
+Thunderous Blade (Cantrip) (2)
 
 Range: Self\
 Components: S/M(a melee weapon) \
@@ -58,7 +58,7 @@ You speak words of power into a melee weapon in your hands. For one round after\
 
 ---
 
-Necrotic Grasp (Cantrip) (3)\
+Necrotic Grasp (Cantrip) (3)
 
 Range: 120 feet\
 Components: S\
@@ -69,7 +69,7 @@ You lift your hand as a cold skeletal hand grasps the body of your target. Make 
 
 ---
 
-Control Fire (Cantrip) (4)\
+Control Fire (Cantrip) (4)
 
 Range: 60 feet\
 Components: S\
@@ -95,7 +95,7 @@ such an effect as an action.
 
 ---
 
-Create Fire (Cantrip) (5)\
+Create Fire (Cantrip) (5)
 
 Range: 60 feet\
 Components: V/S\
@@ -109,7 +109,7 @@ creature which enters the area of the spell during its\ duration.
 
 ---
 
-Lights (Cantrip) (6)\
+Lights (Cantrip) (6)
 
 Range: 120 feet\
 Components: V/S\
@@ -123,7 +123,7 @@ humanoid or three small sized creatures.
 
 ---
 
-Eldritch Blast (Cantrip) (7)\
+Eldritch Blast (Cantrip) (7)
 
 Range: 120 feet\
 Components: S\
@@ -137,7 +137,7 @@ This spell creates two blasts at 5th level, and 3 blasts at 10th level.
 
 ---
 
-Flame Bolt (Cantrip) (8)\
+Flame Bolt (Cantrip) (8)
 
 Range: 120 feet\
 Components: V/S\
@@ -149,7 +149,7 @@ spell attack, on a hit the target takes 1d10 fire damage.
 
 ---
 
-Friends (Cantrip) (9)\
+Friends (Cantrip) (9)
 
 Range: Self\
 Components: V \
@@ -172,7 +172,7 @@ If you are unable to speak one of these phrases the spell does not take effect.
 
 ---
 
-Frostbite (Cantrip) (10)\
+Frostbite (Cantrip) (10)
 
 Range: 60 feet\
 Components: V/S\
@@ -185,7 +185,7 @@ its next melee weapon attack.
 
 ---
 
-Lesser Flaming Blade (Cantrip) (11)\
+Lesser Flaming Blade (Cantrip) (11)
 
 Range: self\
 Components: S/M (a weapon made of metal) \
@@ -199,7 +199,7 @@ melee weapon attack.
 
 ---
 
-Guidance (Cantrip) (12)\
+Guidance (Cantrip) (12)
 
 Range: touch\
 Components: V/S\
@@ -212,7 +212,7 @@ creature rolls this die the spell ends.
 
 ---
 
-Control Air (Cantrip) (13)\
+Control Air (Cantrip) (13)
 
 Range: 60 feet\
 Components: V/S\
@@ -232,7 +232,7 @@ rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
 ---
 
-Swarm (Cantrip) (14)\
+Swarm (Cantrip) (14)
 
 Range: 30 feet\
 Components: V/S\
@@ -245,7 +245,7 @@ reaction to move in a random direction as they swat away the swarm.
 
 ---
 
-Light (Cantrip) (15)\
+Light (Cantrip) (15)
 
 Range: touch\
 Components: S\
@@ -259,7 +259,7 @@ blinded by the\ duration if they are sensitive to light.
 
 ---
 
-Lightning Whip (Cantrip) (16)\
+Lightning Whip (Cantrip) (16)
 
 Range: 25 feet\
 Components: S\
@@ -274,7 +274,7 @@ larger than you.
 
 ---
 
-Mage Hand (Cantrip) (17)\
+Mage Hand (Cantrip) (17)
 
 Range: 60 feet\
 Components: S\
@@ -289,7 +289,7 @@ attack, on a hit the target takes 1d4 force damage.
 
 ---
 
-Mending (Cantrip) (18)\
+Mending (Cantrip) (18)
 
 Range: touch\
 Components: S\
@@ -303,7 +303,7 @@ regains 1d8 hitpoints.
 
 ---
 
-Message (Cantrip) (19)\
+Message (Cantrip) (19)
 
 Range: 120 feet\
 Components: V/S\
@@ -316,7 +316,7 @@ whispering back a short message that only you can hear.
 
 ---
 
-Cut Thoughts (Cantrip) (20)\
+Cut Thoughts (Cantrip) (20)
 
 Range: 60 feet\
 Components: V\
@@ -331,7 +331,7 @@ of your next turn the spell ends.
 
 ---
 
-Minor Illusion (Cantrip) (21)\
+Minor Illusion (Cantrip) (21)
 
 Range: 30 feet\
 Components: S\
@@ -347,7 +347,7 @@ check against your spell DC, seeing through the illusion on a success.
 
 ---
 
-Shape earth (Cantrip) (22)\
+Shape earth (Cantrip) (22)
 
 Range: 30 feet\
 Components: S\
@@ -366,7 +366,7 @@ terrain into normal terrain
 
 ---
 
-Poison Spray (Cantrip) (23)\
+Poison Spray (Cantrip) (23)
 
 Range: 10 feet\
 Components: S\
@@ -378,7 +378,7 @@ must make a constitution saving throw or take 1d12 poison damage.
 
 ---
 
-Prestidigitation (Cantrip) (24)\
+Prestidigitation (Cantrip) (24)
 
 Range: 20 feet\
 Components: S\
@@ -401,7 +401,7 @@ You may create up to three of these magical effects through multiple\ castings.
 
 ---
 
-Bestial Visage (Cantrip) (25)\
+Bestial Visage (Cantrip) (25)
 
 Range: self/5 feet\
 Components: V \
@@ -415,7 +415,7 @@ your body returns to normal
 
 ---
 
-Produce Flame (Cantrip) (26)\
+Produce Flame (Cantrip) (26)
 
 Range: self/30 feet\
 Components: V/S \
@@ -431,7 +431,7 @@ damage.
 
 ---
 
-Ray of Frost (Cantrip) (27)\
+Ray of Frost (Cantrip) (27)
 
 Range: 60 feet\
 Components: V/S\
@@ -445,7 +445,7 @@ of your turn.
 
 ---
 
-Resistance (Cantrip) (28)\
+Resistance (Cantrip) (28)
 
 Range: touch\
 Components: V/S\
@@ -458,7 +458,7 @@ then ends.
 
 ---
 
-Sacred Flame (Cantrip) (29)\
+Sacred Flame (Cantrip) (29)
 
 Range: 60 feet\
 Components: V/S\
@@ -471,7 +471,7 @@ Cover grants no benifit to this saving throw.
 
 ---
 
-Shape Water (Cantrip) (30)\
+Shape Water (Cantrip) (30)
 
 Range: 30 feet\
 Components: S\
@@ -494,7 +494,7 @@ castings of this spell.
 
 ---
 
-Shocking Grasp (Cantrip) (31)\
+Shocking Grasp (Cantrip) (31)
 
 Range: touch\
 Components: S\
@@ -508,7 +508,7 @@ you gain advantage on the attack roll.
 
 ---
 
-Save the Dying (Cantrip) (32)\
+Save the Dying (Cantrip) (32)
 
 Range: touch\
 Components: V/S/M (a small insignificant piece of your body)\
@@ -521,7 +521,7 @@ stabilizing them. The creature's hp becomes 1 but they remain unconcious for
 
 ---
 
-Sweeping Blades (Cantrip) (33)\
+Sweeping Blades (Cantrip) (33)
 
 Range: self/5 feet\
 Components: V/S\
@@ -534,7 +534,7 @@ a dexterity saving throw or take 1d6 slashing damage.
 
 ---
 
-Thorn Whip (Cantrip) (34)\
+Thorn Whip (Cantrip) (34)
 
 Range: 30 feet\
 Components: S\
@@ -547,7 +547,7 @@ range. The target must make a dexterity saving throw or take 1d4 slashing and
 
 ---
 
-Thunderclasp (Cantrip) (35)\
+Thunderclasp (Cantrip) (35)
 
 Range: self/5 feet\
 Components: V/S\
@@ -560,7 +560,7 @@ creature within 5 feet of you must make a constitution saving throw or take
 
 ---
 
-Toll The Dead (Cantrip) (36)\
+Toll The Dead (Cantrip) (36)
 
 Range: 60 feet\
 Components: V/S\
@@ -573,7 +573,7 @@ damage, or 1d12 necrotic damage if they are below their max HP.
 
 ---
 
-True Strike (37)\
+True Strike (37)
 
 Range: touch\
 Components: S\
@@ -585,7 +585,7 @@ target makes their attack the spell ends.
 
 ---
 
-Viscious Mockery (Cantrip) (38)\
+Viscious Mockery (Cantrip) (38)
 
 Range: 90 feet\
 Components: V \
@@ -607,7 +607,7 @@ This spell has no effect on enemies with no ego
 
 ---
 
-Radiant Word (Cantrip) (39)\
+Radiant Word (Cantrip) (39)
 
 Range: self/10 feet/30 feet\
 Components: V\
@@ -629,7 +629,7 @@ take 1d10 radiant damage and be blinded.
 
 ---
 
-Leech (Cantrip) (40)\
+Leech (Cantrip) (40)
 
 Range: 60 feet\
 Components: S\
@@ -642,7 +642,7 @@ hitpoints. This spell has no effect on constructs and undead.
 
 ---
 
-Lay On Hands (Cantrip) (41)\
+Lay On Hands (Cantrip) (41)
 
 Range: touch\
 Components: V/S\
@@ -660,7 +660,7 @@ A creature may only be affected by this spell once per rest.
 
 ---
 
-Frost Armor (1st) (1)\
+Frost Armor (1st) (1)
 
 Range: touch\
 Components: V/S\
@@ -675,7 +675,7 @@ hitpoints per level.
 
 ---
 
-Chilling Tendrils (1st) (2)\
+Chilling Tendrils (1st) (2)
 
 Range: self/10 feet\
 Components: V/S\
@@ -691,7 +691,7 @@ level.
 
 ---
 
-Shield (1st) (3)\
+Shield (1st) (3)
 
 Range: self\
 Components: V \
@@ -704,7 +704,7 @@ and you take no damage from magic missile.
 
 ---
 
-Magic Missile (1st) (3)\
+Magic Missile (1st) (3)
 
 Range: 120 feet\
 Components: S\
@@ -720,7 +720,7 @@ missile is formed.
 
 ---
 
-Faith's Shield (1st) (4)\
+Faith's Shield (1st) (4)
 
 Range: touch\
 Components: V/S\
@@ -731,7 +731,7 @@ You touch one creature, granting them +2 AC for the\ duration.
 
 ---
 
-Mage Armor (1st) (5)\
+Mage Armor (1st) (5)
 
 Range: self\
 Components: V/S \
@@ -744,7 +744,7 @@ early as an action.
 
 ---
 
-Entangle (1st) (6)\
+Entangle (1st) (6)
 
 Range: 90 feet\
 Components: V/S\
@@ -760,7 +760,7 @@ for the rest of the\ duration.
 
 ---
 
-Create Familiar (1st) (7) (ritual)\
+Create Familiar (1st) (7) (ritual)
 
 Range: 10 feet\
 Components: V/S/M (10 GP worth of herbs and spices which are burned)\
@@ -792,7 +792,7 @@ only have one familiar at a time.
 
 ---
 
-Alert (1st) (8) (ritual)\
+Alert (1st) (8) (ritual)
 
 Range: 30 feet\
 Components: V/S/M (a timer or bell)\
@@ -806,7 +806,7 @@ spell you can designate which creatures will not set the alarm off.
 
 ---
 
-Befriend Animals (1st) (9) (ritual)\
+Befriend Animals (1st) (9) (ritual)
 
 Range: 30 feet\
 Components: V\
@@ -819,7 +819,7 @@ the target of the spell.
 
 ---
 
-Bane (1st) (10)\
+Bane (1st) (10)
 
 Range: 60 feet\
 Components: V\
@@ -832,7 +832,7 @@ saving throw; removing the result from the total.
 
 ---
 
-Bless (1st) (11)\
+Bless (1st) (11)
 
 Range: 30 feet\
 Components: V\
@@ -845,7 +845,7 @@ result to the total.
 
 ---
 
-Burning Hands (1st) (12)\
+Burning Hands (1st) (12)
 
 Range: self/15-foot\
 Components: V/S\
@@ -860,7 +860,7 @@ damage, taking half as much on a success.
 
 ---
 
-Charm Person (1st) (13)\
+Charm Person (1st) (13)
 
 Range: 30 feet\
 Components: V\
@@ -873,7 +873,7 @@ ally attack the target. Once the spell ends the target knows you charmed them.
 
 ---
 
-Chromatic Orb (1st) (14)\
+Chromatic Orb (1st) (14)
 
 Range: 90 feet \
 Components: S\
@@ -887,7 +887,7 @@ type you chose.
 
 ---
 
-Command (1st) (15)\
+Command (1st) (15)
 
 Range: 60 feet\
 Components: V\
@@ -901,7 +901,7 @@ them immediate harm.
 
 ---
 
-Comprehend Languages (1st) (16)\
+Comprehend Languages (1st) (16)
 
 Range: self\
 Components: S \
@@ -915,7 +915,7 @@ discerning mundane languages.
 
 ---
 
-Create or Destroy Water (1st) (17)\
+Create or Destroy Water (1st) (17)
 
 Range: 30 feet \
 Components: V/S\
@@ -936,7 +936,7 @@ within range
 
 ---
 
-Cure Wounds (1st) (18)\
+Cure Wounds (1st) (18)
 
 Range: touch/30 feet \
 Components: V/S\
@@ -946,7 +946,7 @@ Description:\
 You heal a creature by either touching them or speaking a power word of healing
 to them if they are within 30 feet.
 
-Touch: You touch one creature and they regain 1d8 + your\ casting mod hitpoints\
+Touch: You touch one creature and they regain 1d8 + your\ casting mod hitpoints
 
 Range: You speak to one creature within 30 feet and they regain 1d4 + your \
 casting mod hitpoints.\ Casting this spell at range reduces the\ casting time to
@@ -954,7 +954,7 @@ casting mod hitpoints.\ Casting this spell at range reduces the\ casting time to
 
 ---
 
-Detect Good and Evil (1st) (19)\
+Detect Good and Evil (1st) (19)
 
 Range: self/30 feet\
 Components:  V/S\
@@ -968,7 +968,7 @@ the ladder.
 
 ---
 
-Detect Magic (1st) (20)\
+Detect Magic (1st) (20)
 
 Range: Self\
 Components: V/S\
@@ -980,7 +980,7 @@ bright glowing colors. This vision may penetrate thin barriers.
 
 ---
 
-Detect Poison and Disease (1st) (21)\
+Detect Poison and Disease (1st) (21)
 
 Range: Self/30 feet\
 Components:  V/S\
@@ -993,7 +993,7 @@ barriers.
 
 ---
 
-Disguise Self (1st) (22)\
+Disguise Self (1st) (22)
 
 Range: self\
 Components: S \
@@ -1009,7 +1009,7 @@ check against your spell DC, telling the appearance is false on a success.
 
 ---
 
-Discordant Voice (1st) (23)\
+Discordant Voice (1st) (23)
 
 Range: 60 feet\
 Components: V\
@@ -1024,7 +1024,7 @@ a success the target takes half as much damage and does not move.
 
 ---
 
-Divine Favor (1st) (24)\
+Divine Favor (1st) (24)
 
 Range: touch\
 Components: S\
@@ -1036,7 +1036,7 @@ You touch one creature, for the\ duration of this spell the target deals an extr
 
 ---
 
-Ensnaring Strike (1st) (25)\
+Ensnaring Strike (1st) (25)
 
 Range: touch\
 Components: V/S\
@@ -1056,7 +1056,7 @@ to free them.
 
 ---
 
-Retreat (1st) (26)\
+Retreat (1st) (26)
 
 Range: self\
 Components: V/S \
@@ -1069,7 +1069,7 @@ action.
 
 ---
 
-Glowing Lights (1st) (27)\
+Glowing Lights (1st) (27)
 
 Range: 60 feet\
 Components: V\
@@ -1083,7 +1083,7 @@ against them have advantage.
 
 ---
 
-False Life (1st) (28)\
+False Life (1st) (28)
 
 Range: touch\
 Components: V/S\
@@ -1096,7 +1096,7 @@ they regain the roll as hitpoints rather than temporary hitpoints
 
 ---
 
-Feather Fall (1st) (29)\
+Feather Fall (1st) (29)
 
 Range: 60 feet\
 Components: V\
@@ -1109,7 +1109,7 @@ the ground.
 
 ---
 
-Fog (1st) (30) (ritual)\
+Fog (1st) (30) (ritual)
 
 Range: 120 feet\
 Components: V/S\
@@ -1121,7 +1121,7 @@ disperse this fog.
 
 ---
 
-Fast Feast (1st) (31)\
+Fast Feast (1st) (31)
 
 Range: touch\
 Components: S/M (a piece of a plant or raw meat)\
@@ -1135,7 +1135,7 @@ within 10 days it expires and crumbles to dust.
 
 ---
 
-Grease (1st) (32)\
+Grease (1st) (32)
 
 Range: 60 feet\
 Components: V/S\
@@ -1149,7 +1149,7 @@ prone, a creature entering the area must also make this save.
 
 ---
 
-Guiding Bold (1st) (33)\
+Guiding Bold (1st) (33)
 
 Range: 60 feet\
 Components: V/S\
@@ -1163,7 +1163,7 @@ advantage.
 
 ---
 
-Hail of Thorns (1st) (34)\
+Hail of Thorns (1st) (34)
 
 Range: self\
 Components: V\
@@ -1177,7 +1177,7 @@ piercing damage or half as much on a success.
 
 ---
 
-Hellish Rebuke (1st) (35)\
+Hellish Rebuke (1st) (35)
 
 Range: 60 feet\
 Components: V\
@@ -1190,7 +1190,7 @@ as much on a success.
 
 ---
 
-Heroism (1st) (36)\
+Heroism (1st) (36)
 
 Range: touch\
 Components: V/S\
@@ -1204,7 +1204,7 @@ temporary hitpoints from this spell are removed.
 
 ---
 
-Hex (1st) (37)\
+Hex (1st) (37)
 
 Range: 90 feet\
 Components: V\
@@ -1219,7 +1219,7 @@ spell as a bonus action.
 
 ---
 
-Weak Point (1st) (38)\
+Weak Point (1st) (38)
 
 Range: 90 feet\
 Components: V\
@@ -1234,7 +1234,7 @@ spell as a bonus action.
 
 ---
 
-Identify (1st) (ritual) (39)\
+Identify (1st) (ritual) (39)
 
 Range: touch\
 Components: V/S/M (an item worth 25gp which is consumed)\
@@ -1247,7 +1247,7 @@ are not shielded against being identified.
 
 ---
 
-Inflict Wounds (1st) (40)\
+Inflict Wounds (1st) (40)
 
 Range: touch\
 Components: S\
@@ -1260,7 +1260,7 @@ damage.
 
 ---
 
-Jump (1st) (41)\
+Jump (1st) (41)
 
 Range: touch\
 Components: V/S\
@@ -1272,7 +1272,7 @@ multiplied by 5.
 
 ---
 
-Longstrider (1st) (42)\
+Longstrider (1st) (42)
 
 Range: touch\
 Components: V/S\
@@ -1284,7 +1284,7 @@ speed increases by 10 feet.
 
 ---
 
-Proof Against Good and Evil (1st) (43)\
+Proof Against Good and Evil (1st) (43)
 
 Range: touch\
 Components: V/S\
@@ -1301,7 +1301,7 @@ charmed the creature is forced out when this spell is cast on them.
 
 ---
 
-Purify (1st) (44)\
+Purify (1st) (44)
 
 Range: 10 feet\
 Components: S\
@@ -1313,7 +1313,7 @@ purified of any disease or poison.
 
 ---
 
-Sickening Ray (1st) (45)\
+Sickening Ray (1st) (45)
 
 Range: 60 feet\
 Components: V/S\
@@ -1326,7 +1326,7 @@ throw or be poisoned until the end of your next turn.
 
 ---
 
-Sanctuary (1st) (46)\
+Sanctuary (1st) (46)
 
 Range: 30 feet\
 Components: V/S\
@@ -1343,7 +1343,7 @@ immune to this effect.
 
 ---
 
-Sleep (1st) (47)\
+Sleep (1st) (47)
 
 Range: 90 feet \
 Components: V/S\
@@ -1369,7 +1369,7 @@ roll an additional 2d8 for each slot level above 1st.
 
 ---
 
-Beast Tongue (1st) (48)\
+Beast Tongue (1st) (48)
 
 Range: touch\
 Components: V/S\
@@ -1381,7 +1381,7 @@ understand the universal langauge of beasts.
 
 ---
 
-Thunderwave (1st) (49)\
+Thunderwave (1st) (49)
 
 Range: self (10 foot sphere)\
 Components: V\
@@ -1396,7 +1396,7 @@ bludgeoning damage for every 5 feet of movement that they were unable to move.
 
 ---
 
-Witch Bolt (1st) (50)\
+Witch Bolt (1st) (50)
 
 Range: 120 feet\
 Components: S/V\
@@ -1411,7 +1411,7 @@ ends early if you do anything other than moving or speaking on your turn.
 
 ---
 
-Summon Green Slime (1st) (51)\
+Summon Green Slime (1st) (51)
 
 Range: 30 feet\
 Components: S/V/M (A glob of snot)\
@@ -1427,7 +1427,7 @@ away, becoming a green puddle.
 
 ---
 
-Lunar Ray (1st) (52)\
+Lunar Ray (1st) (52)
 
 Range: 90 feet\
 Components: S/V\
@@ -1445,7 +1445,7 @@ saving throw against your spell DC, reverting to their true form on a failure.
 
 ---
 
-Envitalize (2nd) (1)\
+Envitalize (2nd) (1)
 
 Range: 30 feet\
 Components: V\
@@ -1458,7 +1458,7 @@ the\ duration.
 
 ---
 
-Alter Self (2nd) (2)\
+Alter Self (2nd) (2)
 
 Range: self\
 Components: V/S \
@@ -1473,7 +1473,7 @@ natural weapons that deal 1d6 slashing damage.
 
 ---
 
-Arcane Lock (2nd) (3)\
+Arcane Lock (2nd) (3)
 
 Range: touch\
 Components: V/S/M (an item worth at least 10 gp which is consumed)\
@@ -1488,7 +1488,7 @@ This lock also adds a +10 DC to any checks to break or lockpick the object.
 
 ---
 
-Omen (2nd) (ritual) (4)\
+Omen (2nd) (ritual) (4)
 
 Range: self\
 Components: V/S/M (a cup of tea, a handful of sticks or bones, a deck of cards, or a die) \
@@ -1501,7 +1501,7 @@ to you but the outcome indicated is either good, bad, good and bad, or neither.
 
 ---
 
-Morph Shell (2nd) (5) \
+Morph Shell (2nd) (5) 
 
 Range: touch\
 Components: V/S\
@@ -1515,7 +1515,7 @@ the\ duration of the spell. If the target already has a natural shell they gain
 
 ---
 
-Blindness and Deafness (2nd) (6)\
+Blindness and Deafness (2nd) (6)
 
 Range: 30 feet\
 Components: V\
@@ -1528,7 +1528,7 @@ may repeat this saving throw at the end of each of its turns.
 
 ---
 
-Obscure (2nd) (7)\
+Obscure (2nd) (7)
 
 Range: touch\
 Components: S\
@@ -1542,7 +1542,7 @@ sight.
 
 ---
 
-Calm (2nd) (8)\
+Calm (2nd) (8)
 
 Range: 60 feet\
 Components: V \
@@ -1558,7 +1558,7 @@ attack or to compromise as they will return to their normal state of mind after
 
 ---
 
-Cloud of Daggers (2nd) (9)\
+Cloud of Daggers (2nd) (9)
 
 Range: 60 feet\
 Components: V\
@@ -1571,7 +1571,7 @@ first time on their turn takes 4d4 piercing damage.
 
 ---
 
-Eternal Flame (2nd) (10)\
+Eternal Flame (2nd) (10)
 
 Range: touch\
 Components: V/S/M (an item worth at least 20 GP which is consumed)\
@@ -1584,7 +1584,7 @@ dispelled. The fire does not burn and does not consume any fuel.
 
 ---
 
-Crown of Madness (2nd) (11)\
+Crown of Madness (2nd) (11)
 
 Range: 120 feet\
 Components: V/S\
@@ -1605,7 +1605,7 @@ after the first.
 
 ---
 
-Darkness (2nd) (12)\
+Darkness (2nd) (12)
 
 Range: 60 feet\
 Components: V/S\
@@ -1618,7 +1618,7 @@ and no non-magical light can illuminate it.
 
 ---
 
-Darkvision (2nd) (13)\
+Darkvision (2nd) (13)
 
 Range: 10 feet\
 Components: V/S\
@@ -1630,7 +1630,7 @@ targets and you gain darkvision out to 60 feet.
 
 ---
 
-Read Mind (2nd) (14)\
+Read Mind (2nd) (14)
 
 Range: self/30 feet\
 Components: V\
@@ -1646,7 +1646,7 @@ On a success you are able to extract one memory provided by your GM.
 
 ---
 
-Enhance Ability (2nd) (15)\
+Enhance Ability (2nd) (15)
 
 Range: touch\
 Components: S\
@@ -1667,7 +1667,7 @@ WISDOM: The target gains advantage on Wisdom checks.
 
 ---
 
-Enlarge or Shrink (2nd) (16)\
+Enlarge or Shrink (2nd) (16)
 
 Range: 60 feet\
 Components: V\
@@ -1684,7 +1684,7 @@ worn or carried changes size aswell.
 
 ---
 
-Enthrall (2nd) (17)\
+Enthrall (2nd) (17)
 
 Range: 60 feet\
 Components: V/S\
@@ -1698,7 +1698,7 @@ are incapacitated or stop speaking for any reason.
 
 ---
 
-Flame Blade (2nd) (18)\
+Flame Blade (2nd) (18)
 
 Range: Self\
 Components: V \
@@ -1713,7 +1713,7 @@ the\ duration of this spell.
 
 ---
 
-Repose (2nd) (Ritual) (19)\
+Repose (2nd) (Ritual) (19)
 
 Range: touch\
 Components: V/M (2 silver coins)\
@@ -1727,7 +1727,7 @@ with time limits such as raise dead.
 
 ---
 
-Wind (2nd) (20)\
+Wind (2nd) (20)
 
 Range: self/60 feet\
 Components: V\
@@ -1744,7 +1744,7 @@ wind blows from you.
 
 ---
 
-Heat Metal (2nd) (21)\
+Heat Metal (2nd) (21)
 
 Range: 30 feet\
 Components: V\
@@ -1758,7 +1758,7 @@ the spell, any creature that starts their turn in contact with the target takes
 
 ---
 
-Hold Person (2nd) (22)\
+Hold Person (2nd) (22)
 
 Range: 60 feet\
 Components: V/S\
@@ -1771,7 +1771,7 @@ saving throw may be repeated at the end of each of the target's turns.
 
 ---
 
-Lesser Invisibility (2nd) (23)\
+Lesser Invisibility (2nd) (23)
 
 Range: touch\
 Components: V/S\
@@ -1784,7 +1784,7 @@ casts a spell or makes an attack.
 
 ---
 
-Knock (2nd) (24)\
+Knock (2nd) (24)
 
 Range: touch\
 Components: S/M (a key)\
@@ -1797,7 +1797,7 @@ feet away.
 
 ---
 
-Lesser Restoration (Ritual) (2nd) (25)\
+Lesser Restoration (Ritual) (2nd) (25)
 
 Range: touch\
 Components: V/S\
@@ -1809,7 +1809,7 @@ as blinded, deafened, paralyzed or poisoned.
 
 ---
 
-Float (2nd) (26)\
+Float (2nd) (26)
 
 Range: 60 feet\
 Components: V\
@@ -1823,7 +1823,7 @@ the effects of the spell.
 
 ---
 
-Locate Animal or Plant (2nd) (Ritual) (27)\
+Locate Animal or Plant (2nd) (Ritual) (27)
 
 Range: self/1 mile\
 Components: V\
@@ -1836,7 +1836,7 @@ you innately know the location of all instances of that plant or animal within a
 
 ---
 
-Magic Weapon (2nd) (Ritual) (28)\
+Magic Weapon (2nd) (Ritual) (28)
 
 Range: touch\
 Components: V/S\
@@ -1848,7 +1848,7 @@ becomes a +1 weapon
 
 ---
 
-Acid Arrow (2nd) (29)\
+Acid Arrow (2nd) (29)
 
 Range: 60 feet\
 Components: S\
@@ -1861,7 +1861,7 @@ damage.
 
 ---
 
-Mirror Image (2nd) (30)\
+Mirror Image (2nd) (30)
 
 Range: Self\
 Components: V \
@@ -1876,7 +1876,7 @@ has no effect on creatures that are unaffected by illusions
 
 ---
 
-Misty Step (2nd) (31)\
+Misty Step (2nd) (31)
 
 Range: self/30 feet\
 Components: V\
@@ -1889,7 +1889,7 @@ You instantly teleport to a point of your choice within 30 feet.
 
 ---
 
-Healing Prayer (2nd) (32)\
+Healing Prayer (2nd) (32)
 
 Range: self/10 feet\
 Components: V/S\
@@ -1901,7 +1901,7 @@ of the prayer regain 2d8 + your spel\lcasting modifier hitpoints.
 
 ---
 
-Ray of Enfeeblement (2nd) (33)\
+Ray of Enfeeblement (2nd) (33)
 
 Range: 60 feet\
 Components: V/S\
@@ -1916,7 +1916,7 @@ repeat this saving throw at the end of each of its turns.
 
 ---
 
-Scorching Ray (2nd) (34)\
+Scorching Ray (2nd) (34)
 
 Range: 120 feet\
 Components: S\
@@ -1929,7 +1929,7 @@ within range. Make a ranged spell attack for each ray, on a hit the target takes
 
 ---
 
-Lesser Truesight (2nd) (35)\
+Lesser Truesight (2nd) (35)
 
 Range: self\
 Components: V \
@@ -1941,7 +1941,7 @@ magically obscured creatures occupying the space around you.
 
 ---
 
-Shatter (2nd) (36)\
+Shatter (2nd) (36)
 
 Range: 60 feet\
 Components: V\
@@ -1955,7 +1955,7 @@ as much on a success. Inorganic creatures take double damage from this spell.
 
 ---
 
-Silence (2nd) (37)\
+Silence (2nd) (37)
 
 Range: 60 feet\
 Components: V\
@@ -1970,7 +1970,7 @@ deafened.
 
 ---
 
-Spider Climb (2nd) (38)\
+Spider Climb (2nd) (38)
 
 Range: Touch\
 Components: V/S\
@@ -1984,7 +1984,7 @@ when they wish for it to.
 
 ---
 
-Spiritual Weapon (2nd) (39)\
+Spiritual Weapon (2nd) (39)
 
 Range: 60 feet\
 Components: V\
@@ -2000,7 +2000,7 @@ takes 1d8 + your\ casting modifier force damage.
 
 ---
 
-Suggestion (2nd) (40)\
+Suggestion (2nd) (40)
 
 Range: 30 feet\
 Components: V\
@@ -2016,7 +2016,7 @@ target is damaged by you or an ally.
 
 ---
 
-Bond (2nd) (41)\
+Bond (2nd) (41)
 
 Range: touch\
 Components: V/S/M (Silver rings worn by both you and the target)\
@@ -2031,7 +2031,7 @@ or if you or the target drop to 0 hitpoints.
 
 ---
 
-Zone of Truth (2nd) (42)\
+Zone of Truth (2nd) (42)
 
 Range: 60 feet\
 Components: V\
@@ -2061,7 +2061,7 @@ temporary hitpoints.
 
 ---
 
-Diagnose Affliction (2nd) (ritual) (44)\
+Diagnose Affliction (2nd) (ritual) (44)
 
 Range: touch\
 Components: V/S/M (30 GP which are consumed)\
@@ -2075,7 +2075,7 @@ all the curable ailments they may have.
 
 ---
 
-Acid Armor (2nd) (45)\
+Acid Armor (2nd) (45)
 
 Range: Self\
 Components: V/S\
@@ -2088,7 +2088,7 @@ damage as the corrosive liquid splashes on them.
 
 ---
 
-Rewind (2nd) (46)\
+Rewind (2nd) (46)
 
 Range: 120 feet\
 Components: V/S\
@@ -2106,7 +2106,7 @@ attack or ability check.
 
 ---
 
-Animate Dead (3rd) (1)\
+Animate Dead (3rd) (1)
 
 Range: touch\
 Components: V/S\
@@ -2124,7 +2124,7 @@ elapsed in order to maintain control.
 
 ---
 
-Aura of Vitality (3rd) (2)\
+Aura of Vitality (3rd) (2)
 
 Range: 30 feet\
 Components: V\
@@ -2136,7 +2136,7 @@ bonus action to heal one creature within 30 feet of you to regain 2d6 hitpoints.
 
 ---
 
-Beacon of Hope (3rd) (3)\
+Beacon of Hope (3rd) (3)
 
 Range: 30 feet\
 Components: V\
@@ -2150,7 +2150,7 @@ possible hitpoints from all healing effects for the\ duration of the spell.
 
 ---
 
-Curse (3rd) (4)\
+Curse (3rd) (4)
 
 Range: touch\
 Components: V\
@@ -2177,7 +2177,7 @@ lasts 24 hours. a curse cast at 6th level lasts 1 year.
 
 ---
 
-Blink (3rd) (ritual) (5)\
+Blink (3rd) (ritual) (5)
 
 Range: Self\
 Components: V\
@@ -2191,7 +2191,7 @@ all the movement you took for the\ duration.
 
 ---
 
-Call Lightning (3rd) (6)\
+Call Lightning (3rd) (6)
 
 Range: Self/60 foot sphere\
 Components: V/S\
@@ -2210,7 +2210,7 @@ control of it, damage dealt by this spell is doubled under these conditions.
 
 ---
 
-Clairvoyance (3rd) (ritual) (7)\
+Clairvoyance (3rd) (ritual) (7)
 
 Range: 10 miles\
 Components: V/S/M (the eye of a creature, valued at at least 30 GP)\
@@ -2225,7 +2225,7 @@ alternate between hearing through it and seeing through it.
 
 ---
 
-Conjure Beast (3rd) (8)\
+Conjure Beast (3rd) (8)
 
 Range: 60 feet\
 Components: V\
@@ -2247,7 +2247,7 @@ originally were.
 
 ---
 
-Barrage (3rd) (9)\
+Barrage (3rd) (9)
 
 Range: self/60 foot cone\
 Components: V/S/M (a piece of ammunition)\
@@ -2261,7 +2261,7 @@ taking half as much on a success.
 
 ---
 
-Counterspell (3rd) (10)\
+Counterspell (3rd) (10)
 
 Range: 90 feet\
 Components: V/S\
@@ -2276,7 +2276,7 @@ or win a contested will check against the caster.
 
 ---
 
-Create Food and Water (3rd) (11)\
+Create Food and Water (3rd) (11)
 
 Range: 60 feet\
 Components: V \
@@ -2289,7 +2289,7 @@ within range. The food and drink takes a form of your choosing and expires after
 
 ---
 
-Holy Mantle (3rd) (12)\
+Holy Mantle (3rd) (12)
 
 Range: Self/15 feet\
 Components: V\
@@ -2303,7 +2303,7 @@ attacks.
 
 ---
 
-Daylight (3rd) (13)\
+Daylight (3rd) (13)
 
 Range: 60 feet\
 Components: V/S\
@@ -2317,7 +2317,7 @@ take 20 radiant damage.
 
 ---
 
-Dispel Magic (3rd) (14)\
+Dispel Magic (3rd) (14)
 
 Range: 120 feet\
 Components: V/S\
@@ -2332,7 +2332,7 @@ contested will check against the caster.
 
 ---
 
-Elemental Weapon (3rd) (15)\
+Elemental Weapon (3rd) (15)
 
 Range: touch\
 Components: V/S\
@@ -2345,7 +2345,7 @@ damage rolls and deals an additional 1d4 damage of the type you chose on a hit.
 
 ---
 
-Fear (3rd) (16)\
+Fear (3rd) (16)
 
 Range: Self/30 foot cone\
 Components: V\
@@ -2361,7 +2361,7 @@ ending the effect on a success.
 
 ---
 
-Feign Death (3rd) (ritual) (17)\
+Feign Death (3rd) (ritual) (17)
 
 Range: touch\
 Components: V/S\
@@ -2377,7 +2377,7 @@ with nothing occurring on a success.
 
 ---
 
-Fireball (3rd) (18)\
+Fireball (3rd) (18)
 
 Range: 160 feet\
 Components: V/S\
@@ -2392,7 +2392,7 @@ the end of their next turn unless they use their action to put themselves out.
 
 ---
 
-Flight (3rd) (19)\
+Flight (3rd) (19)
 
 Range: touch\
 Components: V/S\
@@ -2406,7 +2406,7 @@ the means through which the target gains this flying speed.
 
 ---
 
-Gaseous Form (3rd) (20)\
+Gaseous Form (3rd) (20)
 
 Range: touch\
 Components: V/S\
@@ -2424,7 +2424,7 @@ target cannot interact with anything physical and is incapable of\ casting spell
 
 ---
 
-Glyph (3rd) (21)\
+Glyph (3rd) (21)
 
 Range: touch\
 Components: V/S/M (an item worth 50 GP which is consumed)\
@@ -2448,7 +2448,7 @@ like to store.
 
 ---
 
-Haste (3rd) (22)\
+Haste (3rd) (22)
 
 Range: 30 feet\
 Components: V/S\
@@ -2465,7 +2465,7 @@ of the spell the target gains the following:
 
 ---
 
-Hunger of Horrors (3rd) (22)\
+Hunger of Horrors (3rd) (22)
 
 Range: 200 feet\
 Components: V\
@@ -2485,7 +2485,7 @@ against your spell save DC.
 
 ---
 
-Hypnotic Spiral (3rd) (23)\
+Hypnotic Spiral (3rd) (23)
 
 Range: 120 feet\
 Components: V\
@@ -2501,7 +2501,7 @@ of it.
 
 ---
 
-Klenne's Tiny Hut (3rd) (ritual) (24)\
+Klenne's Tiny Hut (3rd) (ritual) (24)
 
 Range: self/ 10 foot hemisphere\
 Components: V/S\
@@ -2523,7 +2523,7 @@ of the ground under the hemisphere.
 
 ---
 
-Lightning Bolt (3rd) (25)\
+Lightning Bolt (3rd) (25)
 
 Range: self/100 foot line\
 Components: V/S\
@@ -2537,7 +2537,7 @@ wearing metal have disadvantage on this saving throw.
 
 ---
 
-Magic Circle (3rd) (ritual) (26)\
+Magic Circle (3rd) (ritual) (26)
 
 Range: 10 feet\
 Components: V/S/M (a bottle of holy water, salt, and iron powder)\
@@ -2554,7 +2554,7 @@ from at a creature on the other side of the circle have disadvantage.
 
 ---
 
-Major Image (3rd) (ritual) (27)\
+Major Image (3rd) (ritual) (27)
 
 Range: 120 feet\
 Components: V/S\
@@ -2574,7 +2574,7 @@ feint to them.
 
 ---
 
-Healing Words (3rd) (28)\
+Healing Words (3rd) (28)
 
 Range: 120 feet\
 Components: V\
@@ -2586,7 +2586,7 @@ target, healing them for 1d4 + your spel\lcasting modifier hitpoints
 
 ---
 
-Nondetection (3rd) (ritual) (29)\
+Nondetection (3rd) (ritual) (29)
 
 Range: touch\
 Components: V/S\
@@ -2599,7 +2599,7 @@ this spell for the\ duration.
 
 ---
 
-Summon Mount (3rd) (ritual) (30)\
+Summon Mount (3rd) (ritual) (30)
 
 Range: 30 feet\
 Components: V/S\
@@ -2613,7 +2613,7 @@ if the mount drops to 0 hitpoints or you dismiss it as an action.
 
 ---
 
-Plant Growth (3rd) (31)\
+Plant Growth (3rd) (31)
 
 Range: 150 feet\
 Components: V\
@@ -2635,7 +2635,7 @@ fruits and vegetables. This effect lasts 1 year.
 
 ---
 
-Proof From Energy (3rd) (32)\
+Proof From Energy (3rd) (32)
 
 Range: Touch\
 Components: V/S\
@@ -2648,7 +2648,7 @@ target gains resistance to that damage type.
 
 ---
 
-Sending (3rd) (33)\
+Sending (3rd) (33)
 
 Range: Unlimited\
 Components: V/S\
@@ -2662,7 +2662,7 @@ was you who sent the message.
 
 ---
 
-Slow (3rd) (34)\
+Slow (3rd) (34)
 
 Range: 30 feet\
 Components: V/S\
@@ -2685,7 +2685,7 @@ of their next turn, otherwise the spell is cast normally.
 
 ---
 
-Speak With Dead (3rd) (35)\
+Speak With Dead (3rd) (35)
 
 Range: touch\
 Components: V/S\
@@ -2702,7 +2702,7 @@ effect of this spell in the last 10 days the spell fails.
 
 ---
 
-Plant Tongue (3rd) (36)\
+Plant Tongue (3rd) (36)
 
 Range: self\
 Components: V \
@@ -2720,7 +2720,7 @@ performing other tasks for you, this is entirely up to your GM.
 
 ---
 
-guardians (3rd) (37)\
+guardians (3rd) (37)
 
 Range: self/15 foot radius\
 Components: V/S\
@@ -2739,7 +2739,7 @@ success.
 
 ---
 
-Stinking Cloud (3rd) (38)\
+Stinking Cloud (3rd) (38)
 
 Range: 120 feet\
 Components: V/S/M (a pinch of sulphur)\
@@ -2754,7 +2754,7 @@ to the effects of this spell.
 
 ---
 
-Tongues (3rd) (39)\
+Tongues (3rd) (39)
 
 Range: touch\
 Components: V/S\
@@ -2767,7 +2767,7 @@ target speak understands what they say and hear it in their native tongue.
 
 ---
 
-Draining Touch (3rd) (40)\
+Draining Touch (3rd) (40)
 
 Range: self\
 Components: V/S \
@@ -2783,7 +2783,7 @@ action.
 
 ---
 
-Gills (3rd) (ritual) (41)\
+Gills (3rd) (ritual) (41)
 
 Range: 60 feet\
 Components: V/S\
@@ -2795,7 +2795,7 @@ breathing underwater and as normally for the\ duration of the spell.
 
 ---
 
-Water Walk (3rd) (ritual) (42)\
+Water Walk (3rd) (ritual) (42)
 
 Range: 30 feet\
 Components: V/S\
@@ -2811,7 +2811,7 @@ surface at a rate of 60 feet a round.
 
 ---
 
-Vass' Psychic Blast (3rd) (43)\
+Vass' Psychic Blast (3rd) (43)
 
 Range: 120 feet\
 Components: S\
@@ -2825,7 +2825,7 @@ not being incapacitated on a success.
 
 ---
 
-Beacon of Fate (3rd) (44)\
+Beacon of Fate (3rd) (44)
 
 Range: Unlimited\
 Components: V/S/M (a platinum candle worth 100 GP)\
@@ -2841,7 +2841,7 @@ mile of it, at which point the spell ends.
 
 ---
 
-Stoneskin (3rd) (45)\
+Stoneskin (3rd) (45)
 
 Range: touch\
 Components: V/S\
@@ -2855,7 +2855,7 @@ target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 ---
 
-Corrupt (3rd) (46)\
+Corrupt (3rd) (46)
 
 Range: 60 feet\
 Components: V/S\
@@ -2869,7 +2869,7 @@ corrupted they roll on the bad corruptions chart.
 
 ---
 
-Heavenly Rebuke (3rd) (47)\
+Heavenly Rebuke (3rd) (47)
 
 Range: Self (50 foot cone)\
 Components: V/S\
@@ -2884,7 +2884,7 @@ take no damage.
 
 ---
 
-Brimstone (3rd) (48)\
+Brimstone (3rd) (48)
 
 Range: Self/60 foot line\
 Components: V/S\
@@ -2898,7 +2898,7 @@ in the area must make a constitution saving throw or take 4d6 Fire damage and
 
 ---
 
-Snowball (3rd) (49)\
+Snowball (3rd) (49)
 
 Range: 120 feet\
 Components: V/S\
@@ -2918,7 +2918,7 @@ the saving throw at the end of their turn, ending the effect on a success.
 
 ---
 
-Arcane Eye (4th) (1)\
+Arcane Eye (4th) (1)
 
 Range: 30 feet\
 Components: V/S\
@@ -2934,7 +2934,7 @@ capable of fitting through holes as small as 1cm.
 
 ---
 
-Aura of Life (4th) (2)\
+Aura of Life (4th) (2)
 
 Range: self/30 feet\
 Components: V\
@@ -2948,7 +2948,7 @@ damage and regain 1 hitpoint when they start their turn within the area.
 
 ---
 
-Banish (4th) (3)\
+Banish (4th) (3)
 
 Range: 60 feet\
 Components: V\
@@ -2966,7 +2966,7 @@ manner as previously described.
 
 ---
 
-Blight (4th) (4)\
+Blight (4th) (4)
 
 Range: 30 feet\
 Components: V/S\
@@ -2985,7 +2985,7 @@ deals 48 damage.
 
 ---
 
-Confusion (4th) (5)\
+Confusion (4th) (5)
 
 Range: 90 feet\
 Components: V/S\
@@ -3010,7 +3010,7 @@ how they act on that turn.
 
 ---
 
-Control Water (4th) (ritual) (6)\
+Control Water (4th) (ritual) (6)
 
 Range: 300 feet\
 Components: V/S\
@@ -3049,7 +3049,7 @@ check to swim away as an action on their turn but do so at disadvantage.
 
 ---
 
-Death Ward (4th) (7)\
+Death Ward (4th) (7)
 
 Range: touch\
 Components: V/S\
@@ -3064,7 +3064,7 @@ ends.
 
 ---
 
-Dimension Door (4th) (8)\
+Dimension Door (4th) (8)
 
 Range: Touch/Self\
 Components: V/S\
@@ -3077,7 +3077,7 @@ them to this point with you.
 
 ---
 
-Divination (4th) (ritual) (9)\
+Divination (4th) (ritual) (9)
 
 Range: self\
 Components: V/S/M (incense and a sacrifice worth at least 30 GP)\
@@ -3092,7 +3092,7 @@ when asked about descriptions of specific things within the vision.
 
 ---
 
-Beguile Creature (4th) (10)\
+Beguile Creature (4th) (10)
 
 Range: 60 feet\
 Components: V\
@@ -3110,7 +3110,7 @@ spell early on a success.
 
 ---
 
-Shield of Flame (4th) (11)\
+Shield of Flame (4th) (11)
 
 Range: self\
 Components: V/S\
@@ -3126,7 +3126,7 @@ kind of flame you chose.
 
 ---
 
-Freedom of Movement (4th) (12)\
+Freedom of Movement (4th) (12)
 
 Range: touch\
 Components: V/S\
@@ -3139,7 +3139,7 @@ may use 5 feet of movement to instantly escape a grapple or restraint.
 
 ---
 
-Giant Bug (4th) (13)\
+Giant Bug (4th) (13)
 
 Range: 60 feet\
 Components: V/S\
@@ -3153,7 +3153,7 @@ minutes has elapsed the target may act of its own will.
 
 ---
 
-Greater Invisiblity (4th) (14)\
+Greater Invisiblity (4th) (14)
 
 Range: touch\
 Components: V/S\
@@ -3165,7 +3165,7 @@ target is carrying or wearing is also invisible.
 
 ---
 
-guardian of Faith (4th) (15)\
+guardian of Faith (4th) (15)
 
 Range: 60 feet\
 Components: V\
@@ -3183,7 +3183,7 @@ damage.
 
 ---
 
-Illusory Terrain (4th) (16)\
+Illusory Terrain (4th) (16)
 
 Range: 300 feet\
 Components: V/S\
@@ -3198,7 +3198,7 @@ illusion.
 
 ---
 
-Ice Storm (4th) (17)\
+Ice Storm (4th) (17)
 
 Range: 300 feet\
 Components: V/S\
@@ -3213,7 +3213,7 @@ terrain for 1 minute.
 
 ---
 
-Phantom Hound (4th) (18)\
+Phantom Hound (4th) (18)
 
 Range: 30 feet\
 Components: V/S\
@@ -3230,7 +3230,7 @@ a hit.
 
 ---
 
-Private Sanctum (4th) (19)\
+Private Sanctum (4th) (19)
 
 Range: 120 feet\
 Components: V/S\
@@ -3253,7 +3253,7 @@ area.
 
 ---
 
-Bubble (4th) (20)\
+Bubble (4th) (20)
 
 Range: 120 feet\
 Components: V/S\
@@ -3267,7 +3267,7 @@ bubble and there is no way to break it other than with a disintegrate spell.
 
 ---
 
-Nightmare (4th) (21)\
+Nightmare (4th) (21)
 
 Range: 120 feet\
 Components: V\
@@ -3284,7 +3284,7 @@ ending the spell on a success.
 
 ---
 
-Polymorph (4th) (22)\
+Polymorph (4th) (22)
 
 Range: 60 feet\
 Components: V/S\
@@ -3310,7 +3310,7 @@ Targets of this spell cannot perform things that require their original biology.
 
 ---
 
-Wall of Fire (4th) (23)\
+Wall of Fire (4th) (23)
 
 Range: 120\
 Components: V/S\
@@ -3330,7 +3330,7 @@ or ends their turn there takes 5d8 fire damage.
 
 ---
 
-Awaken (4th) (24)\
+Awaken (4th) (24)
 
 Range: touch\
 Components: V/S/M (an agate worth at least 250 GP)\
@@ -3348,7 +3348,7 @@ friendly or not based on how you treated them while charmed.
 
 ---
 
-Cloudkill (4th) (25)\
+Cloudkill (4th) (25)
 
 Range: 120 fet\
 Components: V/S\
@@ -3366,7 +3366,7 @@ that do not need to breathe are immune.
 
 ---
 
-Commune With Nature (4th) (ritual) (26)\
+Commune With Nature (4th) (ritual) (26)
 
 Range: self\
 Components: V \
@@ -3388,7 +3388,7 @@ area.
 
 ---
 
-Restoration (4th) (27)\
+Restoration (4th) (27)
 
 Range: Touch\
 Components: V/S/M (A blend of herbs worth 300 GP)\
@@ -3401,7 +3401,7 @@ You perform a ritual of restoration on one creature, curing them of any disease,
 
 ---
 
-Antimagic Field (4th) (28)\
+Antimagic Field (4th) (28)
 
 Range: 200 feet\
 Components: V/S\
@@ -3416,7 +3416,7 @@ area cease for the\ duration.
 
 ---
 
-Revivify (4th) (29)\
+Revivify (4th) (29)
 
 Range: touch\
 Components: V/S/M (an item worth 100 GP)\
@@ -3430,7 +3430,7 @@ life with 1 hitpoint. roll a 1d20, on a 5 or lower this spell fails.
 
 ---
 
-Cardiac Arrest (4th) (30)\
+Cardiac Arrest (4th) (30)
 
 Range: 120 feet\
 Components: V/S\
@@ -3448,7 +3448,7 @@ Autopsy suggests the target died of a heart attack.
 
 ---
 
-Conjure Devil (4th) (31)\
+Conjure Devil (4th) (31)
 
 Range: 30 feet\
 Components: V/S/M (an item inscribed with a devil's true name)\
@@ -3464,7 +3464,7 @@ appears at a point within 30 feet.
 
 ---
 
-Scrying (4th) (ritual) (32)\
+Scrying (4th) (ritual) (32)
 
 Range: self\
 Components: V/S\
@@ -3486,7 +3486,7 @@ invisible objects. The wisdom save's DC may be modified by the following:
 
 ---
 
-Chain Lightning (4th) (33)\
+Chain Lightning (4th) (33)
 
 Range: 120 feet\
 Components: V/S\
@@ -3504,7 +3504,7 @@ been targeted.
 
 ---
 
-Sunburst (4th) (33)\
+Sunburst (4th) (33)
 
 Range: self, 120 foot line\
 Components: V/S\
@@ -3519,7 +3519,7 @@ A ray of golden light sears forward from the palms of your hands, in a line 120 
 
 ---
 
-Conjure Demon (5th) (1)\
+Conjure Demon (5th) (1)
 
 Range: 30 feet\
 Components: V/S/M (an item inscribed with a demon's true name)\
@@ -3535,7 +3535,7 @@ appears at a point within 30 feet.
 
 ---
 
-Summon Undead Horde (5th) (2)\
+Summon Undead Horde (5th) (2)
 
 Range: 200 Feet\
 Components: V/S\
@@ -3554,7 +3554,7 @@ may be healed for 1d6 hitpoints when mending is cast on them.
 
 ---
 
-Disintegrate (5th) (3)\
+Disintegrate (5th) (3)
 
 Range: 120 feet\
 Components: V/S\
@@ -3569,7 +3569,7 @@ under the obliterated status effect.
 
 ---
 
-Time Stop (5th) (4)\
+Time Stop (5th) (4)
 
 Range: self\
 Components: V/M (an hourglass which is broken during\ casting) \
@@ -3585,7 +3585,7 @@ You may end the spell early by saying "Time will begin to move again".
 
 ---
 
-Rite of the Power (5th) (5)\
+Rite of the Power (5th) (5)
 
 Range: Self\
 Components: V \
@@ -3620,7 +3620,7 @@ the discretion of your GM.
 
 ---
 
-Judgement (5th) (6)\
+Judgement (5th) (6)
 
 Range: touch\
 Components: S\
@@ -3636,7 +3636,7 @@ to hell.
 
 ---
 
-Gateway (5th) (7)\
+Gateway (5th) (7)
 
 Range: Unlimited\
 Components: V/S/M (an item worth 1000 GP)\
@@ -3652,7 +3652,7 @@ area described and back to the location of\ casting as they please for that time
 
 ---
 
-Perish (5th) (8)\
+Perish (5th) (8)
 
 Range: 60 feet\
 Components: V\
@@ -3664,7 +3664,7 @@ within range. If the target currently has 80 hitpoits or less they fall dead.
 
 ---
 
-Invincibility (5th) (9)\
+Invincibility (5th) (9)
 
 Range: Touch\
 Components: V/S/M (A bar of dreadite valued at 1000 GP)\
@@ -3676,7 +3676,7 @@ duration.
 
 ---
 
-Heal (5th) (10)\
+Heal (5th) (10)
 
 Range: 300 feet\
 Components: V\
@@ -3689,7 +3689,7 @@ wish amongst the targets.
 
 ---
 
-Shapeshift (5th) (11)\
+Shapeshift (5th) (11)
 
 Range: Self\
 Components: V/S\
@@ -3701,7 +3701,7 @@ mental ones, just the same as a polymorph spell.
 
 ---
 
-Regenerate (5th) (12)\
+Regenerate (5th) (12)
 
 Range: touch\
 Components: V/S\
@@ -3716,7 +3716,7 @@ them.
 
 ---
 
-Raise Dead (5th) (13)\
+Raise Dead (5th) (13)
 
 Range: touch\
 Components: V/S/M (A gem worth 2500 GP)\
@@ -3730,7 +3730,7 @@ and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2)
 
 ---
 
-Miracle (5th) (14)\
+Miracle (5th) (14)
 
 Range: self\
 Components: V/S/M (a holy symbol)\
@@ -3750,7 +3750,7 @@ your miracle.
 
 ---
 
-Mindwash (5th) (15)\
+Mindwash (5th) (15)
 
 Range: self\
 Components: V/S\
@@ -3768,7 +3768,7 @@ lying.
 
 ---
 
-Clone (5th) (16)\
+Clone (5th) (16)
 
 Range: self\
 Components: V/S/M (A lock of hair, patch of skin, or drop of blood from a creature, and a platinum cloning vat made from 5000 GP worth of materials)\
@@ -3784,7 +3784,7 @@ casting but sourced from different creatures. Alterations of clones may cause
 unintended effects, as decided by your GM.
 
 ---
-Mindswap (5th) (17)\
+Mindswap (5th) (17)
 
 Range: touch\
 Components: V/S\
@@ -3811,7 +3811,7 @@ take 4d10+10 psychic damage.
 
 ---
 
-Black Hole (6th) (1)\
+Black Hole (6th) (1)
 
 Range: 300 feet\
 Components: V/S/M (a priceless vial of antimatter)\
@@ -3832,7 +3832,7 @@ they may repeat this check every turn that the blackhole is at play.
 
 ---
 
-Seraphic Transformation (6th) (2)\
+Seraphic Transformation (6th) (2)
 
 Range: self\
 Components: V/S/M (the blood of an angel)\
@@ -3848,7 +3848,7 @@ spell, only being reduced to 1 hitpoint if it would kill them.
 
 ---
 
-Longevity (6th) (3)\
+Longevity (6th) (3)
 
 Range: self\
 Components: V/S/M (the destroyed phylactery of a dead lich)\
@@ -3861,7 +3861,7 @@ this spell adds a year to your natural lifespan.
 
 ---
 
-Time Jump (6th) (4)\
+Time Jump (6th) (4)
 
 Range: 30 feet\
 Components: V/S/M (the sands of time)\
@@ -3896,7 +3896,7 @@ will continue to exist. You are now unbound by previous timelines.
 
 ---
 
-Summon Leviathan (6th) (5)\
+Summon Leviathan (6th) (5)
 
 Range: 1 mile\
 Components: V/S/M (The soul of a God)\
@@ -3924,7 +3924,7 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 
 ---
 
-Grand Resurrection (6th) (5)\
+Grand Resurrection (6th) (5)
 
 Range: Unlimited\
 Components: V/M (A living soul which is obliterated during\ casting)\
