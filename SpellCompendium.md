@@ -105,7 +105,7 @@ Description:\
 You create a 5-foot cube of magical fire on the ground in an area within range.
 Any creature within the area of the fire when it is created must make a
 dexterity saving throw or take 1d8 fire damage, this is also true of any
-creature which enters the area of the spell during its\ duration.
+creature which enters the area of the spell during its duration.
 
 ---
 
@@ -157,7 +157,7 @@ Duration: 1 minute\
 Casting Time: 1 action\
 Description:\
 You gain advantage on charisma checks against one creature of your choice during
-the\ duration. After the\ duration of this spell, the creature knows you've cast
+the duration. After the duration of this spell, the creature knows you've cast
 a spell on it in order to make yourself more agreeable and it will react 
 accordingly. In order to activate this spell you must say a coded phrase from
 the following:
@@ -207,7 +207,7 @@ Duration: Concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You touch one creature, this creature is capable of rolling 1d6 and adding it
-to the total of one of their rolls for the\ duration of the spell. Once the 
+to the total of one of their rolls for the duration of the spell. Once the 
 creature rolls this die the spell ends.
 
 ---
@@ -255,7 +255,7 @@ Description:\
 You touch one object, that object sheds bright light for 20 feet and dim light
 for 10 more. If you instead wish to cast this spell on a creature, make a
 melee spell attack. On a hit the target is blinded until their next turn or
-blinded by the\ duration if they are sensitive to light.
+blinded by the duration if they are sensitive to light.
 
 ---
 
@@ -452,7 +452,7 @@ Components: V/S\
 Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
-You touch one creature and bless them with resistance. During the\ duration, the
+You touch one creature and bless them with resistance. During the duration, the
 target may add the result of 1d4 to a saving throw of their choice. The spell
 then ends.
 
@@ -727,7 +727,7 @@ Components: V/S\
 Duration: Concentration, up to 10 minutes\
 Casting Time: 1 bonus action\
 Description:\
-You touch one creature, granting them +2 AC for the\ duration.
+You touch one creature, granting them +2 AC for the duration.
 
 ---
 
@@ -756,7 +756,7 @@ You call forth vines and weeds to entangle and restrain all creatures within a
 area during\ casting must make a strength saving throw or be restrained, they 
 may repeat this saving throw at the end of their turn until the spell ends. 
 After this initial effect the spell simply turns the area into difficult terrain
-for the rest of the\ duration.
+for the rest of the duration.
 
 ---
 
@@ -814,7 +814,7 @@ Duration: 1 day\
 Casting Time: 1 action\
 Description:\
 Select one beast within range. The target must make a wisdom saving throw or
-be charmed by you for the\ duration. The spell ends early if you or an ally harms
+be charmed by you for the duration. The spell ends early if you or an ally harms
 the target of the spell.
 
 ---
@@ -839,7 +839,7 @@ Components: V\
 Duration: Concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
-Select one creature within range. For the\ duration of the spell, the target may 
+Select one creature within range. For the duration of the spell, the target may 
 roll 1d4 each time they make an attack, check, or saving throw; adding the 
 result to the total.
 
@@ -868,7 +868,7 @@ Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
 You attempt to charm one humanoid within range. The target must make a wisdom
-saving throw or be charmed for the\ duration. The spell ends early if you or an
+saving throw or be charmed for the duration. The spell ends early if you or an
 ally attack the target. Once the spell ends the target knows you charmed them.
 
 ---
@@ -908,7 +908,7 @@ Components: S \
 Duration: 1 hour\
 Casting Time: 1 action  \
 Description:\
-For the\ duration of this spell you are capable of understanding all written and
+For the duration of this spell you are capable of understanding all written and
 spoken languages. It takes you 1 minute to read a page of text with this spell.
 This spell has limitations decided by your Gamemaster, but it is always capable of
 discerning mundane languages.
@@ -961,7 +961,7 @@ Components:  V/S\
 Duration: Concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
-For the\ duration of this spell you inately know the location of any abberation, 
+For the duration of this spell you inately know the location of any abberation, 
 celestial, elemental, fey, fiend, or undead within 30 feet of you. You also know 
 if there is an object within 30 feet of you that is blessed or cursed by any of 
 the ladder.  
@@ -975,7 +975,7 @@ Components: V/S\
 Duration: Concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
-For the\ duration of this spell you are capable of seeing magic around you as
+For the duration of this spell you are capable of seeing magic around you as
 bright glowing colors. This vision may penetrate thin barriers. 
 
 ---
@@ -987,7 +987,7 @@ Components:  V/S\
 Duration: Concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
-For the\ duration of this spell you are able to detect the exact location of
+For the duration of this spell you are able to detect the exact location of
 poison and disease within 30 feet of you. This sense can penetrate thick 
 barriers.
 
@@ -1031,7 +1031,7 @@ Components: S\
 Duration: concentration up to 1 minute\
 Casting Time: 1 bonus action\
 Description:\
-You touch one creature, for the\ duration of this spell the target deals an extra
+You touch one creature, for the duration of this spell the target deals an extra
 1d4 radiant damage on all weapon attacks.
 
 ---
@@ -1043,7 +1043,7 @@ Components: V/S\
 Duration: concentration up to a minute\
 Casting Time: 1 bonus action\
 Description:\
-You touch one creature, the next time during the\ duration for the spell that the
+You touch one creature, the next time during the duration for the spell that the
 target hits a creature with a weapon attack the target of the attack is wrapped
 in thorny vines and must make a strength saving throw or be restrained until the
 spell ends. Creatures larger than the target of this spell have advantage on
@@ -1103,7 +1103,7 @@ Components: V\
 Duration: 1 minute\
 Casting Time: 1 reaction (to creatures falling within range)\
 Description:\
-Choose up to five creatures within range. For the\ duration of this spell the 
+Choose up to five creatures within range. For the duration of this spell the 
 targets fall at a speed of 60 feet per round, taking no damage when they touch 
 the ground.  
 
@@ -1143,7 +1143,7 @@ Duration: 1 minute\
 Casting Time: 1 action\
 Description:\
 You conjure grease in a 10 foot square at a point within range. This area
-is difficult terrain for the\ duration. When the grease is conjured all creatures
+is difficult terrain for the duration. When the grease is conjured all creatures
 standing on the area it occupies must make a dexterity saving throw or fall 
 prone, a creature entering the area must also make this save.
 
@@ -1199,7 +1199,7 @@ Casting Time: 1 action\
 Description:\
 You touch one creature, bolstering them with bravery. The target gains 
 termporary hitpoints equal to your\ casting modifer and becomes immune to the
-frightened conidition for the\ duration. When the spell ends, any remaining
+frightened conidition for the duration. When the spell ends, any remaining
 temporary hitpoints from this spell are removed. 
 
 ---
@@ -1211,10 +1211,10 @@ Components: V\
 Duration: concentration up to 1 hour\
 Casting Time: 1 bonus action\
 Description:\
-You place a hex on one creature within range. For the\ duration of this spell you
+You place a hex on one creature within range. For the duration of this spell you
 deal an additional 1d6 necrotic damage to the target when you hit it with an
 attack. The creature also gains disadvantage on ability checks with one 
-attribute of your choice for the\ duration. You may change the target of this
+attribute of your choice for the duration. You may change the target of this
 spell as a bonus action. 
 
 ---
@@ -1267,7 +1267,7 @@ Components: V/S\
 Duration: concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
-You touch one creature and for the\ duration of this spell their jump height is 
+You touch one creature and for the duration of this spell their jump height is 
 multiplied by 5.
 
 ---
@@ -1279,7 +1279,7 @@ Components: V/S\
 Duration: 10 minutes\
 Casting Time: 1 bonus action\
 Description:\
-You touch one creature. For the\ duration of the spell the target's movement
+You touch one creature. For the duration of the spell the target's movement
 speed increases by 10 feet.
 
 ---
@@ -1376,7 +1376,7 @@ Components: V/S\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-You touch one creature and for the\ duration of this spell they can speak and 
+You touch one creature and for the duration of this spell they can speak and 
 understand the universal langauge of beasts.
 
 ---
@@ -1405,7 +1405,7 @@ Casting Time: 1 turn\
 Description:\
 You conjure a bolt of energy and target one creature within range. The target
 must make a dexterity saving throw or take 2d10 thunder or lightning damage 
-(your choice). You may expending your turn for the\ duration of this spell to 
+(your choice). You may expending your turn for the duration of this spell to 
 deal an additional 1d10 damage of the type you chose to the target. This spell
 ends early if you do anything other than moving or speaking on your turn. 
 
@@ -1454,7 +1454,7 @@ Casting Time: 1 action\
 Description:\
 You empower the natural vitility of one creature within range by bolstering them
 with life energy. The target's current and maximum hitpoints increase by 10 for
-the\ duration.
+the duration.
 
 ---
 
@@ -1510,7 +1510,7 @@ Casting Time: 1 action\
 Description:\
 You touch one creature, this creature grows some kind of physical adaptation
 that grants them a higher AC. The target's AC cannot be made lower than 16 for 
-the\ duration of the spell. If the target already has a natural shell they gain
+the duration of the spell. If the target already has a natural shell they gain
 +1 to their AC.
 
 ---
@@ -1536,7 +1536,7 @@ Duration: 1 minute\
 Casting Time: 1 action\
 Description:\
 You touch one creature and slightly obscure them from view using illusory magic.
-For the\ duration of this spell attacks made against the target have 
+For the duration of this spell attacks made against the target have 
 disadvantage. This spell has no effect on attackers that do not rely on normal
 sight.
 
@@ -1593,7 +1593,7 @@ Casting Time: 1 action\
 Description:\
 You attempt to possess one human of your choice within range. The target must
 make a wisdom saving throw or become charmed by you, allowing you limited 
-control over their actions on their turn for the\ duration of this spell. There
+control over their actions on their turn for the duration of this spell. There
 is some obvious indication that the target has been possessed.
 
 The target must use its turn to attempt to attack one creature of your choice 
@@ -1625,7 +1625,7 @@ Components: V/S\
 Duration: 8 hours\
 Casting Time: 1 action\
 Description:\
-Select up to 3 creatures within range. For the\ duration of this spell the 
+Select up to 3 creatures within range. For the duration of this spell the 
 targets and you gain darkvision out to 60 feet. 
 
 ---
@@ -1637,7 +1637,7 @@ Components: V\
 Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
-For the\ duration of the spell you can detect and read the thoughts of creatures
+For the duration of the spell you can detect and read the thoughts of creatures
 within 30 feet of you. The extent to which you can read minds is surface level,
 bur reactive answers and thought processes are avaliable to you, making this
 spell particularly effective for interrogation. If you wish to push deeper into
@@ -1709,7 +1709,7 @@ You conjure a blade of pure scolding flame in a free hand. You may use your
 action to attack with the blade, making a melee spell attack and dealing 3d6
 fire damage on a hit. The flame sheds 20 feet of bright light and 10 more feet
 of dim light. You may make the blade return to your hand as a bonus action for 
-the\ duration of this spell.
+the duration of this spell.
 
 ---
 
@@ -1720,7 +1720,7 @@ Components: V/M (2 silver coins)\
 Duration: 1 month\
 Casting Time: 1 action\
 Description:\
-You touch one corpse and place 2 silver coins over its eyes. For the\ duration
+You touch one corpse and place 2 silver coins over its eyes. For the duration
 of this spell the corpse is proofed against decay and cannot be raised as 
 undead. Days spent under the effects of this spell do not count against spells 
 with time limits such as raise dead.
@@ -1736,10 +1736,10 @@ Casting Time: 1 action\
 Description:\
 You speak a word of elemental air and a gust of wind 60 feet long and 10 feet
 wide bursts out originating from you in a direction of your choice for the
-spells\ duration. Each creature that starts its turn who enters the area of the 
+spells duration. Each creature that starts its turn who enters the area of the 
 winds or starts their turn there must make a strength saving throw or be thrown 
 20 feet back by the winds. The area affected by wind is considered difficult
-terrain. As a bonus action for the\ duration you may change the direction the
+terrain. As a bonus action for the duration you may change the direction the
 wind blows from you.
 
 ---
@@ -1752,7 +1752,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You magically heat a metal object. Any creature in contact with the target while
-during the\ casting of this spell takes 2d8 fire damage and for the\ duration of
+during the\ casting of this spell takes 2d8 fire damage and for the duration of
 the spell, any creature that starts their turn in contact with the target takes 
 1d6 fire damage. 
 
@@ -1766,7 +1766,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You attempt to magically bind one human within range. The target must make
-a wisdom saving throw or be paralyzed for the\ duration. This spell ends if the
+a wisdom saving throw or be paralyzed for the duration. This spell ends if the
 saving throw may be repeated at the end of each of the target's turns.
 
 ---
@@ -1779,7 +1779,7 @@ Duration: concentration up to 1 hour\
 Casting Time: 1 action\
 Description:\
 You touch one creature and they along with anything they are wearing or carrying
-become invisible for the\ duration of the spell. This spell ends if the target
+become invisible for the duration of the spell. This spell ends if the target
 casts a spell or makes an attack.
 
 ---
@@ -1830,7 +1830,7 @@ Components: V\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-You speak the name of one animal or plant aloud. For the\ duration of this spell
+You speak the name of one animal or plant aloud. For the duration of this spell
 you innately know the location of all instances of that plant or animal within a
 1 mile radius of you.
 
@@ -1843,7 +1843,7 @@ Components: V/S\
 Duration: 8 hours\
 Casting Time: 1 bonus action\
 Description:\
-You touch one mundane weapon and for the\ duration of the spell this weapon 
+You touch one mundane weapon and for the duration of the spell this weapon 
 becomes a +1 weapon
 
 ---
@@ -1896,7 +1896,7 @@ Components: V/S\
 Duration: instantaneous\
 Casting Time: 10 minutes\
 Description:\
-You pray for 10 minutes and all creatures within 10 feet of you for the\ duration
+You pray for 10 minutes and all creatures within 10 feet of you for the duration
 of the prayer regain 2d8 + your spellcasting modifier hitpoints.
 
 ---
@@ -1911,7 +1911,7 @@ Description:\
 A sickly pale ray lashes out at one creature of your choice within range. The
 target must make a constitution saving throw or suffer disadvantage on strength
 based attacks, checks, and saving throws and have the damage of strength based
-attacks reduced to half of the damage rolled for the\ duration. The target may 
+attacks reduced to half of the damage rolled for the duration. The target may 
 repeat this saving throw at the end of each of its turns.
 
 ---
@@ -1936,7 +1936,7 @@ Components: V \
 Duration: 8 hours\
 Casting Time: 1 action\
 Description:\
-For the\ duration of this spell you are capable of seeing invisible and otherwise
+For the duration of this spell you are capable of seeing invisible and otherwise
 magically obscured creatures occupying the space around you.
 
 ---
@@ -1978,7 +1978,7 @@ Duration: concentration up to 1 hour\
 Casting Time: 1 action\
 Description:\
 You touch one creature, granting them a climbing speed equal to their walking
-speed for the\ duration of the spell. The target only requires one point of
+speed for the duration of the spell. The target only requires one point of
 contact at a time to use this speed as their body magically sticks to a surface
 when they wish for it to.
 
@@ -1993,7 +1993,7 @@ Casting Time: 1 action\
 Description:\
 You summon a magical weapon with an appearance of your choice at a point within
 range. You may move the weapon to another point within range once on each
-of your turns for the\ duration and you are capable of commanding the weapon
+of your turns for the duration and you are capable of commanding the weapon
 to attack one creature within 10 feet of it as a bonus action. When the weapon
 makes an attack at a creature make a melee spell attack, on a hit the target
 takes 1d8 + your\ casting modifier force damage.
@@ -2009,7 +2009,7 @@ Casting Time: 1 action\
 Description:\
 You make a suggestion laced with magical influence to one creature within range.
 The target must make a wisdom saving throw, attempting to complete the
-suggestion you gave them to the best of their ability for the\ duration of the
+suggestion you gave them to the best of their ability for the duration of the
 spell. The target will not perform any obviously dangerous suggestions. The
 spell ends when the time is up, if the target completes their task, or if the
 target is damaged by you or an ally.
@@ -2146,7 +2146,7 @@ Description:\
 You conjure a spark of hope into the souls of any number of creatures within
 range. The targeted creatures have advantage on wisdom and death saving throws
 are immune to the frightened condition and automatically regain the maximum
-possible hitpoints from all healing effects for the\ duration of the spell. 
+possible hitpoints from all healing effects for the duration of the spell. 
 
 ---
 
@@ -2158,7 +2158,7 @@ Duration: concentration up to 1 minute.\
 Casting Time: 1 action\
 Description:\
 You touch one creature and attempt to bestow it a curse. The target must make
-a wisdom saving throw or be cursed for the\ duration of the spell. When you cast
+a wisdom saving throw or be cursed for the duration of the spell. When you cast
 this spell you should determine the curse from one of the following options:
 
 - While cursed the target has disadvantage on attack rolls and ability checks.
@@ -2184,10 +2184,10 @@ Components: V\
 Duration: 1 minute\
 Casting Time: 1 action\
 Description:\
-This spell transports you to the ethereal plane. For the\ duration of this spell
+This spell transports you to the ethereal plane. For the duration of this spell
 you are intangible and can only see within 120 feet of you. When the spell ends 
 you blink back to the relative point you would be on the material plane after
-all the movement you took for the\ duration. 
+all the movement you took for the duration. 
 
 ---
 
@@ -2202,7 +2202,7 @@ You call a small lightning storm that effects a 60 foot radius sphere centered
 on you.  When you cast this spell choose a point within 60 feet of you, that
 point is struck by lightning and all creatures within 5 feet must make a 
 dexterity saving throw or take 3d10 lightning damage taking half as much on a 
-success. You may expend an action on each of your turns for the\ duration of this
+success. You may expend an action on each of your turns for the duration of this
 spell to conjure another bolt of lightning.
 
 If you cast this spell while there is already storm within range, you assume
@@ -2239,7 +2239,7 @@ This spell allows you conjure animals to aid you. Choose one from the following:
 - 4 Danger level 1 beasts
 - 8 Danger level 0 beasts
 
-You conjure your selection and they are under your control for the\ duration of 
+You conjure your selection and they are under your control for the duration of 
 the spell, you are capable of commanding them to act on their turn as a free 
 action. Groups of beasts have shared initiative. When the spell ends the 
 remaining live beasts disappear in a cloud of smoke, reappearing where they 
@@ -2354,7 +2354,7 @@ Casting Time: 1 action\
 Description:\
 You cast a 30 foot cone containing the worst fears of a creature. Any creatures
 caught within the area must make a wisdom saving throw or be frightened of you
-for the\ duration. A frightened creature must take the dash action and and move
+for the duration. A frightened creature must take the dash action and and move
 away from you along the safest possible path. A creature that loses line of
 sight with you may repeat the wisdom saving throw at the end of their turn,
 ending the effect on a success. 
@@ -2400,7 +2400,7 @@ Duration: concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
 You touch a creature and they gain the ability to fly through magical means. The
-target gains 60 feet of flying speed for the\ duration. If the spell ends and the
+target gains 60 feet of flying speed for the duration. If the spell ends and the
 target is still in the air, they fall normally. You choose the appearance of
 the means through which the target gains this flying speed. 
 
@@ -2456,7 +2456,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action\
 Description:\
 You slow the relative time perception of one creature within range, allowing 
-them to act much faster than they normally would be able to. For the\ duration
+them to act much faster than they normally would be able to. For the duration
 of the spell the target gains the following:
 
 - +2 AC
@@ -2495,7 +2495,7 @@ Description:\
 You create a hypnotic spiral effect within the minds of all creatures within
 a 20 foot cube centered at a point within range. All creatures within the area
 must make a wisdom saving throw or be charmed, incapacitated, and have their
-speed reduced to 0 for the\ duration as swirls reflect in their eyes. The spell
+speed reduced to 0 for the duration as swirls reflect in their eyes. The spell
 ends early for a creature if another creature uses its action to knock them out
 of it.
 
@@ -2562,7 +2562,7 @@ Duration: concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
 You create a 3d illusory image no larger than 30 feet in any direction. The 
-image occupies a space within range for the\ duration of the spell. You are
+image occupies a space within range for the duration of the spell. You are
 capable of creating sensory effects to accompany the image but it is not 
 possible to create an effect that would cause physical harm. As long as you are
 within 120 feet of the image you can prompt it to move to a point within range
@@ -2595,7 +2595,7 @@ Casting Time: 1 action\
 Description:\
 You touch one creature or object and magically proof it against detection. 
 Spells such as scrying and clairvoyance cannot percieve or target the target of 
-this spell for the\ duration.
+this spell for the duration.
 
 ---
 
@@ -2643,7 +2643,7 @@ Duration: 1 hour\
 Casting Time: 1 action \
 Description:\
 You touch one creature and proof them against any one damage type except 
-psychic, bludgeoning, piercing, or slashing. For the\ duration of this spell the 
+psychic, bludgeoning, piercing, or slashing. For the duration of this spell the 
 target gains resistance to that damage type.
 
 ---
@@ -2670,7 +2670,7 @@ Duration: concentration up to 1 minute\
 Casting Time: 1 action \
 Description:\
 You attempt to slow the relative time perception of up to 4 creatures within 
-range. The targets must make a wisdom saving throw or be slowed for the\ duration
+range. The targets must make a wisdom saving throw or be slowed for the duration
 of the spell. Slowed creatures suffer from the following:
 
 - -2 to AC
@@ -2709,7 +2709,7 @@ Components: V \
 Duration: 10 minutes\
 Casting Time: 1 action\
 Description:\
-For the\ duration of this spell you are capable of conversing with plants and
+For the duration of this spell you are capable of conversing with plants and
 they are capable of responding in your native tongue. The plants are capable
 of answering questions about things they percieved and will always answer 
 truthfully unless the plant is corrupted by magical radiation in some way. You 
@@ -2761,7 +2761,7 @@ Components: V/S\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-You touch one creature and for the\ duration they can understand any spoken 
+You touch one creature and for the duration they can understand any spoken 
 language. Any creature that understands at least one language that hears the
 target speak understands what they say and hear it in their native tongue. 
 
@@ -2791,7 +2791,7 @@ Duration: 8 hours\
 Casting Time: 1 action\
 Description:\
 You and up to 10 creatures within range grow gills and become capable of
-breathing underwater and as normally for the\ duration of the spell.
+breathing underwater and as normally for the duration of the spell.
 
 ---
 
@@ -2802,7 +2802,7 @@ Components: V/S\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-This spell allows you to walk over any liquid for the\ duration as if it were
+This spell allows you to walk over any liquid for the duration as if it were
 normal solid ground. You and up to 10 willing creatures within range are capable
 of walking on any liquid as if it were solid ground. Extreme heat and cold still
 have an effect on those walking over them but pools of acid and poison have no
@@ -2834,7 +2834,7 @@ Casting Time: 8 hours\
 Description:\
 You perform a locating ritual over the course of 8 hours and light the platinum
 candle. You designate one creature on any plane whom you know the true name of.
-For the\ duration the target sees an incorporeal golden thread that when followed 
+For the duration the target sees an incorporeal golden thread that when followed 
 will lead them on the safest possible path to the candle. The candle slowly 
 burns down as the target gets closer and goes out when the target is within 1 
 mile of it, at which point the spell ends. 
@@ -2848,7 +2848,7 @@ Components: V/S\
 Duration: concentration up to 1 hour\
 Casting Time: 1 action\
 Description:\
-You touch one creature and make their skin hard as stone. For the\ duration the 
+You touch one creature and make their skin hard as stone. For the duration the 
 target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 --- 
@@ -2943,7 +2943,7 @@ Casting Time: 1 action\
 Description:\
 You recite a prayer of life and divine energy radiates out from you in a 30 foot
 radius circle. all non-hostile creatures within 30 feet of you 
-(including yourself) for the\ duration of this spell are resistant to necrotic 
+(including yourself) for the duration of this spell are resistant to necrotic 
 damage and regain 1 hitpoint when they start their turn within the area. 
 
 ---
@@ -2958,7 +2958,7 @@ Description:\
 You attempt to banish one creature within range to their native plane. The 
 target must make a charisma saving throw or be banished, disappearing in a puff
 of smoke. If the creature is native to the plane you are currently on then they
-are banished to a pocket dimension for the\ duration of the spell and return to
+are banished to a pocket dimension for the duration of the spell and return to
 the nearest unoccupied space to the point they were banished from. If the 
 creature is native to a different plane they are banished to that plain and 
 return only if the spell ends before 1 minute has elapsed, returning in the same
@@ -3030,7 +3030,7 @@ roll a 1d4, being capsized on a 1. Regardless of their roll any vehicle caught
 in this wave is carried with it in a direction of your choice for 200 feet.
 
 Part. You cause water in the area to spread apart allowing for safe passage. The
-water remains spread for the\ duration of the spell and moves with you forming 
+water remains spread for the duration of the spell and moves with you forming 
 walls of water at the edge of the spell's area of effect. This effect ends early 
 if you choose another effect, with the water rushing to fill the empty space 
 over 1 turn.
@@ -3044,7 +3044,7 @@ object within 20 feet of the whirpool is drawn 10 feet closer every round.
 Creatures can swim away by making an athletics check against your spell DC. A
 creature caught inside the whirlpool is whipped around visciously and must make
 a strength saving throw or take 2d8 damage at the start of each of their turns
-for the\ duration. A creature caught in the whirlpool may repeat the athletics 
+for the duration. A creature caught in the whirlpool may repeat the athletics 
 check to swim away as an action on their turn but do so at disadvantage.
 
 ---
@@ -3056,7 +3056,7 @@ Components: V/S\
 Duration: 8 hours\
 Casting Time: 1 action\
 Description:\
-You touch one creature and ward them against death for the\ duration. If the 
+You touch one creature and ward them against death for the duration. If the 
 target would drop to or below 0 from damage they instead drop to 1 and the spell
 ends. If the target is affected by a spell or effect that would instantaneously
 kill them without dealing damage the spell or effect is negated and the spell 
@@ -3118,9 +3118,9 @@ Duration: 10 minutes\
 Casting Time: 1 action\
 Description:\
 Flames emit from your body taking the shape of a shield and circling around
-your body for the\ duration. When you cast this spell choose cold or hot flame.
+your body for the duration. When you cast this spell choose cold or hot flame.
 A cold flame grants you resistance to fire damage and a hot flame grants you
-resistance to cold damage. For the\ duration of this spell, whenever a creature 
+resistance to cold damage. For the duration of this spell, whenever a creature 
 hits you with a melee spell they take 2d8 cold or fire damage, based on which
 kind of flame you chose.
 
@@ -3134,7 +3134,7 @@ Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
 You touch one creature allowing them unnatural dexterity and nimbleness. For
-the\ duration the target's movement speed is unaffected by any effect and they 
+the duration the target's movement speed is unaffected by any effect and they 
 may use 5 feet of movement to instantly escape a grapple or restraint. 
 
 ---
@@ -3160,7 +3160,7 @@ Components: V/S\
 Duration: concentration up to 10 minutes \
 Casting Time: 1 action\
 Description:\
-You touch one creature and they become invisible for the\ duration. Anything the
+You touch one creature and they become invisible for the duration. Anything the
 target is carrying or wearing is also invisible. 
 
 ---
@@ -3238,7 +3238,7 @@ Duration: 24 hours or 1 year\
 Casting Time: 10 minutes or 8 hours\
 Description:\
 You create a magical privacy screen ranging from a 5 foot cube to a 100 foot
-cube centered at a point within range. The spell lasts for the\ duration if you
+cube centered at a point within range. The spell lasts for the duration if you
 spend 10 minutes to cast it, or the effect is permanent if you spend 8 hours\
 casting this spell.
 
@@ -3262,7 +3262,7 @@ Casting Time: 1 action\
 Description:\
 You target one creature within range, attempting to wrap them in an impenetrable
 bubble. The target must make a dexterity saving throw or be wrapped in a bubble
-large enough to contain them for the\ duration. Nothing can pass through the 
+large enough to contain them for the duration. Nothing can pass through the 
 bubble and there is no way to break it other than with a disintegrate spell.
 
 ---
@@ -3356,7 +3356,7 @@ Duration: concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
 You create a 20 foot radius sphere of poisonous gas centered on a point within
-range. The gas lasts for the\ duration and all creatures within the area are
+range. The gas lasts for the duration and all creatures within the area are
 blinded while inside. When a creature enters the area for the first time on 
 their turn or starts their turn there they must make a constitutiton saving 
 throw or take 5d8 poison damage, taking half as much on a success. Creatures
@@ -3410,7 +3410,7 @@ Casting Time: 1 action\
 Description:\
 You create an area of antimagic at a point within range. The area may range from
 a 5 foot radius sphere to a 50 foot radius sphere. All magical effects in the
-area cease for the\ duration.
+area cease for the duration.
 
 --- 
 
@@ -3456,7 +3456,7 @@ Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
 You summon a devil of danger level 4 or lower. The devil is under your control
-for an hour and is capable of performing verbal commands for that\ duration.
+for an hour and is capable of performing verbal commands for that duration.
 After an hour the devil is free to act as it wishes on your plane. The devil
 appears at a point within 30 feet.
 
@@ -3474,7 +3474,7 @@ Description:\
 Choose a creature that is on the same plane as you. The target must make a 
 wisdom saving throw, or be targeted by an invisible sensor that appears within 
 10ft of them, you see and hear as if you were standing in the sensor's place for
-the\ duration. The sensor appears as a limunous orb to anyone capable of seeing 
+the duration. The sensor appears as a limunous orb to anyone capable of seeing 
 invisible objects. The wisdom save's DC may be modified by the following:
 
 - -5 Secondhand (You have heard of the target)
@@ -3527,7 +3527,7 @@ Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
 You summon a demon of danger level 5 or lower. The demon is under your control
-for an hour and is capable of performing verbal commands for that\ duration.
+for an hour and is capable of performing verbal commands for that duration.
 After an hour the demon is free to act as it wishes on your plane. The demon
 appears at a point within 30 feet.
 
@@ -3578,7 +3578,7 @@ Casting Time: 1 action\
 Description:\
 You shatter an hourglass and stop time for 5 turns. During these 5 turns you may
 take your actions and movement normally but no other creature may act for the \
-duration. Any actions taken during the\ duration of this spell will take place 
+duration. Any actions taken during the duration of this spell will take place 
 after the spell ends. 
 
 You may end the spell early by saying "Time will begin to move again".
@@ -3614,8 +3614,8 @@ feet for 8d4 + your\ casting modifier radiant damage on a hit.
 a constitution saving throw or take 4d10+10 radiant damage or half as much on a
 success.
 
-You also gain 2d10+20 temporary hitpoints for the\ duration. You may end this 
-spell early as an action. The spell may last longer than the listed\ duration at
+You also gain 2d10+20 temporary hitpoints for the duration. You may end this 
+spell early as an action. The spell may last longer than the listed duration at
 the discretion of your GM.
 
 ---
@@ -3647,7 +3647,7 @@ This spell allows you to open a gateway 20 feet wide by 30 feet tall at a point
 within 100 feet. This doorway leads to an area you can visualize, can see, or
 a point you describe based off of distance from your current position. 
 
-The doorway remains for the\ duration and creatures may pass through it to the 
+The doorway remains for the duration and creatures may pass through it to the 
 area described and back to the location of\ casting as they please for that time.
 
 ---
@@ -3793,7 +3793,7 @@ Casting time: 1 action\
 Description:\
 You touch one creature and attempt to swap minds with them. If the creature is
 unwilling they must make a wisdom saving throw or fall under the effects of this
-spell. For the\ duration of this spell, the targeted creature and you swap 
+spell. For the duration of this spell, the targeted creature and you swap 
 bodies, you retain your mental statistics and any class features you have 
 learned, but all of your phyiscal attributes and statistics become theirs and 
 vice versa. The effects of this spell become permanent after concentrating on it
@@ -3932,7 +3932,7 @@ Duration: instantaneous\
 Casting Time: 10 minutes\
 Description:\
 You obliterate a soul within your possession and return one creature who's name
-you speak aloud for the entire\ duration of\ casting this spell. The target 
+you speak aloud for the entire duration of\ casting this spell. The target 
 returns to life in perfect health and free of any curses in an area within 100
 feet of you.
 
