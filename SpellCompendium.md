@@ -129,7 +129,7 @@ Range: 120 feet\
 Components: S\
 Duration: instantaneous\
 Casting Time: 1 action\
-Description:\ 
+Description:\
 You cast a blast of energy at one creature within range. Make a ranged spell
 attack, on a hit the target takes 1d10 force damage.
 
@@ -191,7 +191,7 @@ Range: self\
 Components: S/M (a weapon made of metal) \
 Duration: Instantaneous\
 Casting Time: 1 action\
-Description:\ 
+Description:\
 You run your hand along the edge of the weapon, as a low flame emits at each
 point your hand passes. The next attack with this weapon deals fire damage equal
 to your\ casting modifier to one creature within 5 feet of the target of your 
