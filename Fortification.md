@@ -296,7 +296,7 @@ One week later, Timmy takes the "Basic mount training" downtime action again on 
 
 ## XP Training (Requires Level 1 Training Grounds)
 You train against dummies, and gain XP. If this XP would cause you to level up then quickly level up and play your character at your new level for this session. The XP you gain from this training depends on your level. Refer to the following chart:
-```
+
 |  Level  |  XP   |
 | ------- | ----- |
 |  1      |  100  |
@@ -308,7 +308,7 @@ You train against dummies, and gain XP. If this XP would cause you to level up t
 |  7      |  1200 |
 |  8      |  1500 |
 |  9      |  2000 |
-```
+
 You may not take this downtime action if you are level 10
 
 ## Physical Ability Score Training (Requires Level 2 Training Grounds)
@@ -329,27 +329,27 @@ You may apply (as in: work on until completion) this downtime only 3 times with 
 
 ## Learn a Language
 You spend a week studying one language of your choice. Roll Arcana or investigation (If the language is not exotic or ancient) and subtract the roll from your target total,  the type of Langauge decides your Target total. Refer to the following chart for your starting Target Total based on the type of language:
-```
+
 |  Type            |  TaT  |  Examples                        |
 | ---------------- | ----- | -------------------------------- |
 |  Regional        |   25  |  National Languages              |
 |  Exotic          |   40  |  Abyssal,Infernal, etc           |
 |  Secret          |   80  |  Druidic, Certain Tribals        |
 |  Ancient         |  100  |  Deep-speech, Varanus, Celestial |
-```
+
 You learn the language and may speak and understand it verbally and in writing upon completion of this downtime
 
 ## Learn a Spell (Requires Level 1 Library)
 You may only take this downtime if you are a sorcerer, wizard, or warlock
 You spend a week attempting to learn spells. Roll an arcana, investigation, or persuasion check (your choice) and refer to the following chart for the amount of spells you are able to learn over the course of the downtime:
-```
+
 |  Roll  |  A  |
 | ------ | --- |
 |  1-5   |  1  |
 |  6-20  |  2  |
 |  21-29 |  3  |
 |  30+   |  4  |
-```
+
 ## Mental Ability Score Training (Requires Level 2 Library)
 You spend a week studying the classics and sciences, practicing acting and drama, and honing your senses. This routine is designed to increase your mental limits. Choose one ability score from Wisdom, Intelligence, or Charisma and Roll 3d10*2. The result of your roll is your Target Total. Each time you take this downtime action including the first, roll an ability check with the ability score you wish to improve and subtract that from the total. Upon completion of this downtime you gain a +1 to the ability score you were training to a maximum score of 20.
 
@@ -361,7 +361,7 @@ Rumors are meant to intrigue players, an example of a rumor would be: "I heard t
 
 ## Craft Magic Items (Requires Level 1 Smithy)
 You spend a week and some gold working on crafting a magic item from the Tome Of Magical Creation. You may only craft common or uncommon magic items, unless you have a blueprint for another magical item of greater rarity. Roll an arcana and history check and subtract the totals from your target total. Refer to the following chart for the gold cost and target totals of each item rarity:
-```
+
 | Item Rarity | Gold Cost | Target Total |
 |-------------|-----------|--------------|
 | Common      | 100       | 2d4*4        |
@@ -371,6 +371,6 @@ You spend a week and some gold working on crafting a magic item from the Tome Of
 | Artifact[1] | N/A       | N/A          |
 
 [1] Artifacts cannot be crafted
-```
+
 
 If your rolls combined exceed the amount you would need to craft a single magic item in the downtime, you may craft multiple until the amount of excess is no longer enough to craft more magic items. Each time you begin crafting a new magic item, reroll the target total.
