@@ -45,7 +45,7 @@ keep track of the structures of each individual base they create.
 # Structures
 
 ## __Medical Ventures__
-If you're gonna be ~~ dumb ~~ an adventurer, you gotta be tough... unfortunately that doesn't stop you from dying of sepsis.
+If you're gonna be ~~dumb~~ an adventurer, you gotta be tough... unfortunately that doesn't stop you from dying of sepsis.
 
 ### Current Level: ?
 ### Gold invested: ?
