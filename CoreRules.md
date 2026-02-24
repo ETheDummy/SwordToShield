@@ -12,7 +12,7 @@
 # Introduction
 
 ## What is Sword to Shield?
-Well, someone didn't read the readme! Sword to shield is a TTRPG (Short for tabletop role playing game) which is a sort of role playing game that runs in a collective conscience rather than as a computer program on thinking rocks. This particular system is based on 2 sided, 4 sided, 6 sided, 8 sided, 10 sided, 12 sided, 20 sided, and 100 sided dice (Hereafter referred to as "1d2" or "a coin" "1d4" "1d6" "1d8" "1d10" "1d12" "1d20" and "1d100" respectively). 
+Well, someone didn't read the readme! Sword to shield is a TTRPG (Short for tabletop role playing game) which is a sort of role playing game that runs in a collective conscience rather than as a computer program on thinking rocks. This particular system is based on 2 sided, 4 sided, 6 sided, 8 sided, 10 sided, 12 sided, 20 sided, and 100 sided dice (Hereafter referred to as "1d2" or "a coin" "1d4" "1d6" "1d8" "1d10" "1d12" "1d20" and "1d100" respectively).
 
 ## System Intent
 This system is intended to be used for high difficulty and deadly adventures, Player Characters are intended to start weak and become strong through a hero's journey. At no point during a game in this system should a character feel like an unkillable demigod who can press a button and "win" every time.
@@ -226,6 +226,9 @@ You may wield a one handed light weapon in your off hand and make attacks with i
 
 ##### Unarmed Strikes
 When attacking without a weapon you deal an amount of damage equal to your damage die count for your size, plus your strength modifier. If you have an innate feature that augments your unarmed strike die size, "1d8 Natural Weapon" for example, you calculate the damage for your unarmed strikes by changing the damage die of your attacks from a d1 to the damage die specified (1d8 in this example). All creatures are proficient in unarmed strikes.
+
+##### Cover
+A creature behind solid cover that protects at least half of its body from weapon fire (such as a crenelated wall or a waist high boulder) gets 1/2 cover, and the creature gains +2 AC against ranged weapon attacks. A creature behind solid cover that protects at least three quarters of its body from weapon fire (such as an arrow slit, embrasure, or foxhole) gets 3/4 cover, and the creature gains +5 AC against ranged weapon attacks.
 
 ##### Called shots
 Sometimes in combat you may find it more advantageous to focus fire on a specific part of an enemy, but these kind of attacks may be harder to land! refer to the following chart for the effects and attack roll penalties.
@@ -644,7 +647,7 @@ Language of leviathans, beings older than the universe.
 While adventuring you may encounter many harmful environmental effects, the most notable and visceral of these effects is corruption. Corruptions arise from interactions with corruptants, and they cause potent and often detrimental effects on your body. A list of all corruption tables may be found in the [Accursed Journal.md](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md#corruptions) document
 
 ### Radiative Corruptants
-A radiative corruptant corrupts over an area of effect, with the corruption chance and corruptive effects getting more and more dire as you get closer. The following chart outlines distance from different strength radiative corruptants and how that might affect an adventurer as well as constitution save DCs for resisting the corruptive effect. Additionally, if you roll a natural 20 on the saving throw you will instead gain a corruption from a chart of one severity lower than your best possible outcome for the specific corruptant. 
+A radiative corruptant corrupts over an area of effect, with the corruption chance and corruptive effects getting more and more dire as you get closer. The following chart outlines distance from different strength radiative corruptants and how that might affect an adventurer as well as constitution save DCs for resisting the corruptive effect. Additionally, if you roll a natural 20 on the saving throw you will instead gain a corruption from a chart of one severity lower than your best possible outcome for the specific corruptant.
 
 #### Extreme Corruptant
 
