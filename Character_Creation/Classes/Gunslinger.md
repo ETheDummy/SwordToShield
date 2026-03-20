@@ -111,11 +111,10 @@ foot radius sphere centered on a point within 40 feet of the thrower. It may als
 You may pre-load a speed-loader with ammunition for a firearm, allowing you to quickly reload a weapon. You may use a full speed-loader to reload a weapon as a bonus action rather than an action, the speed-loader must be filled with an amount of bullets equal to the maximum capacity of the firearm it is reloading. After speed-loading a firearm, the speed-loader becomes empty and must be reloaded over the course of 1 minute before being used again.
 
 ### Cumbersome
-In order to reload a cumbersome weapon expend an action to make a DC 16 dexterity saving throw, on a success the weapon is reloaded. A cumbersome weapon may also not be modifier to hold more than 1 round.
+In order to reload a cumbersome weapon expend an action to make a DC 16 dexterity saving throw, on a success the weapon is reloaded. A cumbersome weapon also may not be modified to hold more than 1 round.
 
 ### Kick
-When you fire a weapon with the kick property, make a DC 16 strength saving throw, on a failure you are pushed 5 feet back from the direction you fired and
-fall prone.
+When you fire a weapon with the kick property, make a DC 16 strength saving throw, on a failure you are pushed 5 feet back from the direction you fired and fall prone.
 
 ### Dynamite Launcher
 The dynamite launcher fires a stick of dynamite, lighting it as it is fired, at a target within 240 feet. Regardless of if the attack hits the target or not the stick of dynamite fired at them lands at their feet, exploding at the start of the next creature's turn.
@@ -193,7 +192,7 @@ The below items may not be created unless you are level 6 or higher.
 
 ```
 High Power Rifle
-Range: 80/160
+Range: 160/320
 Magazine: 1
 Scrap Cost: 100
 Damage: 2d10 + Dex piercing
@@ -204,7 +203,7 @@ Misfire Score: 3
 
 ```
 Heavy Weapon
-Range 80/160
+Range 120/240
 Magazine: 10
 Scrap Cost: 100
 Damage: 1d10 + Dex piercing
@@ -244,8 +243,7 @@ Amount: 1
 ---
 
 # Modifications
-You may only apply a modification to a weapon once, unless the modification
-specifies otherwise.
+You may only apply a modification to a weapon once, unless the modification specifies otherwise.
 
 ### Ammo Capacity 
 - **Requires: 4 scrap per addition**
@@ -260,7 +258,7 @@ You shorten a gun with the two-handed property, allowing it to be wielded with j
 ### Scope
 - **Requires: 20 Scrap**
 
-You add a scope to a gun, doubling its effective and disadvantage range.
+You add a scope to a gun, doubling its maximum and effective range.
 
 ### Break Action
 - **Requires: 20 scrap**
