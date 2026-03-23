@@ -3884,23 +3884,17 @@ Components: V/S/M (the sands of time)\
 Duration: instantaneous\
 Casting Time: 10 minutes\
 Description:\
-You and up to five willing creatures in range are jolted backwards in time.
-You name a target time (ie "10 years ago", "year 400 of the dwarven empire").
-You and the creatures are removed from the current timeline, where it appears
-you have met a gruesome fate from the gem exploding. Roll on each time table to
-determine the magntiude and direction you miss your exact destination by. If you
-encounter an older version of yourself or an ancenstor and they are killed, you
-will continue to exist. You are now unbound by previous timelines.
+You and up to five willing creatures in range are jolted backwards in time. You name a target time (ie "10 years ago", "year 400 of the dwarven empire"). You and the creatures are removed from the current timeline. Roll on each time table to determine the magnitude and direction you miss your exact destination by. If you encounter an older version of yourself or an ancestor and they are killed, you will continue to exist. You are now unbound by previous timelines.
 
 
 | Roll |        Magnitude        |
 | ---- | ----------------------- |
-|    1 | second                  |
-|    2 | year                    |
-|    3 | decade(10 years)        |
-|    4 | century(100 years)      |
-|    5 | millennium(1,000 years) |
-|    6 | Epoch(1,000,000)        |
+|    1 | Second                  |
+|    2 | Minute                  |
+|    3 | Hour                    |
+|    4 | Month                   |
+|    5 | Year                    |
+|    6 | Decade (10 years)       |
 | ---- | ----------------------- |
 
 
@@ -3919,23 +3913,17 @@ Components: V/S/M (The soul of a God)\
 Duration: instantaneous\
 Casting Time: 10 minutes \
 Description:\
-You conjure a Leviathan, a remnant of a long dead reality, locked in the depths
-of the abyss by The Gods. The leviathan appears through a portal large enough to
-transport it at a point within 1 mile of the sky above you. The leviathan reacts
-accordingly to being allowed free roam of the prime material plane, and may be
-pleased with your help, usually making your death a fast one as thanks. Roll
-1d8 to determine the Leviathan you summon. If the god's soul used in casting
-this spell is the soul of An'Ire the spell automatically summons The Nothing.
+You conjure a Leviathan, a remnant of a long dead reality, locked in the depths of the abyss by An'ire. The leviathan appears through a portal large enough to transport it at a point within 1 mile of the sky above you. The leviathan reacts accordingly to being allowed free roam of the prime material plane, and may be pleased with your help, usually making your death a fast one as thanks. Roll 1d8 to determine the Leviathan you summon. If the god's soul used in casting this spell is the soul of An'Ire the spell automatically summons The Nothing.
 
-| Roll | Result            |  
-| ---- | ----------------- |  
-| 1-2  |  The Nothing      |  
-|   3  |  The Hungry       |  
-|   4  |  The Hive         |    
+| Roll | Result            |
+| ---- | ----------------- |
+| 1-2  |  The Nothing      |
+|   3  |  The Hungry       |
+|   4  |  The Hive         |
 |   5  |  The Hanged Man   |
-|   6  |  The Ambassador   |   
+|   6  |  The Ambassador   |
 |   7  |  The Nameless One |
-|   8  |  The Emperor      |  
+|   8  |  The Emperor      |
 | ---- | ----------------- |
 
 ---

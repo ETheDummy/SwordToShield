@@ -333,30 +333,25 @@ Certain maneuvers may refer to saving throws, the DC for these saving throws are
 When you attack with a gun and hit you may attack a second time.
 
 ### Surging Action
-You surge with energy, taking two actions on your turn instead of one. After
-taking your additional action expend a hit die. You may only use this maneuver once per turn.
+You surge with energy, taking two actions on your turn instead of one. After taking your additional action expend a hit die. You may only use this maneuver once per turn.
 
 ### Steady Aim
 You steady yourself as a bonus action and take aim. Your movement speed is reduced to 0 and your next attack gains advantage. You may only use this maneuver if you have not moved yet on your turn.
 
 ### Second Wind
-As a bonus action adrenaline rushes through your body, granting you energy in
-the face of peril. Expend and roll a hit die. You regain a number of hitpoints equal to your roll plus your constitution modifier.
+As a bonus action adrenaline rushes through your body, granting you energy in the face of peril. Expend and roll a hit die. You regain a number of hitpoints  equal to your roll plus your constitution modifier.
 
 ### Long-shot
-When making a ranged attack outside the effective range of a ranged weapon you
-may expend and roll a hit die and add the result to your attack roll. You do not have disadvantage on this attack roll.
+When making a ranged attack outside the effective range of a ranged weapon you may expend and roll a hit die and add the result to your attack roll. You do not have disadvantage on this attack roll.
 
 ### Deadly Dance
 As a reaction to an enemy within your effective range making a saving throw you may expend a hit die and fire at their feet, forcing them to make that saving throw at disadvantage.
 
 ### Execution
-When you are within 5 feet of a creature which has submitted to you or is unaware of your presence you may fire on them execution style. This attack does
-not have disadvantage from being within 5 feet of the target and deals an additional 8d8 damage on a hit.
+When you are within 5 feet of a creature which has submitted to you or is unaware of your presence you may fire on them execution style. This attack does not have disadvantage from being within 5 feet of the target and deals an additional 8d8 damage on a hit.
 
 ### Quickdraw
-When you roll initiative you may expend a hit die to add your proficiency bonus
-to the roll.
+When you roll initiative you may expend a hit die to add your proficiency bonus to your initiative roll and make one attack.
 
 ### Fan the Hammer
 As an action on your turn, you may expend up to 3 hit die, making two ranged attacks for each die expended. These attacks have disadvantage.
@@ -365,11 +360,13 @@ As an action on your turn, you may expend up to 3 hit die, making two ranged att
 When you make a ranged attack and hit a target that is holding a weapon you may expend two hit dice and strike the target in the hand supporting the weapon forcing them to make a strength saving throw or drop the weapon.
 
 ### Akimbo
-You may wield any one handed firearm in your offhand and make an attack with it
-as a bonus action.
+You may wield any one handed firearm in your offhand and when you make an attack with this weapon you may add your modifier to the damage as normal.
 
 ### Dodge
 As a reaction to taking damage you may dodge, taking half of the damage you would've taken.
+
+### Return Fire
+As a reaction to a creature making a ranged attack against you, you may make a ranged attack against them.
 
 ### Expert Duelist
 You have a +2 to attack rolls made with one handed weapons when one of your hands is free.

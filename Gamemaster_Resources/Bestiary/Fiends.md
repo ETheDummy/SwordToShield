@@ -131,7 +131,7 @@ following:
 ```
 
 ### Rava
-Named for the Aninandrius word for "Hunger" Ravas are a type of demon who stalk humanoids and feed on their life energy. A Rava will stalk its target for weeks at a time before pouncing once the target is too weak to fight back. Those being stalked by a Rava often feel a constant sense of unease and being followed. During quiet times, a Rava's prey can hear the constant chattering of their hungry and eager jaws. When manifested fully to attack, Ravas appear as tall spindly humanoid creatures with long thing teeth covering their entire face in a permanent grimace.
+Named for the Aninandrius word for "Hunger" Ravas are a type of demon who stalk humanoids and feed on their life energy. A Rava will stalk its target for weeks at a time before pouncing once the target is too weak to fight back. Those being stalked by a Rava often feel a constant sense of unease and being followed. During quiet times, a Rava's prey can hear the constant chattering of their hungry and eager jaws. When manifested fully to attack, Ravas appear as tall spindly humanoid creatures with long thin teeth covering their entire face in a permanent grimace.
 
 ```
 Rava

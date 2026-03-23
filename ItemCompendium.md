@@ -38,17 +38,32 @@ Adventuring necessitates equipment.
 ## Apothecary and Alchemy
 
 ```
-|  Item                       |  Cost    | Weight |
-| --------------------------- | -------- | ------ |
-| Acid (vial)                 | 25  gp   | 1 lb.  |
-| Antitoxin (vial)            | 50  gp   | —      |
-| Perfume (vial)              | 5   gp   | —      |
-| Poison, basic (vial)        | 100 gp   | 1 lb.  |
-| Potion of Healing           | 50  gp   | 1/2 lb.|
-| Tincture of Laudanum        | 5   gp   | 1/4 lb.|
-| Tincture of goldroot        | 20  gp   | 1/4 lb.|
-| Tincture of elderflower     | 15  gp   | 1/4 lb.|
-| --------------------------- | -------- | ------ |
+|  Item                       |  Cost     | Weight |
+| --------------------------- | --------- | ------ |
+| Acid (vial)                 | 25   gp   | 1 lb.  |
+| Antitoxin (vial)            | 50   gp   | —      |
+| Perfume (vial)              | 5    gp   | —      |
+| Poison, basic (vial)        | 100  gp   | 1 lb.  |
+| Potion of Healing           | 50   gp   | 1/2 lb.|
+| Potion of Greater Healing   | 100  gp   | 1/2 lb.|
+| Potion of Supreme Healing   | 250  gp   | 1/2 lb.|
+| Potion of Restoration       | 750  gp   | 1/2 lb.|
+| Potion of Regeneration      | 500  gp   | 1/2 lb.|
+| Potion of Fearlessness      | 75   gp   | 1/2 lb.|
+| Potion of Quick-footed-ness | 150  gp   | 1/2 lb.|
+| Potion of Strength          | 250  gp   | 1/2 lb.|
+| Potion of Greater Strength  | 750  gp   | 1/2 lb.|
+| Potion of Supreme Strength  | 1500 gp   | 1/2 lb.|
+| Potion of Stoneskin         | 150  gp   | 1/2 lb.|
+| Potion of Steelskin         | 500  gp   | 1/2 lb.|
+| Potion of Rest              | 150  gp   | 1/2 lb.|
+| Potion of Growing           | 150  gp   | 1/2 lb.|
+| Potion of Shrinking         | 150  gp   | 1/2 lb.|
+| Potion of Invisibility      | 50   gp   | 1/2 lb.|
+| Tincture of Laudanum        | 5    gp   | 1/4 lb.|
+| Tincture of goldroot        | 20   gp   | 1/4 lb.|
+| Tincture of elderflower     | 15   gp   | 1/4 lb.|
+| --------------------------- | --------- | ------ |
 ```
 
 ## Magic Components
@@ -235,13 +250,55 @@ enters a fire makes a DC 14 DEX save to avoid 1d6 fire damage.
 This flask of holy water may be thrown at one creature, shattering on a hit and causing the contents to shower onto the creature. A Monstrosity, Demon, or Devil, Undead creature in contact with holy water takes 3d6 radiant damage at the start of their turn and cannot regain health until the holy water dries. A single flask of holy water dries at the start of your next turn after throwing it. 
 
 ### Potion of Healing
-A flask of red liquid which heals 2d4+2 hit points when consumed. May be 
-consumed as a bonus action.
+A flask of red liquid which heals the user for 2d4+2 hit points when consumed. May be consumed as a bonus action.
+
+### Potion of Greater Healing
+A flask of green liquid which heals the user for 3d8+4 hit points when consumed. May be consumed as a bonus action.
+
+### Potion of Supreme Healing
+A flask of crimson red liquid which heals 4d12+8 hit points when consumed. May be consumed as a bonus action.
+
+### Potion of Restoration
+A flask of crimson red liquid with small golden flecks swirling around it, which heals the user to full hit points when consumed. May be consumed as a bonus action.
+
+### Potion of Regeneration
+A flask of pink liquid which heals the user for 2d4+2 hit points when consumes and at the start of each the users turn for 10 minutes after. Additionally if the user is missing any part of their body it regrows after 5 minutes of uninterrupted healing. May be consumed as a bonus action.
+
+### Potion of Fearlessness
+A flask of golden liquid which grants the user immunity to the frightened condition for 1 hour when consumed. May be consumed as a bonus action.
+
+### Potion of Quick-footed-ness
+A flask of purple liquid which doubles the movement speed of the user when consumed. May be consumed as a bonus action.
+
+### Potion of Strength
+A flask of orange liquid which increases the user's strength score by +2 for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Greater Strength
+A flask of orange liquid, filled with floating red strings, which increases the user's strength score by +4 for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Supreme Strength
+A flask of orange liquid, filled with floating red strings that emit a glowing pulse occasionally, which increases the user's strength score by +6 for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Stoneskin
+A flask of grey liquid, that makes a clattering noise when shaken, which increases the ac of the user by +2 for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Stoneskin
+A flask of grey liquid, that swirls with a silver glitter when shaken, which increases the ac of the user by +4 for 1 minute when consumed. May be consumed as a bonus action.
+
+### Potion of Rest
+A flask of glowing white liquid, that tastes faintly of the users favorite meal, which restores 10 of the user's hit dice when consumed and causes to user to feel well rested. May be consumed as a bonus action.
+
+### Potion of Growing
+A flask of amber liquid, that tastes of vinegar, which increases the size of the user by one size for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Shrinking
+A flask of amber liquid, that tastes of honey, which decreases the size of the user by one size for 10 minutes when consumed. May be consumed as a bonus action.
+
+### Potion of Invisibility
+An apparently empty flask, that is full of an entirely transparent liquid, which when consumed turns the user invisible for 10 minutes or until they make an attack or cast a spell . May be consumed as a bonus action.
 
 ### Basic Poison Vial
-A vial of murky brownish green liqid which smells of sulphur, when consumed a
-creature takes 3d8 poison damage, more than enough to kill most people. May be 
-consumed as a bonus action.
+A vial of murky brownish green liqid which smells of sulphur, when consumed a creature takes 3d8 poison damage, more than enough to kill most people. May be consumed as a bonus action.
 
 ### Antidote
 A vial of a milky white liquid which shimmers when shaken. When consumed a 
