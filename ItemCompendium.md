@@ -45,10 +45,10 @@ Adventuring necessitates equipment.
 | Perfume (vial)              | 5    gp   | —      |
 | Poison, basic (vial)        | 100  gp   | 1 lb.  |
 | Potion of Healing           | 50   gp   | 1/2 lb.|
-| Potion of Greater Healing   | 100  gp   | 1/2 lb.|
-| Potion of Supreme Healing   | 250  gp   | 1/2 lb.|
-| Potion of Restoration       | 750  gp   | 1/2 lb.|
-| Potion of Regeneration      | 500  gp   | 1/2 lb.|
+| Potion of Greater Healing   | 200  gp   | 1/2 lb.|
+| Potion of Supreme Healing   | 500  gp   | 1/2 lb.|
+| Potion of Restoration       | 1250 gp   | 1/2 lb.|
+| Potion of Regeneration      | 1000 gp   | 1/2 lb.|
 | Potion of Fearlessness      | 75   gp   | 1/2 lb.|
 | Potion of Quick-footed-ness | 150  gp   | 1/2 lb.|
 | Potion of Strength          | 250  gp   | 1/2 lb.|
@@ -97,6 +97,7 @@ Adventuring necessitates equipment.
 | Abacus                      | 2   gp   | 2 lb.  |
 | Backpack                    | 2   gp   | 5 lb.  |
 | Ball bearings (bag of 1,000)| 1   gp   | 2 lb.  |
+| Bandage                     | 2   cp   | 1/4 lb.|
 | Basket                      | 4   sp   | 2 lb.  |
 | Bedroll                     | 1   gp   | 7 lb.  |
 | Bell                        | 1   gp   | —      |
@@ -140,7 +141,6 @@ Adventuring necessitates equipment.
 | Kit, forgery                | 15  gp   | 5 lb.  |
 | Kit, herbalism              | 5   gp   | 3 lb.  |
 | Kit, medical                | 5   gp   | 3 lb.  |
-| Bandage                     | 2   cp   | 1/4 lb.|
 | Kit, mess                   | 2   sp   | 1 lb.  |
 | Kit, painter's              | 10  gp   | 2 lb.  |
 | Kit, poisoner’s             | 50  gp   | 2 lb.  |
@@ -224,6 +224,9 @@ which spoil 7 days after purchase. Iron rations are made of ingredients such as
 travel bread, fruit preserves, fruit leather, jerky, potted meat, noodles, and 
 pemican. Iron rations are generally shelf stable for multiple months at a time.
 
+### Hunting Trap
+This metal hunting trap is spring loaded and can be set as an action with a DC 16 strength check. A creature that enters the space of the hunting trap must make a DC 14 dexterity saving throw or be caught in the trap, taking 3d4 piercing damage and being grappled. A caught creature is restrained until it passes a DC 18 strength saving throw.
+
 ### Medical Kit
 A kit filled with gauze, scissors, bandages, salves, and other medicinal gear. 
 Has 10 charges. When you use this kit on yourself or another creature, make a 
@@ -239,6 +242,60 @@ medicine check to determine the outcome.
 | 21 or higher | Heal 1d8 hit points.       |
 | ------------ | -------------------------- |
 ```
+### Climber's Kit
+A kit filled with various ropes, climbing picks, wedges and pulleys. The climber's kit has 5 charges. You may use a charge and 10 minutes to climb a vertical distance of 250 feet.
+
+### Disguise Kit
+A kit filled with makeup and multiple changes of clothes which allow the user to quickly disguise themselves. Using 10 minutes and making a charisma check (adding your proficiency if you're proficient in this kit) you quickly form a disguise, onlookers can only discern that this is not your true identity by passing an intelligence (investigation) check against your roll on initial use of this kit.
+
+### Forgery Kit
+A kit filled with seals and pens, pots of ink and impression paper, this kit has 5 charges. Using a charge from this kit you may create a convincing forgery of official documents or a signature, roll an intelligence check (adding your proficiency if you're proficient in this kit) add an additional +5 modifier if you have an original document or signature you're copying from. Your forgery holds up to scrutiny unless a creature reviewing it passes an intelligence (investigation) check against your roll on initial use of this kit.
+
+### Herbalism Kit
+A kit filled with distillation tools, various herbs, roots, and spices and bottling equipment for use in herbal remedies. This kit has 10 charges, over a rest you may use one charge from this kit to produce one of the following products, roll nature to determine the outcome.
+```
+|  Roll        |  Outcome                   |
+| ------------ | -------------------------- |
+| 1 or less    | 1d4 poison bottle.         |
+| 2-5          | Innert Tea.                |
+| 6-10         | 1d4 healing brew.          |
+| 11-15        | 1d6 healing brew.          |
+| 16-20        | 1d8 healing brew.          |
+| 21 or higher | 1d10 healing brew.         |
+| ------------ | -------------------------- |
+``` 
+
+### Mess Kit
+A kit filled with pots, pans, and multiple sets of cooking and eating utensils. Good for cooking food to fill your stomach for the night and not much more than that.
+
+### Poisoner's Kit
+A kit filled with distillation tools, various herbs, roots, and spices and bottling equipment for use in herbal poisons. This kit has 5 charges, over a rest you may use one charge from this kit to produce one of the following products, roll nature to determine the outcome.
+```
+|  Roll        |  Outcome                   |
+| ------------ | -------------------------- |
+| 1 or less    | 1d4 healing bottle.        |
+| 2-5          | Innert Tea.                |
+| 6-10         | 2d4 poison brew.           |
+| 11-15        | 2d6 poison brew.           |
+| 16-20        | 2d8 poison brew.           |
+| 21 or higher | 2d10 poison brew.          |
+| ------------ | -------------------------- |
+``` 
+
+### Tinker's Tools
+Intelligence based tools set for creating basic tools and altering equipment.
+
+### Smith's Tools
+Strength based tools set for smithing advanced tools and altering equipment.
+
+### Lockpicking Tools
+Dexterity based tools set for cracking locks.
+
+### Carpentry Tools
+Strength based tools set for creating basic wooden items and breaking wooden barricades.
+
+### Cooking Utensils
+Intelligence or Wisdom based utensils set for cooking advanced meals.
 
 ### Flask of oil
 A flask of oil can be thrown to create a 5ft puddle or soak an enemy. If lit, 
@@ -282,7 +339,7 @@ A flask of orange liquid, filled with floating red strings that emit a glowing p
 ### Potion of Stoneskin
 A flask of grey liquid, that makes a clattering noise when shaken, which increases the ac of the user by +2 for 10 minutes when consumed. May be consumed as a bonus action.
 
-### Potion of Stoneskin
+### Potion of Steelskin
 A flask of grey liquid, that swirls with a silver glitter when shaken, which increases the ac of the user by +4 for 1 minute when consumed. May be consumed as a bonus action.
 
 ### Potion of Rest
