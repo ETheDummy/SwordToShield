@@ -524,6 +524,13 @@ Description:
 As a bonus action you may expend a hit die and become invisible or intangible or both for two hit dice. This lasts until you use a bonus action to return to your normal state, attempt to pass through a material you cannot, make an attack, or cast a spell.
 ```
 [Invisible](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#invisible) and [Intangible](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#intangible) as defined by the core rules
+43
+```
+Name: Walking Speed
+Cost: 1 point per 5 feet
+Description:
+You gain 5 feet of burrowing speed for each point you invest into this feature.
+```
 
 # Optional: Innate Limitations
 Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.
@@ -607,7 +614,7 @@ One or more of your limbs has been removed. With only one arm you may only wield
 ```
 12
 ```
-Name: Poor temper
+Name: Protective
 Points Returned: 4 points
 Description:
 Whenever you or someone you love takes damage equal to 25% of your or their hitpoints roll will against the damage sustained divided by two. On a failure you enter a rage state where you are only capable of using your movement moving towards and attacking the creature who damaged you or your loved one. This rage state ends whenever the creature dies or retreats, or when you drop to 0 hitpoints.
@@ -704,6 +711,13 @@ Name: Urges
 Points Returned: 10 for daily, 8 for weekly, 6 for monthly
 Description:
 Your mind is racked with urges to consume, to maim, to kill, or some other deplorable disgusting act. If your urges are not sated at least once a month, week, or day (your choice, affects point return) then you may only regain half as many hit dice as usual, and none from consuming food (or your food equivalent for your creature type), although you will still require food to survive if you need it. 
+```
+25
+```
+Name: Poor Temper
+Points Returned: 6 points
+Description:
+You have a bad temper about you. Whenever someone makes a slight against you (Real or simply perceived) roll a wisdom saving throw against a DC 16. On a failure you become enraged, you must take an action against the person who slighted you one level of escalation greater than their action, calm dialogue becomes yelling, yelling becomes threats, threats becomes physical violence, physical violence becomes deadly force. You may make another wisdom check against this enraged state at the end of each of your turns or every minute, ending it on a success. 
 ```
 
 ## Racial Presets

@@ -14,6 +14,11 @@ Boons are special features granted to players by GMs, Boons are often given as r
 ### Boon of Truesight
 You are capable of seeing the world for all it truly is. As a free action you may cast detect magic, illusions have no effect on you, and invisible creatures are visible to you. Darkness has no effect on your ability to see, magical or otherwise.
 
+### Boon of Sure Strike
+Once per turn you may make one missed attack hit regardless of your roll.
+
+
+
 ### Boon of Strength
 Your strength score increases by 4
 
@@ -58,3 +63,9 @@ Your hitpoint maximum increases by 15 points and you gain immunity to fear.
 
 ### Boon of The Blessed
 You are blessed by a divine being, usually a god or an angel. You automatically regain maximum hitpoints from healing spells and effects such as rolling hit dice while resting. Effects such as the beacon of hope spell double the healing you receive. Each time you complete a rest you may expend and roll a hit die, increasing your maximum hit points by the amount rolled until the end of your next rest.
+
+### Coinneach Touched
+You have been for better or worse influenced by the elder god Coinneach, whether this is a blessing or a curse is for you to decide. As an action you may expend up to 6 hit dice to make a spell or melee attack against one target within touch range. On a hit the target takes 2d6 necrotic damage for each hit die expended by you. On a miss you regain half of the hit dice you spent.
+
+### Maldrin Touched
+You have been touched by the dead god Maldrin, his influence extending beyond the veil of godly death. Whenever you see a creature use a feature you do not have you may copy that feature, gaining all the benefits until you choose to lose the feature, you may only have 2 features "copied" in this way. Additionally You gain 1 good corruptions and may not be corrupted unless you choose to be corrupted.

@@ -22,6 +22,20 @@ The following list shows the order in which all the contents of this lore book a
 ## Gods and Goddesses
 Across the realms there are many gods. These gods preside over the domains that were created as they were created. The gods are listed in order of creation, with their status next to their name.
 
+## Pantheons of Gods
+There are multiple pantheons of gods that are at odds with each other.
+
+```
++-----------+------------------------------------------------------------------------------------------+
+| Pantheon  |                                      Gods included                                       |
++-----------+------------------------------------------------------------------------------------------+
+| An'ire    | An'ire, Astraía, Eos, Wildrea, Helios, Luno, Themius, Valyria, The Fates, Sinira, Mortis |
+| Coinneach | Coinneach, Fates, Mortis                                                                 |
+| Maldrin   | Maldrin, Skotos, Zelgeth, Carriosynthus, Serstraime, Yaldabaoth, Admodeus, Bishu         |
++-----------+------------------------------------------------------------------------------------------+
+```
+
+
 ### An'Ire
 Greater Deity\
 Feminine Presence\
