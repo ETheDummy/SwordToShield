@@ -145,7 +145,7 @@ Reach: 5 feet
 Speed: 20 Feet
 Height: Between 1 inch tall and 2 feet tall.
 Melee Damage: 1
-ASC: +4 to two separate stats, -4 to another. (+4 +4 -4)
+ASC: +4 to one stat, -4 to another. (+4 -4)
 Carry Weight (LBS): Strength Score * 2
 ```
 
@@ -213,7 +213,7 @@ Reach: 15 feet
 Speed: 40 feet
 Height: Between 15 feet and 25 feet tall.
 Melee Damage: 3d1 + Strength Modifier
-ASC: +4 to two stats, -4 to another (+4 +4 -4)
+ASC: +4 to one stats, -4 to another (+4 -4)
 Carry Weight: Strength Score * 63
 ```
 
