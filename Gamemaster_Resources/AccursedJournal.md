@@ -484,7 +484,7 @@ Whenever you take magical damage from a spell you regain a number of mana, glyph
 Your hitpoints increase by 1d10 + your constitution modifier
 
 #### Incorporeality (11)
-As an action on your turn you may expend 1d4 (rolled before expending) hit dice and become Intangibile as defined in the core rules. You may become corporeal again as an action.  
+As an action on your turn you may expend 1d4 (rolled before expending) hit dice and become [Intangible](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#intangible) as defined in the core rules. You may become corporeal again as an action.  
 
 #### Absorption (12)
 If you are immune to a damage type you regain hitpoints equal to the damage you would take if you were not immune when you are targeted by an effect that deals that damage type. If you are not already immune to a damage type you gain the effects of "Elemental Immunity" but not the effects of this corruption.
