@@ -419,6 +419,7 @@ A creature is considered surprised when an action is taken in relation to them b
 
 ### Intangible
 - An intangible creature is impossible to touch or damage with nonmagical damage
+- An intangible creature may move through walls as if they were not there, imposing no movement penalties, this effect allows them to move unaffected through up to 4 inches of steel, 2 inches of lead, or 2 feet of wood. Other materials are up to the discretion of the game master.
 
 ### Paralyzed
 - A paralyzed creature is incapacitated and can't move or speak.
