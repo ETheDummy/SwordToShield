@@ -424,8 +424,9 @@ A creature is considered surprised when an action is taken in relation to them b
 - Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 ### Intangible
-- An intangible creature is impossible to touch or damage with nonmagical damage
-- An intangible creature may move through walls as if they were not there, imposing no movement penalties, this effect allows them to move unaffected through up to 4 inches of steel, 2 inches of lead, or 2 feet of wood. Other materials are up to the discretion of the game master.
+- An intangible creature is immune to all damage types except force and radiant.
+- An intangible creature does not need to breathe.
+- An intangible creature may move through walls as if they were not there, imposing no movement penalties, this effect allows them to move unaffected through up to 4 inches of steel, 2 inches of lead, or 2 feet of wood. Other materials are up to the discretion of the game master. If an intangible creature ends its turn in the area of an object, it takes 20 force damage and is expelled to the nearest empty location.
 
 ### Paralyzed
 - A paralyzed creature is incapacitated and can't move or speak.
