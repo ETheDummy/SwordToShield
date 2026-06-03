@@ -537,6 +537,7 @@ Description:
 As a bonus action you may expend a hit die and become invisible or intangible or both for two hit dice. This lasts until you use a bonus action to return to your normal state, attempt to pass through a material you cannot, make an attack, or cast a spell.
 ```
 [Invisible](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#invisible) and [Intangible](https://github.com/ETheDummy/SwordToShield/blob/main/CoreRules.md#intangible) as defined by the core rules
+
 43
 ```
 Name: Walking Speed
