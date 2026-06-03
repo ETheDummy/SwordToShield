@@ -1,4 +1,4 @@
-```
+ ```
 ################################################################################
 #    ___                                   _                                   #
 #   / _ \                                 | |                                  #
@@ -475,7 +475,7 @@ You grow slender and light. You gain a +6 to your dexterity score
 Your skin shimmers with different colors and hues like that of a chameleon. As an action you may control the colors of your skin, allowing you to turn invisible unless a creature succeeds a DC 20 investigation or perception check to spot you. You become visible again one turn after you move or take another action.
 
 #### Displacement (8)
-As a bonus action you may form a double of yourself which runs from your current position and to another position within your movement speed. This double is incorporeal and has the same AC as you but only 1 hitpoint. When this double is reduced to 0 or fewer hitpoints it disappears. 
+As a bonus action you may form a double of yourself which runs from your current position and to another position within your movement speed. This double is intangible and has the same AC as you but only 1 hitpoint. When this double is reduced to 0 or fewer hitpoints it disappears. 
 
 #### Magical Absorption (9)
 Whenever you take magical damage from a spell you regain a number of mana, glyphs, grace, or other similar casting stat equivalent to half the level of the spell which damaged you (rounded up). If you do not cast spell you instead gain advantage on your next attack after taking magical damage from a spell
@@ -484,7 +484,7 @@ Whenever you take magical damage from a spell you regain a number of mana, glyph
 Your hitpoints increase by 1d10 + your constitution modifier
 
 #### Incorporeality (11)
-As an action on your turn you may expend 1d4 (rolled before expending) hit dice and become incorporeal. While Incorporeal you are immune to all damage types except force and radiant, can pass through any barrier of nonmagical material, and you do not need to breathe. If you end your turn in the area of an object you take 20 force damage and are expelled to the nearest empty location. You may become corporeal again as an action.  
+As an action on your turn you may expend 1d4 (rolled before expending) hit dice and become Intangibile as defined in the core rules. You may become corporeal again as an action.  
 
 #### Absorption (12)
 If you are immune to a damage type you regain hitpoints equal to the damage you would take if you were not immune when you are targeted by an effect that deals that damage type. If you are not already immune to a damage type you gain the effects of "Elemental Immunity" but not the effects of this corruption.
