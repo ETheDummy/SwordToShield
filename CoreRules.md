@@ -204,6 +204,12 @@ on your turn you are capable of taking many different actions, some of the most 
 - Ready: You prepare an action with a specific trigger, using your reaction to act when the conditions are met.
 - Aid: You may attempt to medically aid one creature within 5 feet of you, roll a medicine check, on a 16 or higher their health becomes 0 and they are stabilized
 
+### Bonus actions on your turn
+on your turn there are certain things you may do as a bonus action.
+- Consume A Single Use Item: You may consume most single use items such as potions and tinctures as a bonus action, some items may differ but this is usually true
+- Offhand attack: When you have two or more limbs and are wielding weapons in each you may make a number of attacks up to half the number of limbs holding weapons as a bonus action. These attacks do not have your attack modifier added to damage dealt
+- Special Action: Most classes, and some features, grant you a skill usable as a bonus action
+
 ### Free actions on your turn
 on your turn there are certain things you may do without expending anything! You may not repeat a free action until your next turn.
 
