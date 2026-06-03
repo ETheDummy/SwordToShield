@@ -348,7 +348,7 @@ You are capable of turning fellow undead creatures against their creators. As an
 You expend a hit die and change the casting time of a spell that takes 1 action to cast to 1 bonus action
 
 ### Dual Spell
-You attempt to double the casting of a spell that targets a single creature. Expend a hit die and a number of mana points equal to the level of the spell cast  (1 for cantrips). You cast the spell twice instead of once. You may only use Dual spell once in a turn.
+You attempt to double the casting of a spell that targets a single creature. Expend a hit die and gain an amount of dark magic equal to the level of the spell cast  (1 for cantrips). You cast the spell twice instead of once. You may only use Dual spell once in a turn.
 
 ### Subtle Casting
 You expend a hit die and cast a spell without any vocal or somatic components. 
