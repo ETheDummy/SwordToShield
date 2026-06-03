@@ -42,6 +42,8 @@ You are a Fae creature, or descendant from one. A being of rules and innate law,
 - You must leave half the wealth you accrue in the forest as a tax
 - You may not harm someone who you owe a debt to
 
+  Your fae nature lends itself to the development of some innate features. You may purchase the Magic Resistance and Innate Casting features at half price, rounding up.
+
 
 ## Constructed
 You are an automaton a or some other kind of abiotic life, which requires upkeep in different ways compared to biotic life. You do not need to breath or eat, or sleep, cannot be put to sleep by magical means, cannot have your mind read and are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Rather than being the same as those listed in the core rules, your amenities are as follows:
@@ -57,6 +59,7 @@ You are an automaton a or some other kind of abiotic life, which requires upkeep
 - Mechanic to operate on You
 - Access to a mechanic's workstation
 
+Your construct nature lends itself to the development of some innate features. You may purchase the Natural Armor feature at half price, rounding up.
 
 ## Undead
 You are an undead creature. Created by magic, science, or otherwise, you require different things to survive compared to your living counterparts. You do not need to breathe or eat standard foods, or sleep, cannot be put to sleep by magical means and you are unaffected by extreme temperature weather conditions. You are also immune to poison damage and the poisoned effect as well as disease. Your amenities are as follows:
@@ -72,6 +75,8 @@ You are an undead creature. Created by magic, science, or otherwise, you require
 - A necromancer
 - Access to a necromancer's workstation
 
+  Your undead nature lends itself to the development of some innate features. You may purchase the Toughness feature at half price, rounding up.
+
 ## Aberrant
 You are an aberration or some other alien being, giving you certain benefits but causing your body to require different things for sustenance compared to your mundane peers. You do not need to breath and Your weird mind grants you resistance to psychic damage, and advantage on checks against losing sanity. Your amenities are as follows:
 
@@ -85,6 +90,8 @@ You are an aberration or some other alien being, giving you certain benefits but
 - 1 liter of bodily Humors
 - Medical aid
 - High quality medical aid
+
+  Your strange nature lends itself to the development of some innate features. You may purchase the Shape-shifting and Duplipedal features at half price, rounding up.
 
 ## Monstrous
 You are a monstrosity. You have advantage against corruption saving throws and gain one good corruption. When you have to roll on the corruption table you may roll twice and choose the one you like more. Your amenities are as follows:
@@ -114,6 +121,8 @@ You are a plant, your lifeblood is the sun and soil. You have immunity to radian
 - 4 hours of sunlight
 - 8 hours of sunlight
 
+  Your floral nature lends itself to the development of some innate features. You may purchase the Additional Arms, Spikes, and Burrowing Speed features at half price, rounding up.
+
 ### Fungus
 You are a fungus, your lifeblood is rot and carrion. You have immunity to poison damage, but are vulnerable to fire damage. When forced to make death saving throws you do not have to expend hit dice to do so unless you were damaged by fire within the past minute. You do not need to eat or sleep, and cannot be put to sleep by magical means, but during a rest you must enter a trance where you dig your mycelium into at least 1 cubic foot of enriched soil or rotten wood. If you do not consume nutrients through your mycelium at least once every week you begin to decay, which is your equivalent of starving. Your amenities are as follows:
 
@@ -128,11 +137,15 @@ You are a fungus, your lifeblood is rot and carrion. You have immunity to poison
 - 4 hours resting in a wet, warm environment
 - 8 hours resting in a wet, warm environment
 
+  Your fungal nature lends itself to the development of some innate features. You may purchase the Additional Arms, Draining Attack, and Blindsight features at half price, rounding up.
+
 ### VARIANT BODY TYPE: Fiend (DO NOT USE THIS UNLESS YOUR GM APPROVES OF IT)
 You are a demon, devil, or other creature of the void or hells. You are immune to or resist damage types from poison, acid, necrotic, fire, psychic, or cold damage (choose two to be immune to, and resist other two) and are immune to being charmed or put to sleep by magical means. Decide a true name and any number of fake names you will go by, If a creature ever cites your true name to you then you lose all resistances and immunities you have to damage dealt to you by the speaker of your true name, your movement speed is reduced to 0 unless ordered to move, and you must obey any commands they give you that start and end with your true name. A creature may obtain your true name a variety of ways. You have no amenities and regain up to 6 hit dice every time you rest. 
 
 ### VARIANT BODY RULE: Infection
 You are a sentient infection that may spread from person to person, perhaps a demon possessing a humanoid? or a Fungal Brain parasite infecting a monstrosity? Choose one creature type, this is your primary creature type and you will forever retain it, all its amenities, benefits, and detriments. Choose another creature type, this is your secondary creature type, representing the body you temporarily inhabit. You gain all of your secondary creature type amenities, benefits, and detriments, but if this body perishes, you return to your primary creature type and may find and take the body of a different creature. You do cannot regain hit dice by any means without a host body, and die if you are reduced to 0 hit dice or 0 hitpoints in the form of your primary creature type. Each day you spend without a host body you lose 1 hit die. 
+
+Infections must purchase all innate features for their full price; body type based feature discounts do not apply. 
 
 
 # Body Size
@@ -246,7 +259,7 @@ You gain damage type resistance to one type of damage other than bludgeoning, pi
 3
 ```
 Name: Natural Armor
-Cost: 4 points, 8 points for base 13 AC
+Cost: 4 points, 8 points for base 13 AC (halved for Constructed)
 Description: 
 You have a natural armor that grants you a base AC of 12. You may add your dexterity modifier to this AC.
 ```
@@ -302,21 +315,21 @@ You gain a swimming speed equal to your walking speed
 11
 ```
 Name: Burrowing Speed
-Cost: 3 points 
+Cost: 3 points (halved for Plant)
 Description:
 You gain a burrowing speed equal to half your walking  (minimum 15)
 ```
 12
 ```
 Name: Innate Casting
-Cost: 2 points
+Cost: 2 points (halved for Fae)
 Description: 
 You gain one cantrip or first level spell and use your choice of Constitution, Intelligence, Wisdom or Charisma as your casting modifier. In order to cast this spell you must expend one hit die. 
 ```
 13
 ```
 Name: Additional Arms
-Cost: 3 points
+Cost: 3 points (halved for Plant, Fungus)
 Description:
 You have an additional set of arms, you are capable of making a weapon attack as a bonus action if you wield them in these arms or you may use them to wield a shield.
 ```
@@ -337,7 +350,7 @@ Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
 16
 ```
 Name: Shape-shifting
-Cost: 6 points, 5 if size tiny or huge
+Cost: 6 points, 5 if size tiny or huge (halved for Aberrant)
 Description:
 As an action you may change your appearance and voice, it may be an appearance and voice of your own creation or the appearance and voice of another person. You may alter your size to be one size larger or smaller than your current size but you gain no benefits from altering your size and you cannot be made a size larger than huge or smaller than tiny. Your clothing is unaffected by this change.
 ```
@@ -414,14 +427,14 @@ You have Advantage on saves against being charmed.
 27
 ```
 Name: Magic Resistance 
-Cost: 6 points
+Cost: 6 points (halved for Fae)
 Description:
 You have Advantage on saves made against magical sources.
 ```
 28
 ```
 Name: Toughness
-Cost: 4 points if taken once, 10 if taken twice, 18 if taken 3 times
+Cost: 4 points if taken once, 10 if taken twice, 18 if taken 3 times (halved for Undead)
 Description:
 You gain 1 additional maximum hitpoint each level, this increases by one dependent on how many times you take this feat, up to a maximum of 3 additional hitpoints a level.
 ```
@@ -442,7 +455,7 @@ You are capable expending a hit die as an action to expel a 15 foot cone or 20 f
 31
 ```
 Name: Spikes
-Cost: 1 points, 4 points to increase damage to 5 piercing, 8 points to increase damage to 8 piercing
+Cost: 1 points, 4 points to increase damage to 5 piercing, 8 points to increase damage to 8 piercing (halved for Plant)
 Description:
 Thorny spines cover your body. When a creature successfully grapples or is grappled by you or starts their turn grappling or being grappled by you they take 3 piercing damage.
 ```
@@ -484,7 +497,7 @@ You have tentacles somewhere on your body. As an action you may attempt to grapp
 37
 ```
 Name: Duplipedal
-Cost: 3 points
+Cost: 3 points (halved for Aberrant)
 Description:
 You walk on four or more legs, giving some benefits and causing some issues. You gain advantage on saves against being knocked prone, and your highest movement speed is doubled. It may be hard or even impossible for you to ascend ladders or slopes not specifically designed with your stature in mind.
 ```
@@ -498,14 +511,14 @@ On a critical weapon attack you may roll an additional damage die and add that t
 39
 ```
 Name: Draining Attack
-Cost: 4 points, 5 if finesse  
+Cost: 4 points, 5 if finesse (halved for Fungus)
 Description:
 If you do not already have some form of natural weapon, you gain one which increases your unarmed damage die to a d6. When you make an attack a natural weapon and hit you may expend a hit die and regain hitpoints equal to the damage dealt.
 ```
 40
 ```
 Name: Blindsight
-Cost: 4 points for 10 feet, 8 points for 20 feet
+Cost: 4 points for 10 feet, 8 points for 20 feet (halved for Fungus)
 Description:
 You have the ability to sense the presence of creature within 10 feet, even if you cannot see them, nullifying the effects of blindness.
 ```
