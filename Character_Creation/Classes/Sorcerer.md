@@ -107,7 +107,7 @@ You may increase one of your ability scores by 2 or two of them by 1. You may fo
 ### Dark Magic Techniques
 At 7th level you may either succumb to the temptations of dark magic and gain power or resist its whispers and gain a greater amount of control over it. Choose one option from the following:
 
-- **Darkness Consume Me:** You no longer have a darkness limit, and your accumulated dark magic does not reset on a rest, and you become immune to bad corruptions (but not VERY BAD ones), but each time you cast a spell you gain a neutral corruption, and you lose the Dark Magic Release feature. If your dark magic accumulated reaches 500 or greater you explode into a massive ball of necrotic energy, dealing 12d6 necrotic damage to all creatures within 360 feet.
+- **Darkness Consume Me:** You no longer have a darkness limit, and your accumulated dark magic does not reset on a rest, and you become immune to bad corruptions (but not VERY BAD ones), but each time you cast a spell you gain a neutral corruption, and you lose the Dark Magic Release feature. If your dark magic accumulated reaches 500 or greater you explode into a massive ball of necrotic energy, killing you and dealing 12d6 necrotic damage to all creatures within 360 feet.
 - **Leave Me Darkness:** Your Dark Magic Release feature may be activated as a free action and its radius and damage is doubled. 
 - **Darkness Needs Light:** Your Dark Magic Release feature changes to require your entire turn (action, bonus action, and movement), but does not reduce your maximum spell level at all.
 

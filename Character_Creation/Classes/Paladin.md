@@ -17,8 +17,7 @@ Your hit die is a d10
 Your starting hitpoints are 10 + your constitution modifier
 
 ## Skills
-You gain proficiency in 2 skills of your choice. You also gain proficiency in
-your choice from diplomacy, health, or will.
+You gain proficiency in 2 skills of your choice. You also gain proficiency in your choice from diplomacy, health, or will.
 
 ```
 | --------------- | -------------------------------------------------- |
