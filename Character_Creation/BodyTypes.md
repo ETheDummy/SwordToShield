@@ -450,7 +450,7 @@ You are capable of perfectly reproducing any sound which you have heard before. 
 Name: Breath Weapon
 Cost: 4 points
 Description:
-You are capable expending a hit die as an action to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. You may use this feature a number of times equal to your proficiency bonus per rest. 
+You are capable expending a hit die as an action to expel a 15 foot cone or 20 foot by 5 foot line of energy (your choice) from your body. A creature caught in the area of effect must make a dexterity saving throw or take 3d6 + Your constitution modifier damage of the type you chose, or half as much on a success. The DC for this saving throw is 8 + your proficiency modifier + your constitution modifier. When you choose this feature choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or Radiant. You may use this feature a number of times equal to your proficiency bonus per rest.
 ```
 31
 ```
@@ -545,6 +545,7 @@ Cost: 1 point per 5 feet
 Description:
 You gain 5 feet of walking speed for each point you invest into this feature.
 ```
+
 
 # Optional: Innate Limitations
 Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.

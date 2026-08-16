@@ -115,23 +115,26 @@ Using the natural momentum of striking you gain the ability to build up for one 
 +-------------------------------+--------------------+
 |            Effect             |        Cost        |
 +-------------------------------+--------------------+
-| One unarmed strike die damage | 1 point per die    |
-| Surprised                     | 1 point            |
-| Deafened                      | 1 point            |
-| Frightened                    | 1 point            |
-| Prone                         | 1 point            |
+| One unarmed strike die damage | 1 point  per die   |
+| Surprised                     | 1 point  per round |
+| Deafened                      | 1 point  per round |   
+| Frightened                    | 1 point  per round |
+| Prone                         | 1 point  per round |
 | ----------------------------- | ------------------ |
-| Drunken                       | 2 points           |
-| Blinded                       | 2 points           |
-| poisoned                      | 2 points           |
-| Incapacitated                 | 2 points           |
+| Drunken                       | 2 points per round |
+| Blinded                       | 2 points per round |
+| poisoned                      | 2 points per round |
+| Incapacitated                 | 2 points per round |
 | ----------------------------- | ------------------ |
-| Paralyzed                     | 3 points           |
+| Paralyzed                     | 3 points per round |
 | ----------------------------- | ------------------ |
 | Unconscious                   | 4 points per round |
 +-------------------------------+--------------------+
 
 ```
+
+### Slugger (Level 6)
+You gain the Bludgeoner feat. When you miss an attack against a target by 1 the target takes 1d6 bludgeoning damage.
 
 ### Targeted Strikes (level 7)
 You may expend a hit die to gain a +5 modifier to called shots this turn. When you miss a called shot this turn you my roll again for a normal attack dealing half as much damage on a hit.
@@ -146,7 +149,43 @@ You stay ready so you dont have to get ready. As a reaction when you enter comba
 - 10 haymaker points which you do not lose on a missed attack
 
 ## Grappler
-Is not done.
+You specialize, through a mix of technique and sheer grit, in sapping your opponents energy and lifeblood in the oldest way known to man: grappling.
+
+### Position Fighting (Level 2)
+As a grappler, being able to move freely in any posture is the key to outpositioning your opponent. You gain the following benefits and techniques:
+
+- You ignore the negative effects of the prone condition and may stand up or drop prone as a free action on your turn.
+- You ignore the effects of moving across difficult terrain in combat, but not travelling through areas of difficult terrain.
+
+#### Shoot
+As a bonus action while within 10 feet of an opponent, you may attempt a ‘shoot’. Make a contested grappling attack against that opponent. On a success the target is grappled and you may choose to expend up to your remaining movement speed and move you and your grappled opponent in a straight line. On a failed grapple, your opponent is unaffected and you provoke an attack of oppurtunity. 
+
+#### Stance Up
+You may expend a hit die at the start of your turn to disengage or dash as a free action.
+
+#### Throw
+Once an opponent is grappled, you may choose to make a ‘throw’ attack against them. Make an unarmed strike against the target, adding your wisdom modifier to the attack roll. On a hit the target must make a strength or dexterity saving throw against 8 + your proficiency modifier + your wisdom modifier, moving you both 10 feet in a direction of your choice on a failure. On a success you both move 5 feet in a direction chosen by your target. 
+
+### Flow (Level 5)
+Smoothly transitioning between all positions and postures, you flow between the 4 phases of close combat freely.
+
+#### Throws
+you may expend a hit die to gain advantage on the ‘throw’ attack roll, deal an additional damage die of damage, and move your opponent an additional 5 feet.
+#### Blows 
+You may expend a hit die while grappling an opponent to make a ‘ground and pound’ series of unarmed strikes against your opponent until the end of your turn. All of your unarmed strikes against the grappled opponent have advantage, and if you deal more than their constitution score’s worth of damage, that opponent is staggered.
+#### Locks
+You may expend a hit die and transition to a joint lock on an opponent. Make a grapple attack with advantage. On a success, you roll for unarmed strike damage. Multiply the result by 100. The resulting number is applied to the Fractures and Breaks table.
+#### Holds 
+While a target is grappled by you, you may expend a hit die on your turn to transition into a chokehold. Make a grapple attack. On a success, your opponent is Muted and loses the ability to breathe (for creature types for which this would not work, assume that the choke halts flow of oil/magic/chlorophyll to the brain in the same manner a choke halts blood flow to the brain). A choked opponent gains a level of exhaustion every round of combat they are choked. 
+
+### Sturdy (Level 6)
+You gain the Tough feat. Any time an effect would cause you to be moved by any means except teleportation, you may make a will save. On a success, you ignore the imposed movement.
+
+### Technical Mastery (Level 7)
+You may ignore size restrictions on grappling. When within melee range of a creature you may expend a hit die to make a ‘small joint’ grappling attack. On a successful grapple, you may choose to break that creature’s fingers or dislocate their jaw. A creature with broken fingers can not use held equipment in that hand, and can not cast spells with somatic components. A creature with a dislocated jaw can not cast spells with verbal components.
+
+### Swing (Level 10) 
+You control the flow of movement and forces with training and technique. As a reaction to a creature dealing melee damage to you, you may expend a hit die and attempt a grapple on that creature. On a success you take half as much damage, and you may immediately attempt a throw lock or hold without expending a hit die.
 
 
 # Martial Arts
