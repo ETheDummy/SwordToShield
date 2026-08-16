@@ -543,7 +543,7 @@ As a bonus action you may expend a hit die and become invisible or intangible or
 Name: Walking Speed
 Cost: 1 point per 5 feet
 Description:
-You gain 5 feet of burrowing speed for each point you invest into this feature.
+You gain 5 feet of walking speed for each point you invest into this feature.
 ```
 
 # Optional: Innate Limitations

@@ -494,14 +494,14 @@ asleep for 12 hours
 Exhaustion works in stages and goes back one stage each rest a creature takes. Refer to the following chart for the stages of exhaustion:
 
 ```
-|  Stage  |  Effects                                                    |
-| ------- | ----------------------------------------------------------- |
-|  1      |  Disadvantage on ability checks                             |
-|  2      |  Movement speed halved, Disadvantage on attack rolls        |
-|  3      |  Maximum hitpoints halved                                   |
-|  4      |  Disadvantage on saving throws                              |
-|  5      |  Collapse into sleep for 12 hours                           |
-| ------- | ----------------------------------------------------------- |
+|  Stage  |  Effects                                                              |
+| ------- | --------------------------------------------------------------------- |
+|  1      |  Disadvantage on ability checks                                       |
+|  2      |  Movement speed halved, Disadvantage on attack rolls                  |
+|  3      |  Maximum hitpoints halved                                             |
+|  4      |  Disadvantage on saving throws                                        |
+|  5      |  Collapse into sleep for 12 hours and lose one level of exhaustion    |
+| ------- | --------------------------------------------------------------------- |
 ```
 
 ---
