@@ -47,4 +47,4 @@ If you're a player having trouble navigating, use these helpful links.
 
 ### [AccursedJournal](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/AccursedJournal.md)
 
-### [Lore](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Lore.md)
+### [Lore](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Lore/Lore.md)

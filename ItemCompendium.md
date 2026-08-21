@@ -136,6 +136,7 @@ Adventuring necessitates equipment.
 | Hunting trap                | 5   gp   | 25 lb. |
 | Ink (1 ounce bottle)        | 10  gp   | —      |
 | Ink pen                     | 2   cp   | —      |
+| Kit, alchemy                | 50  gp   | 12 lb. |
 | Kit, climber’s              | 25  gp   | 12 lb. |
 | Kit, disguise               | 25  gp   | 3 lb.  |
 | Kit, forgery                | 15  gp   | 5 lb.  |
