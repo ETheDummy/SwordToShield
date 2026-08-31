@@ -324,6 +324,11 @@ You add a suppressor to the barrel of your firearm. Whenever you fire from a pos
 
 You apply a high quality chemical finish to each metal part of your firearm, giving the delicate mechanisms a much greater wiggle room. The weapon's misfire score is reduced by 2 to a minimum of 1.
 
+### Rapid Fire
+- **Requires: 100 scrap, Automatic Weapon**
+
+You upgrade the firing mechanism of an automatic weapon to increase its rate of fire. When you use an action to fire wildly into a 10x10 space, you may fire 10 additional bullets. The damage for the attack then increases by one hit of that weapon. You may apply this modification up to 3 times on one weapon; allowing for up to 40 bullets to be fired and to deal the damage of 4 hits.
+
 ---
 
 # Maneuvers
