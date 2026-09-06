@@ -98,6 +98,8 @@ When the magazine is fully expended you must expend an action to reload it, retu
 ### Automatic
 An automatic weapon may be fired as a bonus action. You may also use an action with an automatic weapon to fire 10 times wildly into an area 10 feet by 10 feet within the effective range. Creatures within the area must make a Dexterity saving throw against 8 + Your proficiency bonus + Your dexterity modifier or take damage as if they were hit by an attack.
 
+**Automatic Only.** An automatic weapon may not be fired with a bonus action; only as an action to fire 10 times wildly.
+
 ### Misfire
 When you roll a natural roll of your misfire score or lower you must expend an
 action to make check with your smith's tools or tinker's tools where the DC is
@@ -118,6 +120,11 @@ When you fire a weapon with the kick property, make a DC 16 strength saving thro
 
 ### Dynamite Launcher
 The dynamite launcher fires a stick of dynamite, lighting it as it is fired, at a target within 240 feet. Regardless of if the attack hits the target or not the stick of dynamite fired at them lands at their feet, exploding at the start of the next creature's turn.
+
+### Penetrating
+A bullet fired by a normal weapon cannot pass through any barrier more substantial than a wooden wall or a creature without tumbling and becoming ineffective. A weapon with the penetrating property, however, can effectively pass through 6 inches of steel or 5 feet of stone, and any thickness of wood or flesh. 
+
+**Automatic and Penetrating weapons.** When a weapon with both the Automatic and Penetrating property uses an action to fire wildly into a 10x10 space, it may instead choose to fire in a 5ft wide line with the length of the effective range of the weapon. Any creature or structure in this line takes damage as if it was hit by an attack.
 
 ```
 Simple Pistol
@@ -240,6 +247,37 @@ Scrap Cost: 5
 Amount: 1
 ```
 
+### ADVANCED WEAPONRY (LEVEL 9 REQUIRED)
+The below items may not be created unless you are level 9 or higher.
+
+```
+Anti-material Rifle
+Range: 200/400
+Magazine: 1
+Scrap Cost: 100
+Damage: 3d12 + Dex piercing
+Properties: Reloading, Heavy, Two-Handed, Penetrating
+Ammo Type: AP
+Misfire Score: 3
+```
+
+```
+Minigun
+Range 120/240
+Magazine: 40
+Scrap Cost: 100
+Damage: 1d12 + Dex piercing
+Properties: Reloading, Two-Handed, Heavy, Automatic Only, Penetrating
+Ammo Type: AP
+Misfire Score: 2
+```
+
+```
+AP ammo
+Scrap Cost: 20
+Amount: 10
+```
+
 ---
 
 # Modifications
@@ -327,7 +365,7 @@ You apply a high quality chemical finish to each metal part of your firearm, giv
 ### Rapid Fire
 - **Requires: 100 scrap, Automatic Weapon**
 
-You upgrade the firing mechanism of an automatic weapon to increase its rate of fire. When you use an action to fire wildly into a 10x10 space, you may fire 10 additional bullets. The damage for the attack then increases by one hit of that weapon. You may apply this modification up to 3 times on one weapon; allowing for up to 40 bullets to be fired and to deal the damage of 4 hits.
+You upgrade the firing mechanism of an automatic weapon to increase its rate of fire. When you use an action to fire wildly into a 10x10 space (or into a 5ft line for Penetrating weapons), you may fire 10 additional bullets. The damage for the attack then increases by one hit of that weapon. You may apply this modification up to 3 times on one weapon; allowing for up to 40 bullets to be fired and to deal the damage of 4 hits.
 
 ---
 
