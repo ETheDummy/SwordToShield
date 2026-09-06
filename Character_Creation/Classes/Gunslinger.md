@@ -254,7 +254,7 @@ The below items may not be created unless you are level 9 or higher.
 Anti-material Rifle
 Range: 200/400
 Magazine: 1
-Scrap Cost: 100
+Scrap Cost: 400
 Damage: 3d12 + Dex piercing
 Properties: Reloading, Heavy, Two-Handed, Penetrating
 Ammo Type: AP
@@ -265,7 +265,7 @@ Misfire Score: 3
 Minigun
 Range 120/240
 Magazine: 40
-Scrap Cost: 100
+Scrap Cost: 1200
 Damage: 1d12 + Dex piercing
 Properties: Reloading, Two-Handed, Heavy, Automatic Only, Penetrating
 Ammo Type: AP
