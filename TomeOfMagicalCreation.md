@@ -294,6 +294,15 @@ Description:
 These magical underpants are embroidered with wings and lightning bolts. Stitched in white fabric with red embroidery and seems. While attuned to and wearing these underpants over your pants you gain a hovering flying speed of 50 feet. If you walk more than 10 feet in a turn while wearing these underpants they rip and lose all magical powers.
 ```
 
+```
+Minor Magical Prosthetic Arm
+Type: Magical Trinket (Prosthetic arm)
+Attunement: Y
+Description:
+This arm humms with magic, and functions the same as a normal arm, but faster, better in almost every way. Once attuned it replaces your old arm. It has been enhanced with special magic granting the attack and damage roll of all weapons and skill checks of all tools held in its hand a +1 modifier, and increasing the spell save DC and casting modifier of the attuned creature by 1. The arm also functions as a spellcasting focus
+```
+
+
 # Rare Magic Items
 ```
 
@@ -405,6 +414,14 @@ This magical bag leads to an extra-dimensional space, a pocket of reality prime 
 
 ```
 
+```
+Greater Magical Prosthetic Arm
+Type: Magical Trinket (Prosthetic arm)
+Attunement: Y
+Description:
+This arm humms with magic, and functions the same as a normal arm, but faster, better in almost every way. Once attuned it replaces your old arm. It has been enhanced with special magic granting the attack and damage roll of all weapons and skill checks of all tools held in its hand a +1 modifier, and increasing the spell save DC and casting modifier of the attuned creature by 1. The arm also functions as a spellcasting focus
+```
+
 
 # Legendary Magic Items
 
@@ -498,11 +515,19 @@ This weapon has a +2 to its attack and damage rolls and loses the heavy or two h
 
 Dragonsteel Armor
 Type: Armor (Any)
-Rarity: Rare
+Rarity: Legendary
 Attunement: Y
 Description:
 While attuned to this armor you have immunity to the damage type associated with the element of dragonsteel it is forged from.
 
+```
+
+```
+Supreme Magical Prosthetic Arm
+Type: Magical Trinket (Prosthetic arm)
+Attunement: Y
+Description:
+This arm humms with magic, and functions the same as a normal arm, but faster, better in almost every way. Once attuned it replaces your old arm. It has been enhanced with special magic granting the attack and damage roll of all weapons and skill checks of all tools held in its hand a +3 modifier, and increasing the spell save DC and casting modifier of the attuned creature by 3. The arm also functions as a spellcasting focus
 ```
 
 # Artifacts
@@ -526,7 +551,7 @@ Niche's Head
 Type: Magical Trinket
 Attunement Time: 1 week (spent conversing for at least 8 hours a day with the head)
 Description:
-'Niche's Head' is the head of a white draconic-humanoid who was once a fierce warrior named "Niche". The severed head is still alive, despite being detached and is capable of speaking common and draconic. While attuned to this artifact you have immunity to cold damage and resistance to fire damage. As an action you may open niche's mouth, from his mouth spouts a 150 foot cone of frost breath, any creature caught within this cone must make a dexterity saving throw or take 10d6 damage, or half as much on a successful save. Creatures who fail this save are frozen for 1d6 turns.
+'Niche's Head' is the head of a white draconic-humanoid who was once a fierce warrior named "Niche". The severed head is still alive, despite being detached and is capable of speaking common and draconic. While attuned to this artifact you have immunity to cold damage and resistance to fire damage. As an action you may open niche's mouth, from his mouth spouts a 150 foot cone of frost breath, any creature caught within this cone must make a dexterity saving throw against a DC 22 or take 10d6 damage, or half as much on a successful save. Creatures who fail this save are frozen for 1d6 turns.
 
 When you attune to this artifact, roll for the special corruptions it has on you from the following tables:
 
@@ -601,4 +626,37 @@ This black metal staff adorned with a massive purple gem at the top once belonge
 | 1          | You begin to harbor an intense greed and hatred for generosity                 |
 | 2-4        | Detrorphius possesses you at random, granting the GM control of your character |
 +------------+--------------------------------------------------------------------------------+
+```
+
+```
+Oliphus's Right Hand
+Type: Magical Trinket (Prosthetic arm)
+Attunement Time: 1 day (Spent in meditation, allowing and accepting the arm as a part of your body)
+Description:
+This sentient arm of porceline and gold construction was said to one belong to an inventor who fought alongside Oliphus in the repulsion of the Mad God Maldrin from the material world at the height of the War of the Magi. Once attuned it replaces your old arm. It has been enhanced with special magic to move gracefully and the consciousness inside was trained by its former master to perform various tasks extremely efficiently and precisely. The attack and damage roll of all weapons and skill checks of all tools held in its hand a +4 modifier, and the casting modifier and spell save DC of the attuned creature increases by 4. Once a day, a creature attuned to this arm may choose to automatically pass an intelligence check as the consiousness within grants a gleaming of its vast knowledge. The arm also functions as a spellcasting focus
+
+When you attune to this artifact, roll for the special corruptions it has on you from the following tables:
+
+Beneficial Corruptions (Roll 2)
+
+
+| Roll (1d4) |                                                 Effect                                                  |
+|------------|---------------------------------------------------------------------------------------------------------|
+|          1 | Your intelligence score increases by 2                                                                  |
+|          2 | You gain a hovering flying speed of 30 feet                                                             |
+|          3 | You gain expertise in one skill you were proficient in                                                  |
+|          4 | You become immune to the surprised status effect, and unseen attackers do not have advantage to hit you |
+
+
+
+Detrimental Corruptions (Roll 2)
+
+
+| Roll (1d4) |                                                          Effect                                                           |
+|------------|---------------------------------------------------------------------------------------------------------------------------|
+|          1 | Your wisdom score decreases by 2                                                                                          |
+|          2 | You become incredibly nervous, often thinking there are threats present when there are not, and acting generally cowardly |
+|          3 | You harbor an immense guilt at all times                                                                                  |
+|          4 | You become incredibly sensitive to psychic attacks, granting you disadvantage on saving throws against psionic effects    |
+
 ```

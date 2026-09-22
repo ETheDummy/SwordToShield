@@ -375,6 +375,7 @@ On the next turn after taking the bonus action to activate this form, you lose 1
 - Sleep
 - Thunderwave
 - Witch Bolt
+- Summon Globs
 
 ## 2nd Level Spells
 - Omen
@@ -397,6 +398,7 @@ On the next turn after taking the bonus action to activate this form, you lose 1
 - Silence
 - Spider Climb
 - Suggestion
+- Summon Rava
 
 ## 3rd Level Spells
 - Curse
@@ -418,3 +420,4 @@ On the next turn after taking the bonus action to activate this form, you lose 1
 - Vass' Psychic Blast
 - Stoneskin
 - Brimstone
+- Summon Greg

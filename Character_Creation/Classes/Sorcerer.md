@@ -440,7 +440,7 @@ You are capable of using latent magic to guide your ability checks. When you fai
 - Beast Tongue
 - Thunderwave
 - Witch Bolt
-- Summon Green Slime
+- Summon Glob Swarm
 
 ## 2nd Level Spells
 - Alter Self
@@ -469,6 +469,7 @@ You are capable of using latent magic to guide your ability checks. When you fai
 - Spider Climb
 - Suggestion
 - Rewind
+- Summon Rava
 
 
 ## 3rd Level Spells
@@ -498,6 +499,7 @@ You are capable of using latent magic to guide your ability checks. When you fai
 - Vass' Psychic Blast
 - Stoneskin
 - Snowball
+- Summon Greg
 
 ## 4th Level Spells
 - Banish

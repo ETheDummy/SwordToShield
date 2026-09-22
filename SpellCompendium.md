@@ -20,6 +20,7 @@ template:
 
 Spell Name (Spell Level
 
+Type:
 Range:
 Components:
 Duration:
@@ -28,6 +29,36 @@ Description:
 This is where the spell description goes!
 
 ```
+
+## Schools of Magic
+There are multiple "Schools" of magic, arbitrary lines to define the "type" of magic that a specific spell is, there are
+
+### Abjuration
+Abjuration is the school of healing, protection, and "abjuring" magical effects
+
+### Transmutation
+Transmutation is the school of transforming things, turning normal bodies into ones with gills, granting hardened skin, etc.
+
+### Evocation
+Evocation is the school of evoking forth elements, usually to destructive effects.
+
+### Conjuration
+Conjuration is the school of calling forth beings or things, physically.
+
+### Necromancy
+Necromancy is the school of death, all magic relating to death and dying, and reversing death or bringing an abominable immitation of life. 
+
+### Divination
+Divination is the school of foresight, used to see the future or to guide on a specific thread of fate.
+
+### Enchantment
+Enchantment is the school of charming, using magical means to force your way into someone's mind.
+
+### Illusion
+Illusion is the school of false imagery, used to create images or hide things in plane sight.
+
+### Provocation
+Provocation is the least researched, and most dangerous school of magic, used to call forth hard to control forces, beyond the other schools of magic.
 
 If you wish to make your own spells, as a GM or as a player, please follow this
 guideline.
@@ -38,6 +69,7 @@ guideline.
 
 Acid Splash (Cantrip) (1)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -49,6 +81,7 @@ You conjure a volume of acid and throw it at one point you can see within range.
 
 Thunderous Blade (Cantrip) (2)
 
+Type: Evocation\
 Range: Self\
 Components: S/M(a melee weapon) \
 Duration: 1 round\
@@ -60,6 +93,7 @@ You speak words of power into a melee weapon in your hands. For one round after 
 
 Necrotic Grasp (Cantrip) (3)
 
+Type: Necromancy\
 Range: 120 feet\
 Components: S\
 Duration: 1 round\
@@ -71,6 +105,7 @@ You lift your hand as a cold skeletal hand grasps the body of your target. Make 
 
 Control Fire (Cantrip) (4)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: S\
 Duration: instantaneous to 1 hour\
@@ -97,6 +132,7 @@ such an effect as an action.
 
 Create Fire (Cantrip) (5)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: Concentration, Up to 1 minute\
@@ -111,6 +147,7 @@ creature which enters the area of the spell during its duration.
 
 Lights (Cantrip) (6)
 
+Type: Conjuration\
 Range: 120 feet\
 Components: V/S\
 Duration: Concentration, Up to 1 minute\
@@ -125,6 +162,7 @@ humanoid or three small sized creatures.
 
 Eldritch Blast (Cantrip) (7)
 
+Type: Evocation\
 Range: 120 feet\
 Components: S\
 Duration: instantaneous\
@@ -139,6 +177,7 @@ This spell creates two blasts at 5th level, and 3 blasts at 10th level.
 
 Flame Bolt (Cantrip) (8)
 
+Type: Evocation\
 Range: 120 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -151,6 +190,7 @@ spell attack, on a hit the target takes 1d10 fire damage.
 
 Friends (Cantrip) (9)
 
+Type: Enchantment\
 Range: Self\
 Components: V \
 Duration: 1 minute\
@@ -174,6 +214,7 @@ If you are unable to speak one of these phrases the spell does not take effect.
 
 Frostbite (Cantrip) (10)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -187,6 +228,7 @@ its next melee weapon attack.
 
 Lesser Flaming Blade (Cantrip) (11)
 
+Type: Transmutation\
 Range: self\
 Components: S/M (a weapon made of metal) \
 Duration: Instantaneous\
@@ -201,6 +243,7 @@ melee weapon attack.
 
 Guidance (Cantrip) (12)
 
+Type: Divination\
 Range: touch\
 Components: V/S\
 Duration: Concentration up to 1 minute\
@@ -214,6 +257,7 @@ creature rolls this die the spell ends.
 
 Control Air (Cantrip) (13)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -234,6 +278,7 @@ rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
 Swarm (Cantrip) (14)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -247,6 +292,7 @@ reaction to move in a random direction as they swat away the swarm.
 
 Light (Cantrip) (15)
 
+Type: Transmutation\
 Range: touch\
 Components: S\
 Duration: 8 hours \
@@ -261,6 +307,7 @@ blinded by the duration if they are sensitive to light.
 
 Lightning Whip (Cantrip) (16)
 
+Type: Evocation\
 Range: 25 feet\
 Components: S\
 Duration: instantaneous\
@@ -276,6 +323,7 @@ larger than you.
 
 Mage Hand (Cantrip) (17)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: S\
 Duration: Concentration\
@@ -291,6 +339,7 @@ attack, on a hit the target takes 1d4 force damage.
 
 Mending (Cantrip) (18)
 
+Type: Transmutation\
 Range: touch\
 Components: S\
 Duration: instantaneous\
@@ -305,6 +354,7 @@ regains 1d8 hitpoints.
 
 Message (Cantrip) (19)
 
+Type: Transmutation\
 Range: 120 feet\
 Components: V/S\
 Duration: 1 round\
@@ -318,6 +368,7 @@ whispering back a short message that only you can hear.
 
 Cut Thoughts (Cantrip) (20)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: 1 round\
@@ -333,6 +384,7 @@ of your next turn the spell ends.
 
 Minor Illusion (Cantrip) (21)
 
+Type: Illusion\
 Range: 30 feet\
 Components: S\
 Duration: 1 minute\
@@ -349,6 +401,7 @@ check against your spell DC, seeing through the illusion on a success.
 
 Shape earth (Cantrip) (22)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: S\
 Duration: instantaneous to 1 hour\
@@ -368,6 +421,7 @@ terrain into normal terrain
 
 Poison Spray (Cantrip) (23)
 
+Type: Evocation\
 Range: 10 feet\
 Components: S\
 Duration: instantaneous\
@@ -380,6 +434,7 @@ must make a constitution saving throw or take 1d12 poison damage.
 
 Prestidigitation (Cantrip) (24)
 
+Type: Transmutation\
 Range: 20 feet\
 Components: S\
 Duration: up to 1 hour\
@@ -403,6 +458,7 @@ You may create up to three of these magical effects through multiple castings.
 
 Bestial Visage (Cantrip) (25)
 
+Type: Transmutation\
 Range: self/5 feet\
 Components: V \
 Duration: instantaneous\
@@ -417,6 +473,7 @@ your body returns to normal
 
 Produce Flame (Cantrip) (26)
 
+Type: Evocation\
 Range: self/30 feet\
 Components: V/S \
 Duration: 10 minutes\
@@ -433,6 +490,7 @@ damage.
 
 Ray of Frost (Cantrip) (27)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -447,6 +505,7 @@ of your turn.
 
 Resistance (Cantrip) (28)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -460,6 +519,7 @@ then ends.
 
 Sacred Flame (Cantrip) (29)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: instantaneous \
@@ -473,6 +533,7 @@ Cover grants no benifit to this saving throw.
 
 Shape Water (Cantrip) (30)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: S\
 Duration: instantaneous up to 1 hour\
@@ -496,6 +557,7 @@ castings of this spell.
 
 Shocking Grasp (Cantrip) (31)
 
+Type: Evocation\
 Range: touch\
 Components: S\
 Duration: instantaneous\
@@ -510,6 +572,7 @@ you gain advantage on the attack roll.
 
 Save the Dying (Cantrip) (32)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S/M (a small insignificant piece of your body)\
 Duration: instantaneous\
@@ -523,6 +586,7 @@ stabilizing them. The creature's hp becomes 1 but they remain unconcious for
 
 Sweeping Blades (Cantrip) (33)
 
+Type: Conjuration\
 Range: self/5 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -536,6 +600,7 @@ a dexterity saving throw or take 1d6 slashing damage.
 
 Thorn Whip (Cantrip) (34)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: S\
 Duration: instantaneous\
@@ -549,6 +614,7 @@ range. The target must make a dexterity saving throw or take 1d4 slashing and
 
 Thunderclasp (Cantrip) (35)
 
+Type: Evocation\
 Range: self/5 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -562,6 +628,7 @@ creature within 5 feet of you must make a constitution saving throw or take
 
 Toll The Dead (Cantrip) (36)
 
+Type: Necromancy\
 Range: 60 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -575,6 +642,7 @@ damage, or 1d12 necrotic damage if they are below their max HP.
 
 True Strike (37)
 
+Type: Divination\
 Range: touch\
 Components: S\
 Duration: 1 minute\
@@ -587,6 +655,7 @@ target makes their attack the spell ends.
 
 Viscious Mockery (Cantrip) (38)
 
+Type: Enchantment\
 Range: 90 feet\
 Components: V \
 Duration: 1 turn\
@@ -609,6 +678,7 @@ This spell has no effect on enemies with no ego
 
 Radiant Word (Cantrip) (39)
 
+Type: Evocation\
 Range: self/10 feet/30 feet\
 Components: V\
 Duration: up to 1 minute\
@@ -631,6 +701,7 @@ take 1d10 radiant damage and be blinded.
 
 Leech (Cantrip) (40)
 
+Type: Necromancy\
 Range: 60 feet\
 Components: S\
 Duration: Instantaneous\
@@ -644,6 +715,7 @@ hitpoints. This spell has no effect on constructs and undead.
 
 Lay On Hands (Cantrip) (41)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: Instantaneous\
@@ -662,6 +734,7 @@ A creature may only be affected by this spell once per rest.
 
 Frost Armor (1st) (1)
 
+Type: Evocation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -677,6 +750,7 @@ hitpoints per level.
 
 Chilling Tendrils (1st) (2)
 
+Type: Conjuration\
 Range: self/10 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -693,6 +767,7 @@ level.
 
 Shield (1st) (3)
 
+Type: Abjuration\
 Range: self\
 Components: V \
 Duration: 1 round\
@@ -706,6 +781,7 @@ and you take no damage from magic missile.
 
 Magic Missile (1st) (3)
 
+Type: Conjuration
 Range: 120 feet\
 Components: S\
 Duration: instantaneous\
@@ -722,6 +798,7 @@ missile is formed.
 
 Faith's Shield (1st) (4)
 
+Type: Abjuration
 Range: touch\
 Components: V/S\
 Duration: Concentration, up to 10 minutes\
@@ -733,6 +810,7 @@ You touch one creature, granting them +2 AC for the duration.
 
 Mage Armor (1st) (5)
 
+Type: Abjuration
 Range: self\
 Components: V/S \
 Duration: 8 hours\
@@ -746,6 +824,7 @@ early as an action.
 
 Entangle (1st) (6)
 
+Type: Evocation
 Range: 90 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -762,6 +841,7 @@ for the rest of the duration.
 
 Create Familiar (1st) (7) (ritual)
 
+Type: Conjuration
 Range: 10 feet\
 Components: V/S/M (10 GP worth of herbs and spices which are burned)\
 Duration: \
@@ -794,6 +874,7 @@ only have one familiar at a time.
 
 Alert (1st) (8) (ritual)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: V/S/M (a timer or bell)\
 Duration: 8 hours\
@@ -808,6 +889,7 @@ spell you can designate which creatures will not set the alarm off.
 
 Befriend Animals (1st) (9) (ritual)
 
+Type: Enchantment\
 Range: 30 feet\
 Components: V\
 Duration: 1 day\
@@ -821,6 +903,7 @@ the target of the spell.
 
 Bane (1st) (10)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -834,6 +917,7 @@ saving throw; removing the result from the total.
 
 Bless (1st) (11)
 
+Type: Divination\
 Range: 30 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -847,6 +931,7 @@ result to the total.
 
 Burning Hands (1st) (12)
 
+Type: Evocation\
 Range: self/15-foot\
 Components: V/S\
 Duration: instantaneous\
@@ -858,10 +943,9 @@ damage, taking half as much on a success.
 
 ---
 
----
-
 Charm Person (1st) (13)
 
+Type: Evocation\
 Range: 30 feet\
 Components: V\
 Duration: 1 hour\
@@ -875,6 +959,7 @@ ally attack the target. Once the spell ends the target knows you charmed them.
 
 Chromatic Orb (1st) (14)
 
+Type: Evocation\
 Range: 90 feet \
 Components: S\
 Duration: instantaneous\
@@ -889,6 +974,7 @@ type you chose.
 
 Command (1st) (15)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: 1 round\
@@ -903,6 +989,7 @@ them immediate harm.
 
 Comprehend Languages (1st) (16)
 
+Type: Transmutation\
 Range: self\
 Components: S \
 Duration: 1 hour\
@@ -917,6 +1004,7 @@ discerning mundane languages.
 
 Create or Destroy Water (1st) (17)
 
+Type: Transmutation\
 Range: 30 feet \
 Components: V/S\
 Duration: instantaneous\
@@ -934,10 +1022,9 @@ within range
 
 ---
 
----
-
 Cure Wounds (1st) (18)
 
+Type: Abjuration\
 Range: touch/30 feet \
 Components: V/S\
 Duration: instantaneous\
@@ -956,6 +1043,7 @@ casting mod hitpoints. Casting this spell at range reduces the casting time to
 
 Detect Good and Evil (1st) (19)
 
+Type: Divination\
 Range: self/30 feet\
 Components:  V/S\
 Duration: Concentration up to 10 minutes\
@@ -970,6 +1058,7 @@ the ladder.
 
 Detect Magic (1st) (20)
 
+Type: Divination\
 Range: Self\
 Components: V/S\
 Duration: Concentration up to 10 minutes\
@@ -982,6 +1071,7 @@ bright glowing colors. This vision may penetrate thin barriers.
 
 Detect Poison and Disease (1st) (21)
 
+Type: Divination\
 Range: Self/30 feet\
 Components:  V/S\
 Duration: Concentration up to 10 minutes\
@@ -995,6 +1085,7 @@ barriers.
 
 Disguise Self (1st) (22)
 
+Type: Illusion\
 Range: self\
 Components: S \
 Duration: 1 hour\
@@ -1011,6 +1102,7 @@ check against your spell DC, telling the appearance is false on a success.
 
 Discordant Voice (1st) (23)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: instantaneous \
@@ -1026,6 +1118,7 @@ a success the target takes half as much damage and does not move.
 
 Divine Favor (1st) (24)
 
+Type: Evocation\
 Range: touch\
 Components: S\
 Duration: concentration up to 1 minute\
@@ -1038,6 +1131,7 @@ You touch one creature, for the duration of this spell the target deals an extra
 
 Ensnaring Strike (1st) (25)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to a minute\
@@ -1058,6 +1152,7 @@ to free them.
 
 Retreat (1st) (26)
 
+Type: Transmutation\
 Range: self\
 Components: V/S \
 Duration: concentration up to 10 minutes\
@@ -1071,6 +1166,7 @@ action.
 
 Glowing Lights (1st) (27)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -1085,6 +1181,7 @@ against them have advantage.
 
 False Life (1st) (28)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -1098,6 +1195,7 @@ they regain the roll as hitpoints rather than temporary hitpoints
 
 Feather Fall (1st) (29)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V\
 Duration: 1 minute\
@@ -1111,6 +1209,7 @@ the ground.
 
 Fog (1st) (30) (ritual)
 
+Type: Evocation\
 Range: 120 feet\
 Components: V/S\
 Duration: Concentration up to 1 hour\
@@ -1123,6 +1222,7 @@ disperse this fog.
 
 Fast Feast (1st) (31)
 
+Type: Transmutation\
 Range: touch\
 Components: S/M (a piece of a plant or raw meat)\
 Duration: instantaneous\
@@ -1137,6 +1237,7 @@ within 10 days it expires and crumbles to dust.
 
 Grease (1st) (32)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V/S\
 Duration: 1 minute\
@@ -1151,6 +1252,7 @@ prone, a creature entering the area must also make this save.
 
 Guiding Bold (1st) (33)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: 1 round\
@@ -1165,6 +1267,7 @@ advantage.
 
 Hail of Thorns (1st) (34)
 
+Type: Evocation\
 Range: self\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -1179,6 +1282,7 @@ piercing damage or half as much on a success.
 
 Hellish Rebuke (1st) (35)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V\
 Duration: Instantaneous\
@@ -1192,6 +1296,7 @@ as much on a success.
 
 Heroism (1st) (36)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -1206,6 +1311,7 @@ temporary hitpoints from this spell are removed.
 
 Hex (1st) (37)
 
+Type: Necromancy\
 Range: 90 feet\
 Components: V\
 Duration: concentration up to 1 hour\
@@ -1221,6 +1327,7 @@ spell as a bonus action.
 
 Weak Point (1st) (38)
 
+Type: Divination\
 Range: 90 feet\
 Components: V\
 Duration: concentration up to 1 hour\
@@ -1236,6 +1343,7 @@ spell as a bonus action.
 
 Identify (1st) (ritual) (39)
 
+Type: Divination\
 Range: touch\
 Components: V/S/M (an item worth 25gp which is consumed)\
 Duration: instantaneous\
@@ -1249,6 +1357,7 @@ are not shielded against being identified.
 
 Inflict Wounds (1st) (40)
 
+Type: Evocation\
 Range: touch\
 Components: S\
 Duration: instantaneous\
@@ -1262,6 +1371,7 @@ damage.
 
 Jump (1st) (41)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -1274,6 +1384,7 @@ multiplied by 5.
 
 Longstrider (1st) (42)
 
+Type: Transmuation\
 Range: touch\
 Components: V/S\
 Duration: 10 minutes\
@@ -1286,6 +1397,7 @@ speed increases by 10 feet.
 
 Proof Against Good and Evil (1st) (43)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -1303,6 +1415,7 @@ charmed the creature is forced out when this spell is cast on them.
 
 Purify (1st) (44)
 
+Type: Abjuration\
 Range: 10 feet\
 Components: S\
 Duration: Instantaneous\
@@ -1315,6 +1428,7 @@ purified of any disease or poison.
 
 Sickening Ray (1st) (45)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -1328,6 +1442,7 @@ throw or be poisoned until the end of your next turn.
 
 Sanctuary (1st) (46)
 
+Type: Abjuration\
 Range: 30 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -1345,6 +1460,7 @@ immune to this effect.
 
 Sleep (1st) (47)
 
+Type: Enchantment\
 Range: 90 feet \
 Components: V/S\
 Duration: 1 minute\
@@ -1371,6 +1487,7 @@ roll an additional 2d8 for each slot level above 1st.
 
 Beast Tongue (1st) (48)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -1383,6 +1500,7 @@ understand the universal langauge of beasts.
 
 Thunderwave (1st) (49)
 
+Type: Evocation\
 Range: self (10 foot sphere)\
 Components: V\
 Duration: instantaneous\
@@ -1398,6 +1516,7 @@ bludgeoning damage for every 5 feet of movement that they were unable to move.
 
 Witch Bolt (1st) (50)
 
+Type: Conjuration\
 Range: 120 feet\
 Components: S/V\
 Duration: Concentration up to 10 minutes\
@@ -1411,24 +1530,26 @@ ends early if you do anything other than moving or speaking on your turn.
 
 ---
 
-Summon Green Slime (1st) (51)
+Summon Glob Swarm (1st) (51)
 
+Type: Conjuration
 Range: 30 feet\
 Components: S/V/M (A glob of snot)\
-Duration: 1 hour\
+Duration: 1 minute\
 Casting Time: 1 action\
 Description:\
-You summon a green slime, you may command this green slime as a bonus action and
-it takes its turn immediately after yours. After the spell ends the slime melts
-away, becoming a green puddle.
+You summon three slimy Globs from the abyss, you may command these globs as a bonus action and
+they takes their turn immediately after yours. After the spell ends the globs are freed and may choose
+to attack you.
 
 ---
-[Green Slime Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Monstrosities.md#green-slime)
+[Glob Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Fiends.md#globs)
 
 ---
 
 Lunar Ray (1st) (52)
 
+Type: Evocation\
 Range: 90 feet\
 Components: S/V\
 Duration: instantaneous\
@@ -1447,6 +1568,7 @@ saving throw against your spell DC, reverting to their true form on a failure.
 
 Envitalize (2nd) (1)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: V\
 Duration: 8 hours\
@@ -1460,6 +1582,7 @@ the duration.
 
 Alter Self (2nd) (2)
 
+Type: Transmuation\
 Range: self\
 Components: V/S \
 Duration: concentration up to 1 hour\
@@ -1475,6 +1598,7 @@ natural weapons that deal 1d6 slashing damage.
 
 Arcane Lock (2nd) (3)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S/M (an item worth at least 10 gp which is consumed)\
 Duration: until removed\
@@ -1490,6 +1614,7 @@ This lock also adds a +10 DC to any checks to break or lockpick the object.
 
 Omen (2nd) (ritual) (4)
 
+Type: Divination\
 Range: self\
 Components: V/S/M (a cup of tea, a handful of sticks or bones, a deck of cards, or a die) \
 Duration: instantaneous\
@@ -1503,6 +1628,7 @@ to you but the outcome indicated is either good, bad, good and bad, or neither.
 
 Morph Shell (2nd) (5)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -1517,6 +1643,7 @@ the duration of the spell. If the target already has a natural shell they gain
 
 Blindness and Deafness (2nd) (6)
 
+Type: Enchantment\
 Range: 30 feet\
 Components: V\
 Duration: 1 minute\
@@ -1530,6 +1657,7 @@ may repeat this saving throw at the end of each of its turns.
 
 Obscure (2nd) (7)
 
+Type: Illusion\
 Range: touch\
 Components: S\
 Duration: 1 minute\
@@ -1544,6 +1672,7 @@ sight.
 
 Calm (2nd) (8)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V \
 Duration: instantaneous\
@@ -1560,6 +1689,7 @@ attack or to compromise as they will return to their normal state of mind after
 
 Cloud of Daggers (2nd) (9)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -1573,6 +1703,7 @@ first time on their turn takes 4d4 piercing damage.
 
 Eternal Flame (2nd) (10)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S/M (an item worth at least 20 GP which is consumed)\
 Duration: until dispelled\
@@ -1586,6 +1717,7 @@ dispelled. The fire does not burn and does not consume any fuel.
 
 Crown of Madness (2nd) (11)
 
+Type: Enchantment\
 Range: 120 feet\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -1607,6 +1739,7 @@ after the first.
 
 Darkness (2nd) (12)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: Concentration up to 10 minutes\
@@ -1620,6 +1753,7 @@ and no non-magical light can illuminate it.
 
 Darkvision (2nd) (13)
 
+Type: Transmuation\
 Range: 10 feet\
 Components: V/S\
 Duration: 8 hours\
@@ -1632,6 +1766,7 @@ targets and you gain darkvision out to 60 feet.
 
 Read Mind (2nd) (14)
 
+Type: Enchantment\
 Range: self/30 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -1648,12 +1783,13 @@ On a success you are able to extract one memory provided by your GM.
 
 Enhance Ability (2nd) (15)
 
+Type: Transmutation\
 Range: touch\
 Components: S\
 Duration: concentration up to 1 hour\
 Casting Time: 1 action\
 Description:\
-You touch a creature and grant them a magical enchantement from the following:
+You touch a creature and grant them a magical empowerment from the following:
 
 STRENGTH: The target gains Advantage on strength checks and their carrying
 capacity is doubled
@@ -1669,6 +1805,7 @@ WISDOM: The target gains advantage on Wisdom checks.
 
 Enlarge or Shrink (2nd) (16)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V\
 Duration: 1 minute\
@@ -1686,6 +1823,7 @@ worn or carried changes size aswell.
 
 Enthrall (2nd) (17)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V/S\
 Duration: 1 minute\
@@ -1700,6 +1838,7 @@ are incapacitated or stop speaking for any reason.
 
 Flame Blade (2nd) (18)
 
+Type: Conjuration\
 Range: Self\
 Components: V \
 Duration: Concentration up to 10 minutes\
@@ -1715,6 +1854,7 @@ the duration of this spell.
 
 Repose (2nd) (Ritual) (19)
 
+Type: Necromancy\
 Range: touch\
 Components: V/M (2 silver coins)\
 Duration: 1 month\
@@ -1729,6 +1869,7 @@ with time limits such as raise dead.
 
 Wind (2nd) (20)
 
+Type: Evocation\
 Range: self/60 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -1746,6 +1887,7 @@ wind blows from you.
 
 Heat Metal (2nd) (21)
 
+Type: Transmuation\
 Range: 30 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -1760,6 +1902,7 @@ the spell, any creature that starts their turn in contact with the target takes
 
 Hold Person (2nd) (22)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -1773,6 +1916,7 @@ saving throw may be repeated at the end of each of the target's turns.
 
 Lesser Invisibility (2nd) (23)
 
+Type: Illusion\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 1 hour\
@@ -1786,6 +1930,7 @@ casts a spell or makes an attack.
 
 Knock (2nd) (24)
 
+Type: Transmutation\
 Range: touch\
 Components: S/M (a key)\
 Duration: instantaneous\
@@ -1799,6 +1944,7 @@ feet away.
 
 Lesser Restoration (Ritual) (2nd) (25)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: instantaneous\
@@ -1811,6 +1957,7 @@ as blinded, deafened, paralyzed or poisoned.
 
 Float (2nd) (26)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -1825,6 +1972,7 @@ the effects of the spell.
 
 Locate Animal or Plant (2nd) (Ritual) (27)
 
+Type: Divination\
 Range: self/1 mile\
 Components: V\
 Duration: 1 hour\
@@ -1838,6 +1986,7 @@ you innately know the location of all instances of that plant or animal within a
 
 Magic Weapon (2nd) (Ritual) (28)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 8 hours\
@@ -1850,6 +1999,7 @@ becomes a +1 weapon
 
 Acid Arrow (2nd) (29)
 
+Type: Evocation\
 Range: 60 feet\
 Components: S\
 Duration: instantaneous\
@@ -1863,6 +2013,7 @@ damage.
 
 Mirror Image (2nd) (30)
 
+Type: Illusion\
 Range: Self\
 Components: V \
 Duration: concentration up to 1 minute\
@@ -1878,6 +2029,7 @@ has no effect on creatures that are unaffected by illusions
 
 Misty Step (2nd) (31)
 
+Type: Conjuration\
 Range: self/30 feet\
 Components: V\
 Duration: instantaneous\
@@ -1891,6 +2043,7 @@ You instantly teleport to a point of your choice within 30 feet.
 
 Healing Prayer (2nd) (32)
 
+Type: Abjuration\
 Range: self/10 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -1903,6 +2056,7 @@ of the prayer regain 2d8 + your spellcasting modifier hitpoints.
 
 Ray of Enfeeblement (2nd) (33)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -1918,6 +2072,7 @@ repeat this saving throw at the end of each of its turns.
 
 Scorching Ray (2nd) (34)
 
+Type: Evocation\
 Range: 120 feet\
 Components: S\
 Duration: instantaneous\
@@ -1931,18 +2086,20 @@ within range. Make a ranged spell attack for each ray, on a hit the target takes
 
 Lesser Truesight (2nd) (35)
 
+Type: Divination\
 Range: self\
 Components: V \
 Duration: 8 hours\
 Casting Time: 1 action\
 Description:\
 For the duration of this spell you are capable of seeing invisible and otherwise
-magically obscured creatures occupying the space around you.
+magically obscured creatures.
 
 ---
 
 Shatter (2nd) (36)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V\
 Duration: instantaneous\
@@ -1957,6 +2114,7 @@ as much on a success. Inorganic creatures take double damage from this spell.
 
 Silence (2nd) (37)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 10 minutes\
@@ -1972,6 +2130,7 @@ deafened.
 
 Spider Climb (2nd) (38)
 
+Type: Transmutation\
 Range: Touch\
 Components: V/S\
 Duration: concentration up to 1 hour\
@@ -1986,6 +2145,7 @@ when they wish for it to.
 
 Spiritual Weapon (2nd) (39)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -2002,6 +2162,7 @@ takes 1d8 + your casting modifier force damage.
 
 Suggestion (2nd) (40)
 
+Type: Enchantment\
 Range: 30 feet\
 Components: V\
 Duration: concentration up to 8 hours\
@@ -2018,6 +2179,7 @@ target is damaged by you or an ally.
 
 Bond (2nd) (41)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S/M (Silver rings worn by both you and the target)\
 Duration: 1 hour\
@@ -2033,6 +2195,7 @@ or if you or the target drop to 0 hitpoints.
 
 Zone of Truth (2nd) (42)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 10 minutes\
@@ -2049,6 +2212,7 @@ incapable of altering the truth.
 
 Wither (2nd) (43)
 
+Type: Necromancy\
 Distance: self\
 Duration: Instantaneous\
 Casting Time: 1 Action\
@@ -2063,6 +2227,7 @@ temporary hitpoints.
 
 Diagnose Affliction (2nd) (ritual) (44)
 
+Type: Divination\
 Range: touch\
 Components: V/S/M (30 GP which are consumed)\
 Duration: instantaneous\
@@ -2077,6 +2242,7 @@ all the curable ailments they may have.
 
 Acid Armor (2nd) (45)
 
+Type: Conjuration\
 Range: Self\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -2090,6 +2256,7 @@ damage as the corrosive liquid splashes on them.
 
 Rewind (2nd) (46)
 
+Type: Divination\
 Range: 120 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -2102,12 +2269,25 @@ attack or ability check.
 
 ---
 
+Summon Rava (2nd) (46)
+
+Type: Provocation\
+Range: 30 feet\
+Components: V/S\
+Duration: Until Dispelled\
+Casting Time: 1 action\
+Description:\
+As an action you provoke the void, calling forth a Rava. The Rava appears in a space within range of your choice. Roll a will check against a DC 14, on a success it falls under your control, and you may command it to act on your turn. At the end of each of turns after the one used to cast this spell, the Rava may force you to roll will against the DC again, becoming free on a failure, after which you may no longer attempt will rolls to subjugate it and the spell ends, leaving the Rava free.  
+
+[Rava Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Fiends.md#rava)
+
 # 3rd Level Spells
 
 ---
 
 Animate Dead (3rd) (1)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S\
 Duration: instantaneous\
@@ -2126,18 +2306,20 @@ elapsed in order to maintain control.
 
 Aura of Vitality (3rd) (2)
 
+Type: Abjuration\
 Range: 30 feet\
 Components: V\
 Duration: concentration up to 1 minute\
 Casting Time: 1 action \
 Description:\
 You evoke an aura of healing energy. Until the spell ends you may use your
-bonus action to heal one creature within 30 feet of you to regain 2d6 hitpoints.
+bonus action to cause one creature of your choice within 30 feet of you to regain 2d6 hitpoints.
 
 ---
 
 Beacon of Hope (3rd) (3)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -2152,6 +2334,7 @@ possible hitpoints from all healing effects for the duration of the spell.
 
 Curse (3rd) (4)
 
+Type: Enchantment\
 Range: touch\
 Components: V\
 Duration: concentration up to 1 minute.\
@@ -2179,6 +2362,7 @@ lasts 24 hours. a curse cast at 6th level lasts 1 year.
 
 Blink (3rd) (ritual) (5)
 
+Type: Conjuration\
 Range: Self\
 Components: V\
 Duration: 1 minute\
@@ -2193,6 +2377,7 @@ all the movement you took for the duration.
 
 Call Lightning (3rd) (6)
 
+Type: Conjuration\
 Range: Self/60 foot sphere\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -2212,6 +2397,7 @@ control of it, damage dealt by this spell is doubled under these conditions.
 
 Clairvoyance (3rd) (ritual) (7)
 
+Type: Divination\
 Range: 10 miles\
 Components: V/S/M (the eye of a creature, valued at at least 30 GP)\
 Duration: Concentration up to 10 minutes\
@@ -2227,6 +2413,7 @@ alternate between hearing through it and seeing through it.
 
 Conjure Beast (3rd) (8)
 
+Type: Conjuration
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 hour\
@@ -2234,10 +2421,10 @@ Casting Time: 1 action\
 Description:\
 This spell allows you conjure animals to aid you. Choose one from the following:
 
-- 1 Danger level 3 Beast
-- 2 Danger level 2 Beasts
-- 4 Danger level 1 beasts
-- 8 Danger level 0 beasts
+- 1 Giant Crab
+- 2 Giant Spiders
+- 4 Wolves
+- 8 Rats, Crabs, or Bats
 
 You conjure your selection and they are under your control for the duration of
 the spell, you are capable of commanding them to act on their turn as a free
@@ -2249,6 +2436,7 @@ originally were.
 
 Barrage (3rd) (9)
 
+Type: Transmutation\
 Range: self/60 foot cone\
 Components: V/S/M (a piece of ammunition)\
 Duration: instantaneous\
@@ -2263,6 +2451,7 @@ taking half as much on a success.
 
 Counterspell (3rd) (10)
 
+Type: Abjuration\
 Range: 90 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -2278,6 +2467,7 @@ or win a contested will check against the caster.
 
 Create Food and Water (3rd) (11)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V \
 Duration: instantaneous\
@@ -2291,6 +2481,7 @@ within range. The food and drink takes a form of your choosing and expires after
 
 Holy Mantle (3rd) (12)
 
+Type: Enchantment\
 Range: Self/15 feet\
 Components: V\
 Duration: Concentration up to 1 minute\
@@ -2305,6 +2496,7 @@ attacks.
 
 Daylight (3rd) (13)
 
+Type: Evocation\
 Range: 60 feet\
 Components: V/S\
 Duration: 1 hour\
@@ -2319,6 +2511,7 @@ take 20 radiant damage.
 
 Dispel Magic (3rd) (14)
 
+Type: Abjuration\
 Range: 120 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -2334,6 +2527,7 @@ contested will check against the caster.
 
 Elemental Weapon (3rd) (15)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -2347,6 +2541,7 @@ damage rolls and deals an additional 1d4 damage of the type you chose on a hit.
 
 Fear (3rd) (16)
 
+Type: Enchantment\
 Range: Self/30 foot cone\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -2363,6 +2558,7 @@ ending the effect on a success.
 
 Feign Death (3rd) (ritual) (17)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -2379,6 +2575,7 @@ with nothing occurring on a success.
 
 Fireball (3rd) (18)
 
+Type: Evocation\
 Range: 160 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -2394,6 +2591,7 @@ the end of their next turn unless they use their action to put themselves out.
 
 Flight (3rd) (19)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -2408,6 +2606,7 @@ the means through which the target gains this flying speed.
 
 Gaseous Form (3rd) (20)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 1 hour\
@@ -2426,6 +2625,7 @@ target cannot interact with anything physical and is incapable of casting spells
 
 Glyph (3rd) (21)
 
+Type: Evocation\
 Range: touch\
 Components: V/S/M (an item worth 50 GP which is consumed)\
 Duration: until dispelled \
@@ -2450,6 +2650,7 @@ like to store.
 
 Haste (3rd) (22)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -2467,6 +2668,7 @@ of the spell the target gains the following:
 
 Hunger of Horrors (3rd) (22)
 
+Type: Conjuration\
 Range: 200 feet\
 Components: V\
 Duration: 1 minute\
@@ -2487,6 +2689,7 @@ against your spell save DC.
 
 Hypnotic Spiral (3rd) (23)
 
+Type: Enchantment\
 Range: 120 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -2503,6 +2706,7 @@ of it.
 
 Klenne's Tiny Hut (3rd) (ritual) (24)
 
+Type: Conjuration\
 Range: self/ 10 foot hemisphere\
 Components: V/S\
 Duration: 8 hours\
@@ -2525,6 +2729,7 @@ of the ground under the hemisphere.
 
 Lightning Bolt (3rd) (25)
 
+Type: Evocation\
 Range: self/100 foot line\
 Components: V/S\
 Duration: instantaneous\
@@ -2539,6 +2744,7 @@ wearing metal have disadvantage on this saving throw.
 
 Magic Circle (3rd) (ritual) (26)
 
+Type: Abjuration\
 Range: 10 feet\
 Components: V/S/M (a bottle of holy water, salt, and iron powder)\
 Duration: until broken\
@@ -2556,6 +2762,7 @@ from at a creature on the other side of the circle have disadvantage.
 
 Major Image (3rd) (ritual) (27)
 
+Type: Illusion\
 Range: 120 feet\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -2576,6 +2783,7 @@ feint to them.
 
 Healing Words (3rd) (28)
 
+Type: Abjuration\
 Range: 120 feet\
 Components: V\
 Duration: instantaneous\
@@ -2588,6 +2796,7 @@ target, healing them for 1d4 + your spellcasting modifier hitpoints
 
 Nondetection (3rd) (ritual) (29)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: 8 hours\
@@ -2601,6 +2810,7 @@ this spell for the duration.
 
 Summon Mount (3rd) (ritual) (30)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S\
 Duration: 8 hours\
@@ -2615,6 +2825,7 @@ if the mount drops to 0 hitpoints or you dismiss it as an action.
 
 Plant Growth (3rd) (31)
 
+Type: Evocation\
 Range: 150 feet\
 Components: V\
 Duration: instantaneous\
@@ -2637,6 +2848,7 @@ fruits and vegetables. This effect lasts 1 year.
 
 Proof From Energy (3rd) (32)
 
+Type: Abjuration\
 Range: Touch\
 Components: V/S\
 Duration: 1 hour\
@@ -2650,6 +2862,7 @@ target gains resistance to that damage type.
 
 Sending (3rd) (33)
 
+Type: Transmutation\
 Range: Unlimited\
 Components: V/S\
 Duration: instantaneous\
@@ -2664,12 +2877,13 @@ was you who sent the message.
 
 Slow (3rd) (34)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
 Casting Time: 1 action \
 Description:\
-You attempt to slow the relative time perception of up to 4 creatures within
+You attempt to slow the perception of up to 4 creatures within
 range. The targets must make a wisdom saving throw or be slowed for the duration
 of the spell. Slowed creatures suffer from the following:
 
@@ -2687,6 +2901,7 @@ of their next turn, otherwise the spell is cast normally.
 
 Speak With Dead (3rd) (35)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S\
 Duration: 10 minutes\
@@ -2704,6 +2919,7 @@ effect of this spell in the last 10 days the spell fails.
 
 Plant Tongue (3rd) (36)
 
+Type: Transmuation\
 Range: self\
 Components: V \
 Duration: 10 minutes\
@@ -2722,6 +2938,7 @@ performing other tasks for you, this is entirely up to your GM.
 
 guardians (3rd) (37)
 
+Type: Conjuration\
 Range: self/15 foot radius\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -2741,6 +2958,7 @@ success.
 
 Stinking Cloud (3rd) (38)
 
+Type: Conjuration\
 Range: 120 feet\
 Components: V/S/M (a pinch of sulphur)\
 Duration: concentration up to 1 minute\
@@ -2756,6 +2974,7 @@ to the effects of this spell.
 
 Tongues (3rd) (39)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -2769,6 +2988,7 @@ target speak understands what they say and hear it in their native tongue.
 
 Draining Touch (3rd) (40)
 
+Type: Necromancy\
 Range: self\
 Components: V/S \
 Duration: 1 minute\
@@ -2785,6 +3005,7 @@ action.
 
 Gills (3rd) (ritual) (41)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V/S\
 Duration: 8 hours\
@@ -2797,6 +3018,7 @@ breathing underwater and as normally for the duration of the spell.
 
 Water Walk (3rd) (ritual) (42)
 
+Type: Transmutation\
 Range: 30 feet\
 Components: V/S\
 Duration: 1 hour\
@@ -2813,6 +3035,7 @@ surface at a rate of 60 feet a round.
 
 Vass' Psychic Blast (3rd) (43)
 
+Type: Evocation\
 Range: 120 feet\
 Components: S\
 Duration: instantaneous\
@@ -2827,6 +3050,7 @@ not being incapacitated on a success.
 
 Beacon of Fate (3rd) (44)
 
+Type: Divination\
 Range: Unlimited\
 Components: V/S/M (a platinum candle worth 100 GP)\
 Duration: Until Dispelled\
@@ -2843,6 +3067,7 @@ mile of it, at which point the spell ends.
 
 Stoneskin (3rd) (45)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 1 hour\
@@ -2857,6 +3082,7 @@ target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 Corrupt (3rd) (46)
 
+Type: Provocation\
 Range: 60 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -2871,6 +3097,7 @@ corrupted they roll on the bad corruptions chart.
 
 Heavenly Rebuke (3rd) (47)
 
+Type: Evocation\
 Range: Self (50 foot cone)\
 Components: V/S\
 Duration: Instantaneous\
@@ -2886,6 +3113,7 @@ take no damage.
 
 Brimstone (3rd) (48)
 
+Type: Evocation\
 Range: Self/60 foot line\
 Components: V/S\
 Duration: Instantaneous\
@@ -2900,12 +3128,13 @@ in the area must make a constitution saving throw or take 4d6 Fire damage and
 
 Snowball (3rd) (49)
 
+Type: Evocation\
 Range: 120 feet\
 Components: V/S\
 Duration: Concentration up to 10 minutes\
 Casting Time: 1 action\
 Description:\
-You conjure a ball of snow and hurl it at one point within range. From that
+You evoke a ball of snow and hurl it at one point within range. From that
 point a 30 foot radius sphere is chilled to subzero temperatures, all creatures
 in the area must make a dexterity saving throw or take 4d6 cold damage, taking
 half as much on a success. On a failure a target is frozen, rendering them
@@ -2914,12 +3143,25 @@ the saving throw at the end of their turn, ending the effect on a success.
 
 ---
 
+Summon Greg (2nd) (46)
+
+Type: Provocation\
+Range: 30 feet\
+Components: V/S\
+Duration: Until Dispelled\
+Casting Time: 1 action\
+Description:\
+As an action you provoke the void, calling forth a Greg. The Greg appears in a space within range of your choice. Roll a will check against A DC 16, on a success it falls under your control, and you may command it to act on your turn. At the end of each of turns after the one used to cast this spell, the Greg may may force you to roll will against the DC again, becoming free on a failure, after which you may no longer attempt will rolls to subjugate it and the spell ends, leaving the Greg free.  
+
+[Greg Statblock](https://github.com/ETheDummy/SwordToShield/blob/main/Gamemaster_Resources/Bestiary/Fiends.md#gregs)
+
 # 4th Level Spells
 
 ---
 
 Arcane Eye (4th) (1)
 
+Type: Divination\
 Range: 30 feet\
 Components: V/S\
 Duration: Concentration up to 1 hour\
@@ -2936,6 +3178,7 @@ capable of fitting through holes as small as 1cm.
 
 Aura of Life (4th) (2)
 
+Type: Abjuration\
 Range: self/30 feet\
 Components: V\
 Duration: 10 minutes\
@@ -2950,6 +3193,7 @@ damage and regain 1 hitpoint when they start their turn within the area.
 
 Banish (4th) (3)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -2968,6 +3212,7 @@ manner as previously described.
 
 Blight (4th) (4)
 
+Type: Necromancy\
 Range: 30 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -2987,6 +3232,7 @@ deals 48 damage.
 
 Confusion (4th) (5)
 
+Type: Enchantment\
 Range: 90 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -3012,6 +3258,7 @@ how they act on that turn.
 
 Control Water (4th) (ritual) (6)
 
+Type: Transmutation\
 Range: 300 feet\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -3051,6 +3298,7 @@ check to swim away as an action on their turn but do so at disadvantage.
 
 Death Ward (4th) (7)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S\
 Duration: 8 hours\
@@ -3066,6 +3314,7 @@ ends.
 
 Dimension Door (4th) (8)
 
+Type: Conjuration\
 Range: Touch/Self\
 Components: V/S\
 Duration: instantaneous\
@@ -3079,6 +3328,7 @@ them to this point with you.
 
 Divination (4th) (ritual) (9)
 
+Type: Divination\
 Range: self\
 Components: V/S/M (incense and a sacrifice worth at least 30 GP)\
 Duration: instantaneous\
@@ -3094,6 +3344,7 @@ when asked about descriptions of specific things within the vision.
 
 Beguile Creature (4th) (10)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -3112,6 +3363,7 @@ spell early on a success.
 
 Shield of Flame (4th) (11)
 
+Type: Conjuration\
 Range: self\
 Components: V/S\
 Duration: 10 minutes\
@@ -3128,6 +3380,7 @@ kind of flame you chose.
 
 Freedom of Movement (4th) (12)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: 1 hour\
@@ -3141,6 +3394,7 @@ may use 5 feet of movement to instantly escape a grapple or restraint.
 
 Giant Bug (4th) (13)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V/S\
 Duration: 10 minutes \
@@ -3155,6 +3409,7 @@ minutes has elapsed the target may act of its own will.
 
 Greater Invisiblity (4th) (14)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S\
 Duration: concentration up to 10 minutes \
@@ -3167,6 +3422,7 @@ target is carrying or wearing is also invisible.
 
 guardian of Faith (4th) (15)
 
+Type: Conjuration\
 Range: 60 feet\
 Components: V\
 Duration: 8 hours\
@@ -3176,8 +3432,8 @@ You summon the avatar of a guardian important to your faith, such as the avatar
 of Gabriel if you worship An'Ire or simply an angel. This guardian appears as
 a spectral projection at a point within range. When you cast this spell you may
 designate the purpose of this guardian and when they should attack. When a
-creature enters within 10 feet of the guardian and meets the conditions set by
-you they must make a dexterity saving throw or take 20 radiant damage, taking
+creature enters within 10 feet of the guardian, or starts their turn there, and meets the conditions set by
+you the guardian attacks. The target must make a dexterity saving throw or take 20 radiant damage, taking
 half as much on a success. The guardian vanishes after dealing a total of 80
 damage.
 
@@ -3185,6 +3441,7 @@ damage.
 
 Illusory Terrain (4th) (16)
 
+Type: Illusion\
 Range: 300 feet\
 Components: V/S\
 Duration: 24 hours\
@@ -3200,6 +3457,7 @@ illusion.
 
 Ice Storm (4th) (17)
 
+Type: Evocation\
 Range: 300 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -3215,6 +3473,7 @@ terrain for 1 minute.
 
 Phantom Hound (4th) (18)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S\
 Duration: 8 hours\
@@ -3232,6 +3491,7 @@ a hit.
 
 Private Sanctum (4th) (19)
 
+Type: Conjuration\
 Range: 120 feet\
 Components: V/S\
 Duration: 24 hours or 1 year\
@@ -3255,6 +3515,7 @@ area.
 
 Bubble (4th) (20)
 
+Type: Conjuration\
 Range: 120 feet\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -3269,6 +3530,7 @@ bubble and there is no way to break it other than with a disintegrate spell.
 
 Nightmare (4th) (21)
 
+Type: Enchantment\
 Range: 120 feet\
 Components: V\
 Duration: concentration up to 1 minute\
@@ -3282,10 +3544,9 @@ ending the spell on a success.
 
 ---
 
----
-
 Polymorph (4th) (22)
 
+Type: Transmutation\
 Range: 60 feet\
 Components: V/S\
 Duration: concentration up to 1 hour\
@@ -3308,10 +3569,9 @@ Targets of this spell cannot perform things that require their original biology.
 
 ---
 
----
-
 Wall of Fire (4th) (23)
 
+Type: Evocation\
 Range: 120\
 Components: V/S\
 Duration: concentration up to 1 minute\
@@ -3328,10 +3588,9 @@ or ends their turn there takes 5d8 fire damage.
 
 ---
 
----
-
 Awaken (4th) (24)
 
+Type: Transmutation\
 Range: touch\
 Components: V/S/M (an agate worth at least 250 GP)\
 Duration: instantaneous\
@@ -3346,10 +3605,9 @@ friendly or not based on how you treated them while charmed.
 
 ---
 
----
-
 Cloudkill (4th) (25)
 
+Type: Conjuration\
 Range: 120 fet\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -3364,10 +3622,10 @@ that do not need to breathe are immune.
 
 ---
 
----
 
 Commune With Nature (4th) (ritual) (26)
 
+Type: Divination\
 Range: self\
 Components: V \
 Duration: instantaneous\
@@ -3386,10 +3644,9 @@ area.
 
 ---
 
----
-
 Restoration (4th) (27)
 
+Type: Abjuration\
 Range: Touch\
 Components: V/S/M (A blend of herbs worth 300 GP)\
 Duration: instantaneous\
@@ -3399,10 +3656,9 @@ You perform a ritual of restoration on one creature, curing them of any disease,
 
 ---
 
----
-
 Antimagic Field (4th) (28)
 
+Type: Abjuration\
 Range: 200 feet\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -3414,10 +3670,9 @@ area cease for the duration.
 
 ---
 
----
-
 Revivify (4th) (29)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S/M (an item worth 100 GP)\
 Duration: instantaneous\
@@ -3428,10 +3683,9 @@ life with 1 hitpoint. roll a 1d20, on a 5 or lower this spell fails.
 
 ---
 
----
-
 Cardiac Arrest (4th) (30)
 
+Type: Necromancy\
 Range: 120 feet\
 Components: V/S\
 Duration: instantaneous\
@@ -3446,26 +3700,24 @@ Autopsy suggests the target died of a heart attack.
 
 ---
 
----
-
 Conjure Devil (4th) (31)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S/M (an item inscribed with a devil's true name)\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-You summon a devil of danger level 4 or lower. The devil is under your control
+You summon a devil with 35 hitpoints or fewer. The devil is under your control
 for an hour and is capable of performing verbal commands for that duration.
 After an hour the devil is free to act as it wishes on your plane. The devil
 appears at a point within 30 feet.
 
 ---
 
----
-
 Scrying (4th) (ritual) (32)
 
+Type: Divination\
 Range: self\
 Components: V/S\
 Duration: concentration up to 10 minutes\
@@ -3488,6 +3740,7 @@ invisible objects. The wisdom save's DC may be modified by the following:
 
 Chain Lightning (4th) (33)
 
+Type: Evocation\
 Range: 120 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -3506,6 +3759,7 @@ been targeted.
 
 Sunburst (4th) (33)
 
+Type: Evocation\
 Range: self, 120 foot line\
 Components: V/S\
 Duration: Instantaneous\
@@ -3521,22 +3775,23 @@ A ray of golden light sears forward from the palms of your hands, in a line 120 
 
 Conjure Demon (5th) (1)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S/M (an item inscribed with a demon's true name)\
 Duration: 1 hour\
 Casting Time: 1 action\
 Description:\
-You summon a demon of danger level 5 or lower. The demon is under your control
+You summon a demon of your choice. The demon is under your control
 for an hour and is capable of performing verbal commands for that duration.
 After an hour the demon is free to act as it wishes on your plane. The demon
 appears at a point within 30 feet.
 
 ---
 
----
 
 Summon Undead Horde (5th) (2)
 
+Type: Necromancy\
 Range: 200 Feet\
 Components: V/S\
 Duration: 1 week\
@@ -3556,6 +3811,7 @@ may be healed for 1d6 hitpoints when mending is cast on them.
 
 Disintegrate (5th) (3)
 
+Type: Evocation\
 Range: 120 feet\
 Components: V/S\
 Duration: Instantaneous\
@@ -3571,6 +3827,7 @@ under the obliterated status effect.
 
 Time Stop (5th) (4)
 
+Type: Abjuration\
 Range: self\
 Components: V/M (an hourglass which is broken during casting) \
 Duration: 5 turns\
@@ -3587,6 +3844,7 @@ You may end the spell early by saying "Time will begin to move again".
 
 Rite of the Power (5th) (5)
 
+Type: Conjuration\
 Range: Self\
 Components: V \
 Duration: 1 hour\
@@ -3622,6 +3880,7 @@ the discretion of your GM.
 
 Judgement (5th) (6)
 
+Type: Evocation\
 Range: touch\
 Components: S\
 Duration: instantaneous\
@@ -3638,6 +3897,7 @@ to hell.
 
 Gateway (5th) (7)
 
+Type: Conjuration\
 Range: Unlimited\
 Components: V/S/M (an item worth 1000 GP)\
 Duration: concentration up to 10 minutes\
@@ -3654,6 +3914,7 @@ area described and back to the location of casting as they please for that time.
 
 Perish (5th) (8)
 
+Type: Enchantment\
 Range: 60 feet\
 Components: V\
 Duration: instantaneous\
@@ -3666,6 +3927,7 @@ within range. If the target currently has 80 hitpoits or less they fall dead.
 
 Invincibility (5th) (9)
 
+Type: Abjuration\
 Range: Touch\
 Components: V/S/M (A bar of dreadite valued at 1000 GP)\
 Duration: 10 minutes\
@@ -3678,6 +3940,7 @@ duration.
 
 Heal (5th) (10)
 
+Type: Abjuration\
 Range: 300 feet\
 Components: V\
 Duration: instantaneous\
@@ -3691,6 +3954,7 @@ wish amongst the targets.
 
 Shapeshift (5th) (11)
 
+Type: Transmutation\
 Range: Self\
 Components: V/S\
 Duration: 1 hour\
@@ -3703,6 +3967,7 @@ mental ones, just the same as a polymorph spell.
 
 Regenerate (5th) (12)
 
+Type: Abjuration\
 Range: touch\
 Components: V/S\
 Duration: 8 hours\
@@ -3718,6 +3983,7 @@ them.
 
 Raise Dead (5th) (13)
 
+Type: Necromancy\
 Range: touch\
 Components: V/S/M (A gem worth 2500 GP)\
 Duration: instantaneous\
@@ -3732,6 +3998,7 @@ and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2)
 
 Miracle (5th) (14)
 
+Type: Conjuration\
 Range: self\
 Components: V/S/M (a holy symbol)\
 Duration: instantaneous\
@@ -3752,6 +4019,7 @@ your miracle.
 
 Mindwash (5th) (15)
 
+Type: Enchantment\
 Range: self\
 Components: V/S\
 Duration: until dispelled\
@@ -3770,6 +4038,7 @@ lying.
 
 Clone (5th) (16)
 
+Type: Conjuration\
 Range: self\
 Components: V/S/M (A lock of hair, patch of skin, or drop of blood from a creature, and a platinum cloning vat made from 5000 GP worth of materials)\
 Duration: instantaneous\
@@ -3779,13 +4048,14 @@ You make an identical duplicate of a creature using a lock of their hair, a
 patch of their skin, or a drop of their blood. This duplicate has no memories
 but is sentient and capable of acting on its own, it knows the same languages
 as the cloned creature but nothing else. You may make alterations to the
-creature during the casting of the spell using the same components from the \
+creature during the casting of the spell using the same components from the 
 casting but sourced from different creatures. Alterations of clones may cause
 unintended effects, as decided by your GM.
 
 ---
 Mindswap (5th) (17)
 
+Type: Enchantment\
 Range: touch\
 Components: V/S\
 Duration: Concentration, up to 1 hour after which the effect is permanent\
@@ -3805,6 +4075,7 @@ take 4d10+10 psychic damage.
 ---
 Kastoro's Blazing Sea (5th) (17)
 
+Type: Evocation\
 Range: 120ft\
 Components: V/S\
 Duration: Concentration, up to 1 minute\
@@ -3829,6 +4100,7 @@ their turn, or ends their turn there takes 8d8 fire damage.
 
 Black Hole (6th) (1)
 
+Type: Conjuration\
 Range: 300 feet\
 Components: V/S/M (a priceless vial of antimatter)\
 Duration: 10 minutes\
@@ -3850,6 +4122,7 @@ they may repeat this check every turn that the blackhole is at play.
 
 Seraphic Transformation (6th) (2)
 
+Type: Transmutation\
 Range: self\
 Components: V/S/M (the blood of an angel)\
 Duration: Instantaneous\
@@ -3866,6 +4139,7 @@ spell, only being reduced to 1 hitpoint if it would kill them.
 
 Longevity (6th) (3)
 
+Type: Necromancy\
 Range: self\
 Components: V/S/M (the destroyed phylactery of a dead lich)\
 Duration: instantaneous\
@@ -3879,6 +4153,7 @@ this spell adds a year to your natural lifespan.
 
 Time Jump (6th) (4)
 
+Type: Conjuration\
 Range: 30 feet\
 Components: V/S/M (the sands of time)\
 Duration: instantaneous\
@@ -3908,6 +4183,7 @@ You and up to five willing creatures in range are jolted backwards in time. You 
 
 Summon Leviathan (6th) (5)
 
+Type: Provocation
 Range: 1 mile\
 Components: V/S/M (The soul of a God)\
 Duration: instantaneous\
@@ -3930,6 +4206,7 @@ You conjure a Leviathan, a remnant of a long dead reality, locked in the depths 
 
 Grand Resurrection (6th) (5)
 
+Type: Abjuration\
 Range: Unlimited\
 Components: V/M (A living soul which is obliterated during casting)\
 Duration: instantaneous\
@@ -3944,6 +4221,7 @@ feet of you.
 
 Hades (6th) (6)
 
+Type: Evocation\
 Range: Self\
 Components: V/S/M (the charred skull of a creature burned alive)\
 Duration: instantaneous/30 years\

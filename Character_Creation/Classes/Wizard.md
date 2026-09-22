@@ -184,7 +184,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 - Beast Tongue
 - Thunderwave
 - Witch Bolt
-- Summon Green Slime
+- Summon Glob Swarm
 
 ## 2nd Level Spells
 - Alter Self
@@ -219,6 +219,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 - Spider Climb
 - Suggestion
 - Rewind
+- Summon Rava
 
 ## 3rd Level Spells
 - Blink
@@ -254,6 +255,7 @@ You are capable of casting 6th level spells, Spells which are so strong that the
 - Vass' Psychic Blast
 - Stoneskin
 - Snowball
+- Summon Greg
 
 ## 4th Level Spells
 - Arcane Eye
