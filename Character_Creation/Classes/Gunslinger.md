@@ -98,7 +98,7 @@ When the magazine is fully expended you must expend an action to reload it, retu
 ### Automatic
 An automatic weapon may be fired as a bonus action. You may also use an action with an automatic weapon to fire 10 times wildly into an area 10 feet by 10 feet within the effective range. Creatures within the area must make a Dexterity saving throw against 8 + Your proficiency bonus + Your dexterity modifier or take damage as if they were hit by an attack.
 
-**Automatic Only.** An automatic weapon may not be fired with a bonus action; only as an action to fire 10 times wildly.
+**Automatic Only.** An automatic only weapon may not be fired with a bonus action; only as an action to fire 10 times wildly.
 
 ### Misfire
 When you roll a natural roll of your misfire score or lower you must expend an
