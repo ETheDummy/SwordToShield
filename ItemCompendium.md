@@ -193,6 +193,19 @@ Adventuring necessitates equipment.
 | --------------------------- | -------- | ------ |
 ```
 
+## Wine, Spirits, and Drugs
+```
+| --------------------------- | -------- | ------ |
+| Cigarette (cheap)           | 1   cp   | _      |
+| Cigarette (fine)            | 1   gp   | _      |
+| Distilled Spirits (2 fl oz) | 1   sp   | 1/8 lb.|
+| Morphine (dilute in saline) | 100  gp  | _      |
+| Opium                       | 10  gp   | _      |
+| Wine (Cheap) (25 fl oz)     | 2   gp   | 10 lb. |
+| Wine (Nice) (25 fl oz)      | 10  gp   | 10 lb. |
+| Wine (Fine) (25 fl oz)      | 100 gp   | 10 lb. |
+| --------------------------- | -------- | ------ |
+```
 ## Water Containers
 
 ```
@@ -385,6 +398,27 @@ On a failure, the creature receives 1 piercing damage and their movement is
 reduced to 0. A creature who moves carefully treats the square as difficult 
 terrain and rolls normally. A creature who moves normally rolls with 
 disadvantage.
+
+### Distilled Spirits
+You may consume any amount of distilled spirits as a bonus action. After consuming an amount of shots (2fl oz each) of distilled spirits equal to your constitution modifier you gain the "drunken" status effect for 1 hour. The amount of shots to become drunk doubles for each size above medium that you are.
+
+### Morphine
+You may consume morphine as a bonus action. Morphine is a potent painkiller, isolated from opium by alchemists through advanced methods. After consuming morphine you become immune to the "downed" status effect for 1d4 turns and gain the "Euphoric" status effect for the same amount of time. During this time, you still take damage, and if you would be downed you start expending hit dice to make death saving throws, dying if you fail three. 
+
+### Opium
+You may consume morphine as a bonus action. After consuming opium you gain the "Euphoric" status effect for 1d4 turns.
+
+### Wine
+You may consume any amount of wine as a bonus action. After consuming a number of cups of wine equal to your constitution modifier you gain the "drunken" status effect for 1 hour. The number of cups to become drunk doubles for each size above medium that you are.
+
+### Wine (fine)
+You may consume any amount of fine wine as a bonus action. After consuming a number of cups of fine wine equal to your constitution modifier you gain the "drunken" status effect for 1 hour. The number of cups to become drunk doubles for each size above medium that you are. After you are no longer drunk, you do not gain the 'low' status effect.
+
+### Cigarette (cheap)
+This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a harsh tarr-y flavor and leaves a bad taste in your mouth. While consuming the cigarette you gain a +2 to perception checks and persuasion checks. These things are bad for you, you know?
+
+### Cigarette (fine)
+This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a smooth and mild flavor flanked by a sweet minty taste. While consuming the cigarette you gain a +2 to perception checks and persuasion checks. These things are bad for you, you know?
 
 # Armors
 Adventuring is a dangerous job, remember to wear a helmet!
