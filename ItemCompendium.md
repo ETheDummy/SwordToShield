@@ -415,10 +415,10 @@ You may consume any amount of wine as a bonus action. After consuming a number o
 You may consume any amount of fine wine as a bonus action. After consuming a number of cups of fine wine equal to your constitution modifier you gain the "drunken" status effect for 1 hour. The number of cups to become drunk doubles for each size above medium that you are. After you are no longer drunk, you do not gain the 'low' status effect.
 
 ### Cigarette (cheap)
-This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a harsh tarr-y flavor and leaves a bad taste in your mouth. While consuming the cigarette you gain a +2 to perception checks and persuasion checks. These things are bad for you, you know?
+This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a harsh tarr-y flavor and leaves a bad taste in your mouth. While consuming the cigarette you gain a +2 to perception checks and intimidation checks. These things are bad for you, you know?
 
 ### Cigarette (fine)
-This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a smooth and mild flavor flanked by a sweet minty taste. While consuming the cigarette you gain a +2 to perception checks and persuasion checks. These things are bad for you, you know?
+This cigarette may be lit as a bonus action and burns for 1 minute, during which you may smoke it. It carries a smooth and mild flavor flanked by a sweet minty taste. While consuming the cigarette you gain a +2 to perception checks and intimidation checks. These things are bad for you, you know?
 
 # Armors
 Adventuring is a dangerous job, remember to wear a helmet!
