@@ -201,9 +201,9 @@ Adventuring necessitates equipment.
 | Distilled Spirits (2 fl oz) | 1   sp   | 1/8 lb.|
 | Morphine (dilute in saline) | 100  gp  | _      |
 | Opium                       | 10  gp   | _      |
-| Wine (Cheap) (25 fl oz)     | 2   gp   | 10 lb. |
-| Wine (Nice) (25 fl oz)      | 10  gp   | 10 lb. |
-| Wine (Fine) (25 fl oz)      | 100 gp   | 10 lb. |
+| Wine (Cheap) (25 fl oz)     | 2   gp   | 3 lb.  |
+| Wine (Nice) (25 fl oz)      | 10  gp   | 3 lb.  |
+| Wine (Fine) (25 fl oz)      | 100 gp   | 3 lb.  |
 | --------------------------- | -------- | ------ |
 ```
 ## Water Containers
