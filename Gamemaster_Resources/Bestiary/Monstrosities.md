@@ -48,7 +48,54 @@ within 5 feet of an ally
 
 # Actions
 
-``` 
+```
+
+### Changed
+
+Changed are made through tearing apart and reconstructing humanoid bodies in unusual ways. These necrotic creatures come in in all manners of configuration, and blur the line between monstrosities and undead.
+
+```
+Changed
+Medium Monstrosity (abomination)
+XP: 250
+HP: 22
+AC: 12
+Speed: 30ft
+Proficiency Bonus: +2
+
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 15| 14| 08| 04| 04|
+| +3| +2| +2| -1| -3| -3|
+|   |   |   |   |   |   |
+
+Features
+
+Scream. 60ft radius. Whenever a creature hears the scream of this Changed for the first time, they must pass a DC WIS save or lose 1d2 sanity. The DC is equal to 10 + the number of Changed that the creature can see. This can also draw other Changed within 60ft.
+
+Tear. +5 to hit, 1d6+3 slashing damage. 5ft range
+
+Flavors:
+
+A torso with its legs reattached to its shoulders, crawling with 4 limbs stretched out ahead.
+
+A head with a long chain of arms and legs stretched out behind it that moves like a snake
+
+Two torsos and two heads, arms and legs doubled in length, lopes like a dog
+
+A person with all their fingers and toes grafted to their face
+
+Head twisted against the shoulder, legs and arms switched, can barely walk
+
+Something reminiscent of an octopus
+
+A person who walks on their knees, head cut off and shoved into a hole in their chest. heart beating on the neck stump
+
+Left half of a guy
+
+Right half of a guy
+
+torso, great gash going down the saggital line, arms and legs erupt from the gash - no eyes on the head, but the arms and legs are covered in them
+```
 
 ## Thropes
 Thropes are monsters which have been inflicted with a transmittable curse. This
