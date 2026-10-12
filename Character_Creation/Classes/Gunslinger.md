@@ -123,14 +123,14 @@ The dynamite launcher fires a stick of dynamite, lighting it as it is fired, at 
 ### Penetrating
 A bullet fired by a normal weapon cannot pass through any barrier more substantial than a wooden wall or a creature without tumbling and becoming ineffective. A weapon with the penetrating property, however, can effectively pass through 6 inches of steel or 5 feet of stone, and any thickness of wood or flesh. 
 
+**Automatic and Penetrating weapons.** When a weapon with both the Automatic and Penetrating property uses an action to fire wildly into a 10x10 space, it may instead choose to fire in a 5ft wide line with the length of the effective range of the weapon. Any creature or structure in this line takes damage as if it was hit by an attack.
+
 ### Explosive Rocket
 When fired from a rocket launcher at a target or upon taking bludgeoning damage, this rocket explodes. All creatures within 30 feet of the rocket's explosion take 6d8 force damage and are blown 10 feet back from the origin of the explosion. 
 
 
 ### Incendiary Rocket
-When fired from a rocket launcher at a target or upon taking bludgeoning damage, this rocket explodes. All creatures within 30 feet of the rocket's explosion take 3d8 force damage and a 30 foot radius sphere of fire is created around the point of impact. Any creature who starts their turn in the fire, or enters the fire on their turn, takes 2d8+2 fire damage. The fire continues to burn for 10 minutes.  
-
-**Automatic and Penetrating weapons.** When a weapon with both the Automatic and Penetrating property uses an action to fire wildly into a 10x10 space, it may instead choose to fire in a 5ft wide line with the length of the effective range of the weapon. Any creature or structure in this line takes damage as if it was hit by an attack.
+When fired from a rocket launcher at a target or upon taking bludgeoning damage, this rocket explodes. All creatures within 30 feet of the rocket's explosion take 3d8 force damage and a every surface in a 30 foot radius is lit on fire. Any creature who starts their turn in the fire, or enters the fire on their turn, takes 2d8+2 fire damage. The fire continues to burn for 10 minutes.  
 
 ```
 Simple Pistol
@@ -284,7 +284,7 @@ Range 240
 Magazine: 1
 Scrap Cost: 1200
 Properties: Reloading, Two-Handed, Heavy, Cumbersome
-Ammo Type: AP
+Ammo Type: Rocket
 Misfire Score: 1
 ```
 
