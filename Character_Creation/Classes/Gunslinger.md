@@ -106,14 +106,13 @@ action to make check with your smith's tools or tinker's tools where the DC is
 10 + the misfire score of your firearm in order to unjam the weapon. If you fail you must unjam the weapon during a rest to return it to an operational state.
 
 ### Dynamite
-Dynamite may be lit and thrown as an action, dealing 5d6 force damage over a 20
-foot radius sphere centered on a point within 40 feet of the thrower. It may also be lit as an action and set to explode within up to 1 minute of lighting.
+Dynamite may be lit and thrown to a point within 40 feet as an action, it may also be lit as an action and set to explode within up to 1 minute of lighting. All creatures within 20 feet of the explosion must make a DC 15 dexterity saving throw, taking 5d6 force damage or half as much on a success.
 
 ### Speed-loader
 You may pre-load a speed-loader with ammunition for a firearm, allowing you to quickly reload a weapon. You may use a full speed-loader to reload a weapon as a bonus action rather than an action, the speed-loader must be filled with an amount of bullets equal to the maximum capacity of the firearm it is reloading. After speed-loading a firearm, the speed-loader becomes empty and must be reloaded over the course of 1 minute before being used again.
 
 ### Cumbersome
-In order to reload a cumbersome weapon expend an action to make a DC 16 dexterity saving throw, on a success the weapon is reloaded. A cumbersome weapon also may not be modified to hold more than 1 round.
+A cumbersome weapon may not be modified to hold more than 1 round.
 
 ### Kick
 When you fire a weapon with the kick property, make a DC 16 strength saving throw, on a failure you are pushed 5 feet back from the direction you fired and fall prone.
@@ -123,6 +122,13 @@ The dynamite launcher fires a stick of dynamite, lighting it as it is fired, at 
 
 ### Penetrating
 A bullet fired by a normal weapon cannot pass through any barrier more substantial than a wooden wall or a creature without tumbling and becoming ineffective. A weapon with the penetrating property, however, can effectively pass through 6 inches of steel or 5 feet of stone, and any thickness of wood or flesh. 
+
+### Explosive Rocket
+When fired from a rocket launcher at a target or upon taking bludgeoning damage, this rocket explodes. All creatures within 30 feet of the rocket's explosion take 6d8 force damage and are blown 10 feet back from the origin of the explosion. 
+
+
+### Incendiary Rocket
+When fired from a rocket launcher at a target or upon taking bludgeoning damage, this rocket explodes. All creatures within 30 feet of the rocket's explosion take 3d8 force damage and a 30 foot radius sphere of fire is created around the point of impact. Any creature who starts their turn in the fire, or enters the fire on their turn, takes 2d8+2 fire damage. The fire continues to burn for 10 minutes.  
 
 **Automatic and Penetrating weapons.** When a weapon with both the Automatic and Penetrating property uses an action to fire wildly into a 10x10 space, it may instead choose to fire in a 5ft wide line with the length of the effective range of the weapon. Any creature or structure in this line takes damage as if it was hit by an attack.
 
@@ -232,7 +238,7 @@ Misfire Score: 5
 
 ```
 Dynamite Launcher
-Range 240
+Range 120
 Magazine: 1
 Scrap Cost: 100
 Damage: 1d8 + Dex bludgeoning
@@ -273,9 +279,31 @@ Misfire Score: 2
 ```
 
 ```
+Rocket Launcher
+Range 240
+Magazine: 1
+Scrap Cost: 1200
+Properties: Reloading, Two-Handed, Heavy, Cumbersome
+Ammo Type: AP
+Misfire Score: 1
+```
+
+```
 AP ammo
 Scrap Cost: 20
 Amount: 10
+```
+
+```
+Explosive Rocket
+Scrap Cost: 60
+Amount: 1
+```
+
+```
+Incendary Rocket
+Scrap Cost: 80
+Amount: 1
 ```
 
 ---
