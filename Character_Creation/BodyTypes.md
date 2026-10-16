@@ -545,7 +545,13 @@ Cost: 1 point per 5 feet
 Description:
 You gain 5 feet of walking speed for each point you invest into this feature.
 ```
-
+44
+```
+Name: Corruption Immune
+Cost: 5 points
+Description:
+You are immune to the effects of corruptive anti-mana, and may never roll on any corruption table, good or bad.
+```
 
 # Optional: Innate Limitations
 Your GM may allow you to take on limitations to your character which give you more character points to buy innate features with! The "points returned" line of each limitation describes how many points you are given back by taking a limitation. You may only take 10 points worth of limitations unless your GM says otherwise. Limitations are numbered for convenience.
@@ -733,6 +739,20 @@ Name: Poor Temper
 Points Returned: 6 points
 Description:
 You have a bad temper about you. Whenever someone makes a slight against you (Real or simply perceived) roll a wisdom saving throw against a DC 16. On a failure you become enraged, you must take an action against the person who slighted you one level of escalation greater than their action, calm dialogue becomes yelling, yelling becomes threats, threats becomes physical violence, physical violence becomes deadly force. You may make another wisdom check against this enraged state at the end of each of your turns or every minute, ending it on a success. 
+```
+26
+```
+Name: Hopelessly Blunt
+Points Returned: 7 points
+Description:
+You cannot tell a lie, even when it is probably the better idea, and you are extremely blunt in social situations. This differs from a supernatural mannerism in that you cannot even bend the truth, you tell the whole truth honestly and bluntly. 
+```
+27
+```
+Name: Magically Incapable
+Points Returned: 10 points
+Description:
+You are completely incapable of interacting with magic in any meaningful way. You automatically fail saving throws against spell effects and may not cast spells even through magic items and spell scrolls. 
 ```
 
 ## Racial Presets

@@ -64,7 +64,7 @@ GM = Gunslinger Maneuvers Known
 You are capable of crafting firearms and ammo over the course of a rest, using scrap and smith's tools. Refer to the list of firearms at the end of this document for their statistics as well as their scrap cost.
 
 ### Scrap
-You are capable of scrapping 10 lbs of metal material, turning it into a usable unit of scrap.
+You are capable of scrapping 5 lbs of metal material, turning it into a usable unit of scrap.
 
 ### Modify
 You are capable of applying modifications to your firearms, increasing their effectiveness in certain ways. These modifications may be applied to any weapon during their crafting or later as part of a rest. Modifications and their scrap cost are listed at the end of this document. Certain weapon modifications are not available to you until certain levels.

@@ -490,6 +490,11 @@ feet of the creature. Otherwise, the attack roll has disadvantage.
 asleep for 12 hours
 - A low creature has disadvantage on all rolls
 
+### Crazed
+- A crazed creature acts erratically and often times takes actions opposed to their normal beliefs
+- A crazed creature attacks the nearest creature to them, moving closer to attack if they must
+- If no creature is within range for a crazed creature to attack, it will take the dash action to move toward potential targets
+
 ### Exhausted
 Exhaustion works in stages and goes back one stage each rest a creature takes. Refer to the following chart for the stages of exhaustion:
 

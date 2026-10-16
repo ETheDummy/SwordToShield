@@ -410,6 +410,14 @@ This stim injector may be placed to the skin of a creature and activated as a bo
 ```
 
 ```
+Antidote Injector
+Requires: N/A
+Crafting Cost: 10 scrap, 1 bottle of antidote, 1 simple battery
+Description:
+This Antidote injector may be placed to the skin of a creature and activated as a bonus action, or set into place preemptively and activated as a free action. When activated the antidote injector injects a solution that neutralizes poison inside the target creature, the antidote injector then ceases function forever.
+```
+
+```
 Powered Drill
 Requires: Power Source
 Crafting Cost: 50 scrap
@@ -508,7 +516,7 @@ Selective Trigger
 Crafting Cost: 250 scrap
 Requirements: N/A
 Description:
-You place some kind of logical device on this invention which causes it to trigger autonomously in a specific circumstance. You must define this circumstance when you apply this modific. The trigger may be complex, relying on sound, sight, or a combination of both. When the conditions to trigger are met the invention activates, consuming charges or ammo as normal.  
+You place some kind of logical device on this invention which causes it to trigger autonomously in a specific circumstance. You must define this circumstance when you apply this modification. The trigger may be complex, relying on sound, sight, or a combination of both. When the conditions to trigger are met the invention activates, consuming charges or ammo as normal.  
 ```
 
 ### Power Sources
